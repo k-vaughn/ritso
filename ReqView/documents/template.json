@@ -1,0 +1,97 @@
+{
+  "id": "template",
+  "guid": "f083e9b7-ca4c-442b-8673-b9f85651b93f",
+  "name": "Template",
+  "lastId": 0,
+  "createdOn": "2026-07-22T15:53:20.584Z",
+  "createdBy": {
+    "name": "Ken Vaughn",
+    "email": "kvaughn@trevilon.com",
+    "company": "Trevilon"
+  },
+  "lastChangedOn": "2026-07-22T15:53:20.584Z",
+  "lastChangedBy": {
+    "name": "Ken Vaughn",
+    "email": "kvaughn@trevilon.com",
+    "company": "Trevilon"
+  },
+  "data": [],
+  "attributes": {
+    "diagram": {
+      "name": "Diagram",
+      "type": "string"
+    },
+    "qname": {
+      "name": "QName",
+      "type": "string"
+    },
+    "type": {
+      "name": "Type",
+      "type": "enum",
+      "values": [
+        {
+          "default": false,
+          "key": "Class",
+          "label": "Class"
+        },
+        {
+          "default": false,
+          "key": "ObjectProperty",
+          "label": "Object Property"
+        },
+        {
+          "default": false,
+          "key": "DataProperty",
+          "label": "Data Property"
+        }
+      ]
+    },
+    "updated": {
+      "name": "Last Update",
+      "type": "string"
+    },
+    "website": {
+      "name": "Website",
+      "type": "string"
+    }
+  },
+  "templateColumns": {
+  },
+  "views": {
+    "Primary": {
+      "columns": [
+        {
+          "columnId": "id",
+          "width": 65
+        },
+        {
+          "columnId": "description",
+          "width": 500
+        },
+        {
+          "columnId": "qname",
+          "width": 150
+        },
+        {
+          "columnId": "diagram",
+          "width": 150
+        },
+        {
+          "columnId": "website",
+          "width": 150
+        },
+        {
+          "columnId": "updated",
+          "width": 150
+        }
+      ],
+      "default": true
+    }
+  },
+  "properties": {
+    "namespace": "https://w3id.org/itsdata/time/v1/"
+  },
+  "metadata": {
+    "format": "2.22"
+  }
+}

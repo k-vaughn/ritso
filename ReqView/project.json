@@ -3,7 +3,8 @@
   "description": "ReqView representation of the Registry for ITS Ontologies (RITSO)",
   "documents": [
     "its-regulation.json",
-    "its-time.json"
+    "its-time.json",
+    "template.json"
   ],
   "traceability": {
     "reference": {
@@ -13,7 +14,7 @@
     }
   },
   "metadata": {
-    "format": "2.20",
+    "format": "2.22",
     "saveHistory": true
   }
 }
