@@ -1,0 +1,97 @@
+{
+  "id": "its-regulation",
+  "guid": "cd19556f-caf0-47d9-8d17-eaf22d7ff2a3",
+  "name": "ITS Traffic Regulations",
+  "lastId": 0,
+  "createdOn": "2026-07-22T16:12:45.108Z",
+  "createdBy": {
+    "name": "Ken Vaughn",
+    "email": "kvaughn@trevilon.com",
+    "company": "Trevilon"
+  },
+  "lastChangedOn": "2026-07-22T16:12:45.108Z",
+  "lastChangedBy": {
+    "name": "Ken Vaughn",
+    "email": "kvaughn@trevilon.com",
+    "company": "Trevilon"
+  },
+  "data": [],
+  "attributes": {
+    "diagram": {
+      "name": "Diagram",
+      "type": "string"
+    },
+    "qname": {
+      "name": "QName",
+      "type": "string"
+    },
+    "type": {
+      "name": "Type",
+      "type": "enum",
+      "values": [
+        {
+          "default": false,
+          "key": "Class",
+          "label": "Class"
+        },
+        {
+          "default": false,
+          "key": "ObjectProperty",
+          "label": "Object Property"
+        },
+        {
+          "default": false,
+          "key": "DatatypeProperty",
+          "label": "Datatype Property"
+        }
+      ]
+    },
+    "updated": {
+      "name": "Last Update",
+      "type": "string"
+    },
+    "website": {
+      "name": "Website",
+      "type": "string"
+    }
+  },
+  "templateColumns": {
+  },
+  "views": {
+    "Primary": {
+      "columns": [
+        {
+          "columnId": "id",
+          "width": 65
+        },
+        {
+          "columnId": "description",
+          "width": 500
+        },
+        {
+          "columnId": "qname",
+          "width": 150
+        },
+        {
+          "columnId": "diagram",
+          "width": 150
+        },
+        {
+          "columnId": "website",
+          "width": 150
+        },
+        {
+          "columnId": "updated",
+          "width": 150
+        }
+      ],
+      "default": true
+    }
+  },
+  "properties": {
+    "namespace": "https://w3id.org/itsdata/time/v1/"
+  },
+  "metadata": {
+    "format": "2.22"
+  }
+}
