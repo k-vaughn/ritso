@@ -2,7 +2,6 @@
   "id": "RITSO",
   "description": "ReqView representation of the Registry for ITS Ontologies (RITSO)",
   "documents": [
-    "its-regulation.json",
     "its-time.json",
     "template.json"
   ],
