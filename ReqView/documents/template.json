@@ -9,7 +9,7 @@
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "lastChangedOn": "2026-07-22T15:53:20.584Z",
+  "lastChangedOn": "2026-07-22T15:58:08.873Z",
   "lastChangedBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
@@ -41,8 +41,8 @@
         },
         {
           "default": false,
-          "key": "DataProperty",
-          "label": "Data Property"
+          "key": "DatatypeProperty",
+          "label": "Datatype Property"
         }
       ]
     },
