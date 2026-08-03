@@ -9,7 +9,7 @@
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "lastChangedOn": "2026-04-15T17:58:25.605Z",
+  "lastChangedOn": "2026-08-03T19:44:42.146Z",
   "lastChangedBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
@@ -25,7 +25,7 @@
       "qname": "FuzzyTime",
       "type": "Class",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/FuzzyTime",
+      "website": "<p>https://w3id.org/itsdata/time/v1/FuzzyTime</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -152,6 +152,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/FuzzyTime"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -164,7 +175,7 @@
       "qname": "DayWeekMonth",
       "type": "Class",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/DayWeekMonth",
+      "website": "<p>https://w3id.org/itsdata/time/v1/DayWeekMonth</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -236,6 +247,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/DayWeekMonth"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -248,7 +270,7 @@
       "qname": "ValidityStatusCode",
       "type": "Class",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/ValidityStatusCode",
+      "website": "<p>https://w3id.org/itsdata/time/v1/ValidityStatusCode</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -320,6 +342,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/ValidityStatusCode"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -332,7 +365,7 @@
       "qname": "InstanceOfDayWithinMonth",
       "type": "Class",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/InstanceOfDayWithinMonth",
+      "website": "<p>https://w3id.org/itsdata/time/v1/InstanceOfDayWithinMonth</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -404,6 +437,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/InstanceOfDayWithinMonth"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -416,7 +460,7 @@
       "qname": "PublicEventCode",
       "type": "Class",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/PublicEventCode",
+      "website": "<p>https://w3id.org/itsdata/time/v1/PublicEventCode</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -488,6 +532,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/PublicEventCode"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -500,7 +555,7 @@
       "qname": "PublicHoliday",
       "type": "Class",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/PublicHoliday",
+      "website": "<p>https://w3id.org/itsdata/time/v1/PublicHoliday</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -572,6 +627,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/PublicHoliday"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -584,7 +650,7 @@
       "qname": "ClockTime",
       "type": "Class",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/ClockTime",
+      "website": "<p>https://w3id.org/itsdata/time/v1/ClockTime</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -656,6 +722,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/ClockTime"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -668,7 +745,7 @@
       "qname": "SpecialDay",
       "type": "Class",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/SpecialDay",
+      "website": "<p>https://w3id.org/itsdata/time/v1/SpecialDay</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -740,6 +817,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/SpecialDay"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -752,7 +840,7 @@
       "qname": "ScheduleThing",
       "type": "Class",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/ScheduleThing",
+      "website": "<p>https://w3id.org/itsdata/time/v1/ScheduleThing</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -824,6 +912,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/ScheduleThing"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -836,7 +935,7 @@
       "qname": "TimePeriodOfDay",
       "type": "Class",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/TimePeriodOfDay",
+      "website": "<p>https://w3id.org/itsdata/time/v1/TimePeriodOfDay</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -908,6 +1007,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/TimePeriodOfDay"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -920,7 +1030,7 @@
       "qname": "Period",
       "type": "Class",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/Period",
+      "website": "<p>https://w3id.org/itsdata/time/v1/Period</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -992,6 +1102,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/Period"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -1004,7 +1125,7 @@
       "qname": "Schedule",
       "type": "Class",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/Schedule",
+      "website": "<p>https://w3id.org/itsdata/time/v1/Schedule</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1076,6 +1197,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/Schedule"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -1088,7 +1220,7 @@
       "qname": "TimeOfDay",
       "type": "Class",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/TimeOfDay",
+      "website": "<p>https://w3id.org/itsdata/time/v1/TimeOfDay</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1160,6 +1292,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/TimeOfDay"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -1172,7 +1315,7 @@
       "qname": "WeekCode",
       "type": "Class",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/WeekCode",
+      "website": "<p>https://w3id.org/itsdata/time/v1/WeekCode</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1244,6 +1387,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/WeekCode"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -1256,7 +1410,7 @@
       "qname": "DateWithinMonth",
       "type": "Class",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/DateWithinMonth",
+      "website": "<p>https://w3id.org/itsdata/time/v1/DateWithinMonth</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1328,6 +1482,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/DateWithinMonth"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -1340,7 +1505,7 @@
       "qname": "OverallPeriod",
       "type": "Class",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/OverallPeriod",
+      "website": "<p>https://w3id.org/itsdata/time/v1/OverallPeriod</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1412,6 +1577,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/OverallPeriod"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -1424,7 +1600,7 @@
       "qname": "FuzzyTimeCode",
       "type": "Class",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/FuzzyTimeCode",
+      "website": "<p>https://w3id.org/itsdata/time/v1/FuzzyTimeCode</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1496,6 +1672,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/FuzzyTimeCode"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -1508,7 +1695,7 @@
       "qname": "SpecialDayTypeCode",
       "type": "Class",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/SpecialDayTypeCode",
+      "website": "<p>https://w3id.org/itsdata/time/v1/SpecialDayTypeCode</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1580,6 +1767,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/SpecialDayTypeCode"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -1592,7 +1790,7 @@
       "qname": "CalendarWeekWithinMonth",
       "type": "Class",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/CalendarWeekWithinMonth",
+      "website": "<p>https://w3id.org/itsdata/time/v1/CalendarWeekWithinMonth</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1664,6 +1862,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/CalendarWeekWithinMonth"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -1675,7 +1884,7 @@
       "qname": "TimeObjectProperty",
       "type": "ObjectProperty",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/TimeObjectProperty",
+      "website": "<p>https://w3id.org/itsdata/time/v1/TimeObjectProperty</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1703,6 +1912,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/TimeObjectProperty"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -1713,7 +1933,7 @@
       "qname": "timeReference",
       "type": "ObjectProperty",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/timeReference",
+      "website": "<p>https://w3id.org/itsdata/time/v1/timeReference</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1741,6 +1961,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/timeReference"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -1752,7 +1983,7 @@
       "qname": "ScheduleObjectProperty",
       "type": "ObjectProperty",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/ScheduleObjectProperty",
+      "website": "<p>https://w3id.org/itsdata/time/v1/ScheduleObjectProperty</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1780,6 +2011,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/ScheduleObjectProperty"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -1791,7 +2033,7 @@
       "qname": "applicableArea",
       "type": "ObjectProperty",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/applicableArea",
+      "website": "<p>https://w3id.org/itsdata/time/v1/applicableArea</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1819,6 +2061,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/applicableArea"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -1830,7 +2083,7 @@
       "qname": "applicableDayOfWeek",
       "type": "ObjectProperty",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/applicableDayOfWeek",
+      "website": "<p>https://w3id.org/itsdata/time/v1/applicableDayOfWeek</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1858,6 +2111,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/applicableDayOfWeek"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -1869,7 +2133,7 @@
       "qname": "applicableMonth",
       "type": "ObjectProperty",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/applicableMonth",
+      "website": "<p>https://w3id.org/itsdata/time/v1/applicableMonth</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1897,6 +2161,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/applicableMonth"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -1908,7 +2183,7 @@
       "qname": "applicableWeek",
       "type": "ObjectProperty",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/applicableWeek",
+      "website": "<p>https://w3id.org/itsdata/time/v1/applicableWeek</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1936,6 +2211,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/applicableWeek"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -1947,7 +2233,7 @@
       "qname": "dailyEndTime",
       "type": "ObjectProperty",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/dailyEndTime",
+      "website": "<p>https://w3id.org/itsdata/time/v1/dailyEndTime</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1975,6 +2261,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/dailyEndTime"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -1986,7 +2283,7 @@
       "qname": "dailyStartTime",
       "type": "ObjectProperty",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/dailyStartTime",
+      "website": "<p>https://w3id.org/itsdata/time/v1/dailyStartTime</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2014,6 +2311,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/dailyStartTime"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -2025,7 +2333,7 @@
       "qname": "exceptionPeriod",
       "type": "ObjectProperty",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/exceptionPeriod",
+      "website": "<p>https://w3id.org/itsdata/time/v1/exceptionPeriod</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2053,6 +2361,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/exceptionPeriod"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -2064,7 +2383,7 @@
       "qname": "hasPublicEventType",
       "type": "ObjectProperty",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/hasPublicEventType",
+      "website": "<p>https://w3id.org/itsdata/time/v1/hasPublicEventType</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2092,6 +2411,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/hasPublicEventType"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -2103,7 +2433,7 @@
       "qname": "hasRecurringDayWeekMonthPeriod",
       "type": "ObjectProperty",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/hasRecurringDayWeekMonthPeriod",
+      "website": "<p>https://w3id.org/itsdata/time/v1/hasRecurringDayWeekMonthPeriod</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2131,6 +2461,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/hasRecurringDayWeekMonthPeriod"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -2142,7 +2483,7 @@
       "qname": "hasRecurringSpecialDay",
       "type": "ObjectProperty",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/hasRecurringSpecialDay",
+      "website": "<p>https://w3id.org/itsdata/time/v1/hasRecurringSpecialDay</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2170,6 +2511,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/hasRecurringSpecialDay"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -2181,7 +2533,7 @@
       "qname": "hasRecurringTimePeriodOfDay",
       "type": "ObjectProperty",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/hasRecurringTimePeriodOfDay",
+      "website": "<p>https://w3id.org/itsdata/time/v1/hasRecurringTimePeriodOfDay</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2209,6 +2561,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/hasRecurringTimePeriodOfDay"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -2220,7 +2583,7 @@
       "qname": "hasSpecialDayType",
       "type": "ObjectProperty",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/hasSpecialDayType",
+      "website": "<p>https://w3id.org/itsdata/time/v1/hasSpecialDayType</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2248,6 +2611,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/hasSpecialDayType"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -2255,11 +2629,11 @@
       "id": "35",
       "guid": "35dc6c0b-efd0-4cc8-9140-628a23baeb53",
       "heading": "hasValidityStatus",
-      "text": "<p>Specifies the validity status of the schedule&#39;s logic.</p>",
+      "text": "<p>Specifies the validity status of the schedule's logic.</p>",
       "qname": "hasValidityStatus",
       "type": "ObjectProperty",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/hasValidityStatus",
+      "website": "<p>https://w3id.org/itsdata/time/v1/hasValidityStatus</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2287,6 +2661,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/hasValidityStatus"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -2298,7 +2683,7 @@
       "qname": "validityTimeSpecification",
       "type": "ObjectProperty",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/validityTimeSpecification",
+      "website": "<p>https://w3id.org/itsdata/time/v1/validityTimeSpecification</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2326,6 +2711,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/validityTimeSpecification"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     },
@@ -2337,7 +2733,7 @@
       "qname": "validPeriod",
       "type": "ObjectProperty",
       "updated": "2026-04-15T13:58:04.326601",
-      "website": "https://w3id.org/itsdata/time/v1/validPeriod",
+      "website": "<p>https://w3id.org/itsdata/time/v1/validPeriod</p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2365,6 +2761,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-04-15T17:58:25.605Z"
+        },
+        {
+          "attributesChanged": {
+            "website": "https://w3id.org/itsdata/time/v1/validPeriod"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-03T19:44:42.146Z"
         }
       ]
     }
@@ -2405,7 +2812,7 @@
     },
     "website": {
       "name": "Website",
-      "type": "string"
+      "type": "xhtml"
     }
   },
   "templateColumns": {
@@ -2449,6 +2856,6 @@
     "namespace": "https://w3id.org/itsdata/time/v1/"
   },
   "metadata": {
-    "format": "2.20"
+    "format": "2.22"
   }
 }
