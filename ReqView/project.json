@@ -6,7 +6,8 @@
     "template.json",
     "its-regulation.json",
     "its-metr.json",
-    "its-core.json"
+    "its-core.json",
+    "its-vehicle.json"
   ],
   "traceability": {
     "reference": {
