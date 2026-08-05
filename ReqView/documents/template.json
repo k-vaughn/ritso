@@ -9,7 +9,7 @@
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "lastChangedOn": "2026-08-03T19:44:20.547Z",
+  "lastChangedOn": "2026-08-05T14:31:42.574Z",
   "lastChangedBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
@@ -65,24 +65,16 @@
           "width": 65
         },
         {
-          "columnId": "description",
-          "width": 500
-        },
-        {
           "columnId": "qname",
           "width": 150
         },
         {
-          "columnId": "diagram",
-          "width": 150
+          "columnId": "description",
+          "width": 500
         },
         {
-          "columnId": "website",
-          "width": 150
-        },
-        {
-          "columnId": "updated",
-          "width": 150
+          "columnId": "links",
+          "width": 300
         }
       ],
       "default": true
