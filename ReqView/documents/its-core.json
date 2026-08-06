@@ -2,20 +2,1174 @@
   "id": "its-core",
   "guid": "b7cb8443-01bc-462e-9664-4edef0da13f5",
   "name": "ITS Core Concepts",
-  "lastId": 0,
+  "lastId": 29,
   "createdOn": "2026-08-05T14:19:49.772Z",
   "createdBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "lastChangedOn": "2026-08-05T14:19:49.772Z",
+  "lastChangedOn": "2026-08-05T14:23:31.479Z",
   "lastChangedBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "data": [],
+  "data": [
+    {
+      "id": "1",
+      "guid": "1c978f32-e909-417e-aa10-252141ebe645",
+      "heading": "OfficialThing",
+      "text": "<p>An item that is officially issued by an Agent.</p>",
+      "diagram": "https://w3id.org/itsdata/core/v1/diagrams/OfficialThing.dot.svg",
+      "qname": "OfficialThing",
+      "type": "Class",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/OfficialThing</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "guid": "83ac57d5-481c-4955-90df-cb78d76dda16",
+      "heading": "Direction",
+      "text": "<p>The orientation of a line or movement.</p>",
+      "diagram": "https://w3id.org/itsdata/core/v1/diagrams/Direction.dot.svg",
+      "qname": "Direction",
+      "type": "Class",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/Direction</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "guid": "adea4d79-cfbe-4a4a-862d-ce9bc3262db7",
+      "heading": "VersionedThing",
+      "text": "<p>An identifiable version of a managed object.</p>",
+      "diagram": "https://w3id.org/itsdata/core/v1/diagrams/VersionedThing.dot.svg",
+      "qname": "VersionedThing",
+      "type": "Class",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/VersionedThing</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "guid": "055c542a-0e6f-46fa-ae5e-0749220db7cc",
+      "heading": "ComparisonOperatorCode",
+      "text": "<p>A code representing a comparison operator.</p>",
+      "diagram": "https://w3id.org/itsdata/core/v1/diagrams/ComparisonOperatorCode.dot.svg",
+      "qname": "ComparisonOperatorCode",
+      "type": "Class",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/ComparisonOperatorCode</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "guid": "a083cf39-6bc5-4c23-b38c-518858fc2348",
+      "heading": "Code",
+      "text": "<p>A code value whose meaning is defined by membership in (or reference to) a code list.</p>",
+      "diagram": "https://w3id.org/itsdata/core/v1/diagrams/Code.dot.svg",
+      "qname": "Code",
+      "type": "Class",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/Code</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "guid": "b0197477-9e78-4f00-9a9d-60fbbb658f28",
+      "heading": "CodeList",
+      "text": "<p>A curated set of codes (a code list), maintained and versioned by some entity.</p>",
+      "diagram": "https://w3id.org/itsdata/core/v1/diagrams/CodeList.dot.svg",
+      "qname": "CodeList",
+      "type": "Class",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/CodeList</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "guid": "e1d46abc-bc8f-45ee-aa14-22bde632385a",
+      "heading": "AngleUnit",
+      "text": "<p>A specified system of units for angles.</p>",
+      "diagram": "https://w3id.org/itsdata/core/v1/diagrams/AngleUnit.dot.svg",
+      "qname": "AngleUnit",
+      "type": "Class",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/AngleUnit</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "guid": "31be4ab4-3f9d-48b9-8ee8-132e5b5b3812",
+      "heading": "Angle",
+      "text": "<p>An angle defined by two lines.</p>",
+      "diagram": "https://w3id.org/itsdata/core/v1/diagrams/Angle.dot.svg",
+      "qname": "Angle",
+      "type": "Class",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/Angle</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "guid": "1955b757-6df5-4d1e-a620-2cb2fd764812",
+      "heading": "Bearing",
+      "text": "<p>The orientation of a line or movement, measured from north (0°) clockwise.</p>",
+      "diagram": "https://w3id.org/itsdata/core/v1/diagrams/Bearing.dot.svg",
+      "qname": "Bearing",
+      "type": "Class",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/Bearing</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "guid": "51d1f8dc-c40b-47eb-9727-c9fa1f088d1f",
+      "heading": "ActivationStatusCode",
+      "text": "<p>A code indicating the activation status of an object</p>",
+      "diagram": "https://w3id.org/itsdata/core/v1/diagrams/ActivationStatusCode.dot.svg",
+      "qname": "ActivationStatusCode",
+      "type": "Class",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/ActivationStatusCode</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "guid": "a4f7b60e-25ba-4cdc-aa91-0dc0ab64188e",
+      "heading": "DirectionCode",
+      "text": "<p>A code representing orientation of a line or movement.</p>",
+      "diagram": "https://w3id.org/itsdata/core/v1/diagrams/DirectionCode.dot.svg",
+      "qname": "DirectionCode",
+      "type": "Class",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/DirectionCode</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "guid": "03c20fd0-fca4-4da3-baf9-2aadfb84766f",
+      "heading": "ITSObjectProperty",
+      "text": "<p>An object property to organize all object properties defined in all recognized ITS Ontologies.</p>",
+      "qname": "ITSObjectProperty",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/ITSObjectProperty</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "guid": "f9e95aa5-8d7b-4ffa-a047-0da57b792960",
+      "heading": "enteredBy",
+      "text": "<p>The Agent that entered the OfficialThing.</p>",
+      "qname": "enteredBy",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/enteredBy</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "guid": "b0e7e5a1-d294-4698-ba3d-00ec12c8c22a",
+      "heading": "fromCodeList",
+      "text": "<p>Associates a code with the code list that defines it.</p>",
+      "qname": "fromCodeList",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/fromCodeList</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "guid": "3de6871b-ed81-40b3-98d0-b0636d4eda68",
+      "heading": "hasActivationStatus",
+      "text": "<p>The activation status of the object.</p>",
+      "qname": "hasActivationStatus",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/hasActivationStatus</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "guid": "ddf80a74-d198-46a2-b210-a4347b7021d1",
+      "heading": "hasJurisdiction",
+      "text": "<p>The jurisdiction associated with the object.</p>",
+      "qname": "hasJurisdiction",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/hasJurisdiction</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "guid": "f77f3398-378c-4fdb-b1bd-b9341cb4e64b",
+      "heading": "hasRegisteredCode",
+      "text": "<p>Associates a code list with a registered member code.</p>",
+      "qname": "hasRegisteredCode",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/hasRegisteredCode</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "guid": "7e741688-5580-4d57-ad83-fd05f94d89ad",
+      "heading": "issuingAuthority",
+      "text": "<p>The Agent that issued the OfficialThing.</p>",
+      "qname": "issuingAuthority",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/issuingAuthority</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "guid": "a6bd8ff3-0183-47c4-bfe6-b91168c29179",
+      "heading": "managedBy",
+      "text": "<p>Associates a code list with a registered member code.</p>",
+      "qname": "managedBy",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/managedBy</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "guid": "9517adab-a06d-4502-90cc-703fe9bdd041",
+      "heading": "ITSDataProperty",
+      "text": "<p>A datatype property to organize all datatype properties defined in all recognized ITS Ontologies.</p>",
+      "qname": "ITSDataProperty",
+      "type": "DatatypeProperty",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/ITSDataProperty</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "guid": "704c3a3e-decd-4d0c-878c-70d233097949",
+      "heading": "codeValue",
+      "text": "<p>The lexical value of a code.</p>",
+      "qname": "codeValue",
+      "type": "DatatypeProperty",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/codeValue</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "guid": "9ad99848-f543-4803-8337-f6f09ad38e3f",
+      "heading": "enteredOn",
+      "text": "<p>The date the OfficialThing was entered.</p>",
+      "qname": "enteredOn",
+      "type": "DatatypeProperty",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/enteredOn</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "guid": "0b0a5e44-a1fc-459b-9a55-d949c8889049",
+      "heading": "hasImage",
+      "text": "<p>The binary content of an image embedded as base64-encoded bytes.</p>",
+      "qname": "hasImage",
+      "type": "DatatypeProperty",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/hasImage</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "guid": "f23985f9-5102-4b78-b17b-6db88a5390ed",
+      "heading": "hasMaintainer",
+      "text": "<p>The maintainer of the code list (free-text identifier; can be replaced with a richer organization model later).</p>",
+      "qname": "hasMaintainer",
+      "type": "DatatypeProperty",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/hasMaintainer</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "guid": "007e7533-e6d6-43b9-a3a4-6217ac8e47b6",
+      "heading": "hasName",
+      "text": "<p>A human-readable name for the code list.</p>",
+      "qname": "hasName",
+      "type": "DatatypeProperty",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/hasName</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "guid": "c5e99ebd-3914-4a6a-93d7-d486e7b83ca8",
+      "heading": "hasUrl",
+      "text": "<p>The URL associated with the object.</p>",
+      "qname": "hasUrl",
+      "type": "DatatypeProperty",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/hasUrl</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "guid": "e3965eaf-93c8-495d-84f7-facfe873695d",
+      "heading": "hasVersion",
+      "text": "<p>The version of the object.</p>",
+      "qname": "hasVersion",
+      "type": "DatatypeProperty",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/hasVersion</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "guid": "2f145585-5005-427f-8cae-afd3278cba47",
+      "heading": "issuedOn",
+      "text": "<p>The date the OfficialThing was issued.</p>",
+      "qname": "issuedOn",
+      "type": "DatatypeProperty",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/issuedOn</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "guid": "d351c959-237c-4f03-90b8-3e41fc6e0bbc",
+      "heading": "lastModified",
+      "text": "<p>Date the code list was last modified.</p>",
+      "qname": "lastModified",
+      "type": "DatatypeProperty",
+      "updated": "2026-07-27T10:14:53.504900",
+      "website": "<p>https://w3id.org/itsdata/core/v1/lastModified</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-05T14:23:31.479Z"
+        }
+      ]
+    }
+  ],
   "attributes": {
     "diagram": {
       "name": "Diagram",
