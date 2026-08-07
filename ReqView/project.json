@@ -8,7 +8,8 @@
     "its-metr.json",
     "its-core.json",
     "its-vehicle.json",
-    "its-location.json"
+    "its-location.json",
+    "its-t-network.json"
   ],
   "traceability": {
     "reference": {
