@@ -11,7 +11,8 @@
     "its-t-user.json",
     "its-time.json",
     "its-vehicle.json",
-    "its-weather.json"
+    "its-weather.json",
+    "its-agent.json"
   ],
   "traceability": {
     "reference": {
