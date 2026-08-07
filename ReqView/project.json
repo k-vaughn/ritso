@@ -2,15 +2,15 @@
   "id": "RITSO",
   "description": "ReqView representation of the Registry for ITS Ontologies (RITSO)",
   "documents": [
-    "its-time.json",
     "template.json",
-    "its-regulation.json",
-    "its-metr.json",
     "its-core.json",
-    "its-vehicle.json",
     "its-location.json",
+    "its-metr.json",
+    "its-regulation.json",
     "its-t-network.json",
     "its-t-user.json",
+    "its-time.json",
+    "its-vehicle.json",
     "its-weather.json"
   ],
   "traceability": {
