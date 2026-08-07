@@ -2,20 +2,222 @@
   "id": "its-t-user",
   "guid": "a8b127d0-eb8b-4083-8a36-ad76ce8ecb7a",
   "name": "Transport User",
-  "lastId": 0,
+  "lastId": 5,
   "createdOn": "2026-08-07T14:48:12.644Z",
   "createdBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "lastChangedOn": "2026-08-07T14:48:12.644Z",
+  "lastChangedOn": "2026-08-07T14:48:48.412Z",
   "lastChangedBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "data": [],
+  "data": [
+    {
+      "id": "1",
+      "guid": "d5db5c91-1900-4765-98a6-8980eb0cf3a4",
+      "heading": "TransportUserThing",
+      "text": "<p>Parent class for transport user domain concepts.</p>",
+      "diagram": "https://w3id.org/itsdata/t-user/v1/diagrams/TransportUserThing.dot.svg",
+      "qname": "TransportUserThing",
+      "type": "Class",
+      "updated": "2026-07-30T16:18:32.796151",
+      "website": "<p>https://w3id.org/itsdata/t-user/v1/TransportUserThing</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:48:48.412Z",
+          "docId": "its-t-user",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:48:48.412Z"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "guid": "dea709f5-3a13-48ba-9e16-3255cd04ba01",
+      "heading": "TransportUserTypeCode",
+      "text": "<p>A code that indicates the type of transport user.</p>",
+      "diagram": "https://w3id.org/itsdata/t-user/v1/diagrams/TransportUserTypeCode.dot.svg",
+      "qname": "TransportUserTypeCode",
+      "type": "Class",
+      "updated": "2026-07-30T16:18:32.796151",
+      "website": "<p>https://w3id.org/itsdata/t-user/v1/TransportUserTypeCode</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:48:48.412Z",
+          "docId": "its-t-user",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:48:48.412Z"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "guid": "d30f56d6-b088-4065-a1a7-685a85e110b9",
+      "heading": "TransportUsageTypeCode",
+      "text": "<p>A code that indicates the type of transport usage.</p>",
+      "diagram": "https://w3id.org/itsdata/t-user/v1/diagrams/TransportUsageTypeCode.dot.svg",
+      "qname": "TransportUsageTypeCode",
+      "type": "Class",
+      "updated": "2026-07-30T16:18:32.796151",
+      "website": "<p>https://w3id.org/itsdata/t-user/v1/TransportUsageTypeCode</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:48:48.412Z",
+          "docId": "its-t-user",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:48:48.412Z"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "guid": "ef159076-e152-436e-8758-251c5cf9fcde",
+      "heading": "TransportUserObjectProperty",
+      "text": "<p>Organizational super-property for transport user core object properties.</p>",
+      "qname": "TransportUserObjectProperty",
+      "type": "ObjectProperty",
+      "updated": "2026-07-30T16:18:32.796151",
+      "website": "<p>https://w3id.org/itsdata/t-user/v1/TransportUserObjectProperty</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:48:48.412Z",
+          "docId": "its-t-user",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:48:48.412Z"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "guid": "df78d81a-58f0-4e0b-b3b0-77ca20467baf",
+      "heading": "TransportUserDataProperty",
+      "text": "<p>Organizational super-property for transport user core data properties.</p>",
+      "qname": "TransportUserDataProperty",
+      "type": "DatatypeProperty",
+      "updated": "2026-07-30T16:18:32.796151",
+      "website": "<p>https://w3id.org/itsdata/t-user/v1/TransportUserDataProperty</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:48:48.412Z",
+          "docId": "its-t-user",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:48:48.412Z"
+        }
+      ]
+    }
+  ],
   "attributes": {
     "diagram": {
       "name": "Diagram",

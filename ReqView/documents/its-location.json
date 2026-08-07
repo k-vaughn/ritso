@@ -2,20 +2,3826 @@
   "id": "its-location",
   "guid": "866169bc-9f23-4cf9-a851-7f612d936efc",
   "name": "Location",
-  "lastId": 0,
+  "lastId": 95,
   "createdOn": "2026-08-07T14:45:34.657Z",
   "createdBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "lastChangedOn": "2026-08-07T14:45:34.657Z",
+  "lastChangedOn": "2026-08-07T14:46:15.319Z",
   "lastChangedBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "data": [],
+  "data": [
+    {
+      "id": "1",
+      "guid": "681154e8-9639-4f8e-9986-205bccad0fa7",
+      "heading": "ItineraryByWaypoints",
+      "text": "<p>An itinerary geometry encoded as an ordered sequence of features (waypoints).</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/ItineraryByWaypoints.dot.svg",
+      "qname": "ItineraryByWaypoints",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/ItineraryByWaypoints</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "guid": "b1733423-5a6d-4410-b522-79949bd6f3f5",
+      "heading": "PointGeometryList",
+      "text": "<p>An ordered list of member point geometries.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/PointGeometryList.dot.svg",
+      "qname": "PointGeometryList",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/PointGeometryList</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "guid": "22d65534-8f86-4266-a81d-855ecfa2efcf",
+      "heading": "PositionConfidenceEllipse",
+      "text": "<p>A confidence ellipse describing uncertainty of a point position in a horizontal plane.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/PositionConfidenceEllipse.dot.svg",
+      "qname": "PositionConfidenceEllipse",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/PositionConfidenceEllipse</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "guid": "df4a38e1-f8e9-4215-b815-d16e704dffa1",
+      "heading": "PointByProjectedCoordinates",
+      "text": "<p>A point location geometry encoded as projected coordinates and optional elements, such as elevation and metadata.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/PointByProjectedCoordinates.dot.svg",
+      "qname": "PointByProjectedCoordinates",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/PointByProjectedCoordinates</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "guid": "f4c1f33c-1f0b-4829-a5ba-fa266beea357",
+      "heading": "AreaByMultiPolygon",
+      "text": "<p>An area geometry encoded as a MultiPolygon geometry.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/AreaByMultiPolygon.dot.svg",
+      "qname": "AreaByMultiPolygon",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/AreaByMultiPolygon</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "guid": "5586d312-878e-4f80-a420-b9fa05bd95f3",
+      "heading": "PointFeature",
+      "text": "<p>A spatial feature with no length in any of the spatial dimensions (a point phenomenon in space).</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/PointFeature.dot.svg",
+      "qname": "PointFeature",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/PointFeature</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "guid": "fd3b06fc-9011-4740-8109-88c1eae2ab07",
+      "heading": "LinearGeometry",
+      "text": "<p>A geometry that encodes a linear location using a specific method.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/LinearGeometry.dot.svg",
+      "qname": "LinearGeometry",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/LinearGeometry</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "guid": "c12058e5-d212-4c42-b4f9-d978153a0c3d",
+      "heading": "PointByCoordinates",
+      "text": "<p>A coordinate tuple defining the geodetic position of a single point location using a known geodetic reference system</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/PointByCoordinates.dot.svg",
+      "qname": "PointByCoordinates",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/PointByCoordinates</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "guid": "dcdf90ad-f2b5-437c-93a5-3a0546fb8bcb",
+      "heading": "Elevation",
+      "text": "<p>An elevation for a point location along with metadata.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/Elevation.dot.svg",
+      "qname": "Elevation",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/Elevation</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "guid": "95870894-7428-4ede-a764-503a61632d4d",
+      "heading": "FeatureList",
+      "text": "<p>An ordered list of member features (e.g., itinerary waypoints).</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/FeatureList.dot.svg",
+      "qname": "FeatureList",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/FeatureList</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "guid": "bfe6fbb2-4846-4b21-b79d-9b12a5bc23b6",
+      "heading": "AreaByRectangle",
+      "text": "<p>An area geometry encoded as a rectangle, defined by a lower-left corner and an upper-right corner.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/AreaByRectangle.dot.svg",
+      "qname": "AreaByRectangle",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/AreaByRectangle</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "guid": "5157a076-2818-4d9d-b22a-a8bc3f129e7f",
+      "heading": "LinearByPointGeometries",
+      "text": "<p>A linear geometry encoded as an ordered sequence of point geometries.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/LinearByPointGeometries.dot.svg",
+      "qname": "LinearByPointGeometries",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/LinearByPointGeometries</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "guid": "2fdd422b-7967-40d5-af85-f8a202ee30bf",
+      "heading": "AreaFeature",
+      "text": "<p>A spatial feature enclosed within a two-dimensional boundary or boundaries across a defined surface.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/AreaFeature.dot.svg",
+      "qname": "AreaFeature",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/AreaFeature</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "guid": "31984c51-b933-4855-b4a6-862b299e42eb",
+      "heading": "LocationGroup",
+      "text": "<p>An unordered set of multiple physically separate features (each typically a singular feature with its own geometry).</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/LocationGroup.dot.svg",
+      "qname": "LocationGroup",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/LocationGroup</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "guid": "336523da-a48c-4460-b46e-d5f0528c9829",
+      "heading": "ItineraryGeometry",
+      "text": "<p>A geometry that encodes an itinerary using a specific method.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/ItineraryGeometry.dot.svg",
+      "qname": "ItineraryGeometry",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/ItineraryGeometry</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "guid": "bfcecc98-8d76-4bd8-9e89-2d91131bbc32",
+      "heading": "FacilityCode",
+      "text": "<p>A code that identifies a type of facility.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/FacilityCode.dot.svg",
+      "qname": "FacilityCode",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/FacilityCode</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "guid": "870d20e3-999d-40a9-8922-d98ac99ecd82",
+      "heading": "Itinerary",
+      "text": "<p>An ordered set of multiple physically separate features forming a route or itinerary.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/Itinerary.dot.svg",
+      "qname": "Itinerary",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/Itinerary</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "guid": "e171f304-c1f3-44a3-860f-b120f27fcc7e",
+      "heading": "PointByCode",
+      "text": "<p>A point geometry whose coordinates are not modelled here but can be resolved using :hasLookupCode and an external location referencing system.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/PointByCode.dot.svg",
+      "qname": "PointByCode",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/PointByCode</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "guid": "18d7a8ce-4930-4b88-bebe-fd387547d572",
+      "heading": "MeasurementErrorCode",
+      "text": "<p>A code identifying an error condition or qualification for a measurement value.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/MeasurementErrorCode.dot.svg",
+      "qname": "MeasurementErrorCode",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/MeasurementErrorCode</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "guid": "1c4c8e0b-cfef-4980-82b3-6ad39d689ae1",
+      "heading": "LinearByCode",
+      "text": "<p>A linear geometry whose extent is not modelled here but can be resolved using :hasLookupCode and an external location referencing system.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/LinearByCode.dot.svg",
+      "qname": "LinearByCode",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/LinearByCode</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "guid": "2a627c3b-d451-497c-8756-3a454ea75691",
+      "heading": "LocationCode",
+      "text": "<p>A code that identifies (or can be used to look up) a location in some external referencing system.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/LocationCode.dot.svg",
+      "qname": "LocationCode",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/LocationCode</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "guid": "3745c0a8-1dcb-40a8-94e5-2b858855041a",
+      "heading": "LocationThing",
+      "text": "<p>Parent class for location domain concepts.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/LocationThing.dot.svg",
+      "qname": "LocationThing",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/LocationThing</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "guid": "7c137352-4f92-4edf-9cb1-75ff6fe62ee8",
+      "heading": "AreaByLinearBoundaries",
+      "text": "<p>An area geometry encoded as a set of linear boundary geometries.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/AreaByLinearBoundaries.dot.svg",
+      "qname": "AreaByLinearBoundaries",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/AreaByLinearBoundaries</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "guid": "40f8db08-8108-40e1-a1d9-872910a22a50",
+      "heading": "PointByGeoCoordinates",
+      "text": "<p>A point location geometry encoded as latitude/longitude and optional elements, such as elevation and metadata.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/PointByGeoCoordinates.dot.svg",
+      "qname": "PointByGeoCoordinates",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/PointByGeoCoordinates</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "guid": "7a3116ea-bb22-44f8-9ecb-857f4876fc62",
+      "heading": "AreaByGrid",
+      "text": "<p>An area geometry encoded as a grid. The rectangle defined by lower-left and upper-right is the base cell, which is replicated eastward (columns) and northward (rows).</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/AreaByGrid.dot.svg",
+      "qname": "AreaByGrid",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/AreaByGrid</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "guid": "5de49412-9ed4-489f-8011-482da10fd4e2",
+      "heading": "CodedGeometry",
+      "text": "<p>A geometry whose extent is resolved via an external code, registry, or service (a pointer to a geometry held elsewhere).</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/CodedGeometry.dot.svg",
+      "qname": "CodedGeometry",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/CodedGeometry</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "guid": "78a7de79-0d6f-4f25-8e9c-ece353f66d5c",
+      "heading": "AreaGeometry",
+      "text": "<p>A geometry that encodes an area location using a specific method.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/AreaGeometry.dot.svg",
+      "qname": "AreaGeometry",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/AreaGeometry</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "guid": "d9d78b89-ee13-4624-9b13-50e96983d66f",
+      "heading": "ItineraryCode",
+      "text": "<p>An itinerary geometry whose route geometry is not modelled here but can be resolved using :hasLookupCode and an external itinerary/route referencing system.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/ItineraryCode.dot.svg",
+      "qname": "ItineraryCode",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/ItineraryCode</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "guid": "bc7c01e8-edf6-49f0-b641-464c01c3afe2",
+      "heading": "PositionAccuracy",
+      "text": "<p>A statement of positional accuracy for a point geometry.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/PositionAccuracy.dot.svg",
+      "qname": "PositionAccuracy",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/PositionAccuracy</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "guid": "ecf4aa06-639c-4def-83c7-ed85511169fd",
+      "heading": "AreaByPolygon",
+      "text": "<p>An area geometry encoded as a Polygon geometry.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/AreaByPolygon.dot.svg",
+      "qname": "AreaByPolygon",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/AreaByPolygon</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "guid": "02c1cff6-1ae2-45fe-aa7f-8c71ae166528",
+      "heading": "LinearByLinearRing",
+      "text": "<p>A linear geometry encoded as a LinearRing geometry.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/LinearByLinearRing.dot.svg",
+      "qname": "LinearByLinearRing",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/LinearByLinearRing</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "guid": "39754314-f539-43e0-a34c-035a022345fc",
+      "heading": "LinearByPointFeatures",
+      "text": "<p>A linear geometry encoded as an ordered sequence of points.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/LinearByPointFeatures.dot.svg",
+      "qname": "LinearByPointFeatures",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/LinearByPointFeatures</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "guid": "9cb7e9ca-5970-48f9-be0d-f68ed8baba09",
+      "heading": "PointGeometry",
+      "text": "<p>A geometry for a point location using a specific method (e.g., coordinates or an external code).</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/PointGeometry.dot.svg",
+      "qname": "PointGeometry",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/PointGeometry</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "guid": "cee16382-2714-4364-a2e3-197517a3457c",
+      "heading": "Geometry",
+      "text": "<p>A description of a spatial location in the real world according to a defined reference system.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/Geometry.dot.svg",
+      "qname": "Geometry",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/Geometry</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "guid": "c9cc019a-8e26-4556-82b3-0d96c24c319a",
+      "heading": "LinearByMultiLineString",
+      "text": "<p>A linear geometry encoded as a MultiLineString geometry.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/LinearByMultiLineString.dot.svg",
+      "qname": "LinearByMultiLineString",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/LinearByMultiLineString</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "guid": "bb7bcde5-4013-4767-9609-77c60ca3cce9",
+      "heading": "Feature",
+      "text": "<p>An abstraction of real-world phenomena. An ITS-domain feature (subclass of geo:Feature) used to model real-world things that have a spatial location.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/Feature.dot.svg",
+      "qname": "Feature",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/Feature</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "guid": "bbd17cff-ae35-483d-979d-2a52917fadcb",
+      "heading": "LinearByLineString",
+      "text": "<p>A linear geometry encoded as a LineString geometry.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/LinearByLineString.dot.svg",
+      "qname": "LinearByLineString",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/LinearByLineString</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "guid": "4e6cc0a1-4f56-4cee-8f22-d1a4a7124d8a",
+      "heading": "AreaByCircle",
+      "text": "<p>An area geometry encoded as a circle.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/AreaByCircle.dot.svg",
+      "qname": "AreaByCircle",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/AreaByCircle</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "guid": "004b2d66-fd8c-495c-9413-3283a0450f50",
+      "heading": "CoordinateGeometry",
+      "text": "<p>A geometry that is represented by a coordinate system (i.e., directly encodes coordinate tuples).</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/CoordinateGeometry.dot.svg",
+      "qname": "CoordinateGeometry",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/CoordinateGeometry</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "guid": "351bb631-94d8-4a1b-8896-74ed5d4e5ac0",
+      "heading": "AreaByCode",
+      "text": "<p>An area geometry whose extent is not modelled here but can be resolved using :hasLookupCode and an external location referencing system.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/AreaByCode.dot.svg",
+      "qname": "AreaByCode",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/AreaByCode</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "guid": "292239be-69a3-4dc8-a367-11fd84e068ef",
+      "heading": "PointFeatureList",
+      "text": "<p>An ordered list of member point features.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/PointFeatureList.dot.svg",
+      "qname": "PointFeatureList",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/PointFeatureList</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "guid": "97fe2fc3-a04f-4980-b2d8-1c678538e4b1",
+      "heading": "OffsetDistance",
+      "text": "<p>An offset distance expressed either as a length or as a percentage.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/OffsetDistance.dot.svg",
+      "qname": "OffsetDistance",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/OffsetDistance</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "guid": "09d8ab3f-6930-4dd6-88cd-8d8006186ba6",
+      "heading": "CoordinateReferenceSystem",
+      "text": "<p>A coordinate reference system (CRS) used to interpret coordinate tuples in a CoordinateGeometry. Typically identified using an OGC CRS IRI such as http://www.opengis.net/def/crs/EPSG/0/4326.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/CoordinateReferenceSystem.dot.svg",
+      "qname": "CoordinateReferenceSystem",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/CoordinateReferenceSystem</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "guid": "5a7a2a73-6cd3-4213-891d-58dbd258e7f4",
+      "heading": "ElevationAccuracy",
+      "text": "<p>A statement of elevation accuracy for a point geometry.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/ElevationAccuracy.dot.svg",
+      "qname": "ElevationAccuracy",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/ElevationAccuracy</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "guid": "68b41adf-6eb4-42b2-8bfb-a6784b62fea0",
+      "heading": "DistanceAccuracy",
+      "text": "<p>A statement of distance accuracy for a point geometry.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/DistanceAccuracy.dot.svg",
+      "qname": "DistanceAccuracy",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/DistanceAccuracy</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "guid": "b3c67a00-546b-4227-9994-4fb54fec5ab6",
+      "heading": "LinearFeature",
+      "text": "<p>A spatial feature that extends along a defined path (typically between two point features or along a network element).</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/LinearFeature.dot.svg",
+      "qname": "LinearFeature",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/LinearFeature</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "guid": "843f9342-fe6b-428c-a942-0e5fbe11cab0",
+      "heading": "PointByLinearPosition",
+      "text": "<p>A point geometry defined by an offset along a linear geometry.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/PointByLinearPosition.dot.svg",
+      "qname": "PointByLinearPosition",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/PointByLinearPosition</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "guid": "4dff26f8-257b-4aaa-b8a6-5d2e1262b379",
+      "heading": "ElevationHeightCode",
+      "text": "<p>A code that identifies the height value for an elevation value&nbsp;&nbsp;(e.g., &#39;ground layer 1&#39;, &#39;elevated layer 1&#39;, &#39;elevated layer 2&#39;, &#39;tunnel layer 1&#39;).</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/ElevationHeightCode.dot.svg",
+      "qname": "ElevationHeightCode",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/ElevationHeightCode</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "guid": "5458c935-55df-4969-a979-f52b7cca7704",
+      "heading": "SpatialObject",
+      "text": "<p>A spatial object within the ITS domain (subclass of geo:SpatialObject).</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/SpatialObject.dot.svg",
+      "qname": "SpatialObject",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/SpatialObject</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "guid": "f91f5ad5-9366-43fa-80b1-0765e227967a",
+      "heading": "ElevationReferenceCode",
+      "text": "<p>A code that identifies the reference system for an elevation value&nbsp;&nbsp;(e.g., &#39;ellipsoidal&#39;, &#39;gravityRelated&#39;, &#39;ground level&#39;, &#39;EPSG:5701&#39;, &#39;coded height&#39;).</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/ElevationReferenceCode.dot.svg",
+      "qname": "ElevationReferenceCode",
+      "type": "Class",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/ElevationReferenceCode</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "guid": "9f885865-9b6a-4b58-935a-7a6d324df735",
+      "heading": "hasElevation",
+      "text": "<p>Associates a point geometry with an elevation value.</p>",
+      "qname": "hasElevation",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/hasElevation</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "guid": "f37d3dba-7694-4bd0-a234-9284e36757c3",
+      "heading": "hasElevationDistance",
+      "text": "<p>Elevation distance of a point location, as measured from the elevation reference system.</p>",
+      "qname": "hasElevationDistance",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/hasElevationDistance</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "guid": "1f54b62e-64c4-4757-8907-e7d3590b8727",
+      "heading": "hasElevationHeightCode",
+      "text": "<p>Coded elevation height value of a point location.</p>",
+      "qname": "hasElevationHeightCode",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/hasElevationHeightCode</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "guid": "61eb77a4-3421-4633-904a-8fb7068e3280",
+      "heading": "hasElevationReference",
+      "text": "<p>Reference system for the elevation value.</p>",
+      "qname": "hasElevationReference",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/hasElevationReference</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "guid": "f4d44e4e-6d6d-4f17-ba06-a2e513bcc6d8",
+      "heading": "hasElevationAccuracy",
+      "text": "<p>Associates a point geometry with an elevation accuracy statement.</p>",
+      "qname": "hasElevationAccuracy",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/hasElevationAccuracy</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "guid": "8deae831-2bd8-4866-b302-ef6e7f3911c8",
+      "heading": "hasPositionAccuracy",
+      "text": "<p>Associates a point geometry with a statement of positional accuracy.</p>",
+      "qname": "hasPositionAccuracy",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/hasPositionAccuracy</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "guid": "56f3e51d-6ae6-43a4-93b5-900c3951cbc4",
+      "heading": "hasPositionConfidenceEllipse",
+      "text": "<p>Associates a point geometry with a confidence ellipse statement.</p>",
+      "qname": "hasPositionConfidenceEllipse",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/hasPositionConfidenceEllipse</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "guid": "590b7385-aef7-43f7-9070-4fba89772107",
+      "heading": "hasDistanceAccuracy",
+      "text": "<p>The upper limit of the accuracy, expressed as a simple length value (e.g., within 10 meters).</p>",
+      "qname": "hasDistanceAccuracy",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/hasDistanceAccuracy</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "guid": "9e1c65fb-a0e3-4124-8283-834f64929c8d",
+      "heading": "confidencePercentage",
+      "text": "<p>Percent confidence in a reported value as defined by the percentile of the cumulative distribution of position errors (e.g., 95% confidence).</p>",
+      "qname": "confidencePercentage",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/confidencePercentage</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "guid": "a6ea5203-529b-49e4-b5d5-aa1c1db0f768",
+      "heading": "distanceAccuracyErrorCode",
+      "text": "<p>A code that identifies the error code for a distance accuracy value.</p>",
+      "qname": "distanceAccuracyErrorCode",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/distanceAccuracyErrorCode</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "guid": "739c4002-753a-4c5a-8d63-3c7394b558e5",
+      "heading": "semiMajorAxisLength",
+      "text": "<p>Semi-major axis length of the confidence ellipse.</p>",
+      "qname": "semiMajorAxisLength",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/semiMajorAxisLength</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "62",
+      "guid": "87435892-89e6-45a7-800a-6913a4917e20",
+      "heading": "semiMinorAxisLength",
+      "text": "<p>Semi-minor axis length of the confidence ellipse.</p>",
+      "qname": "semiMinorAxisLength",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/semiMinorAxisLength</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "63",
+      "guid": "72c6f715-daed-48df-b20e-5a907352906a",
+      "heading": "semiMajorAxisOrientation",
+      "text": "<p>Orientation of the semi-major axis of the confidence ellipse.</p>",
+      "qname": "semiMajorAxisOrientation",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/semiMajorAxisOrientation</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "64",
+      "guid": "645c4708-141e-40a3-ad90-2322765a66cb",
+      "heading": "semiMajorAxisLengthErrorCode",
+      "text": "<p>A code qualifying the semi-major axis length measurement.</p>",
+      "qname": "semiMajorAxisLengthErrorCode",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/semiMajorAxisLengthErrorCode</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "65",
+      "guid": "60b5fa58-f385-4c8f-8f41-8c8e966ecbb1",
+      "heading": "semiMinorAxisLengthErrorCode",
+      "text": "<p>A code qualifying the semi-minor axis length measurement.</p>",
+      "qname": "semiMinorAxisLengthErrorCode",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/semiMinorAxisLengthErrorCode</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "66",
+      "guid": "aa007c59-5328-40b1-b435-42f1fc1282be",
+      "heading": "semiMajorAxisOrientationErrorCode",
+      "text": "<p>A code qualifying the semi-major axis orientation measurement.</p>",
+      "qname": "semiMajorAxisOrientationErrorCode",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/semiMajorAxisOrientationErrorCode</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "67",
+      "guid": "2ff65b35-0b41-4188-9a01-2686af8f1c35",
+      "heading": "bearing",
+      "text": "<p>Bearing of a point location.</p>",
+      "qname": "bearing",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/bearing</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "guid": "e846931a-deac-4875-8b20-62405cd4fc1b",
+      "heading": "hasLinearBoundary",
+      "text": "<p>Associates an area geometry with linear features that define its boundary.</p>",
+      "qname": "hasLinearBoundary",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/hasLinearBoundary</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "69",
+      "guid": "aeac1334-6c7c-4a49-bfde-9d32b18aa3f1",
+      "heading": "hasCenter",
+      "text": "<p>Center point of a circle area geometry.</p>",
+      "qname": "hasCenter",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/hasCenter</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "70",
+      "guid": "7a1b2002-bf9d-4035-b46c-8dbc61efda58",
+      "heading": "radius",
+      "text": "<p>Radius of a circle area geometry.</p>",
+      "qname": "radius",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/radius</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "71",
+      "guid": "08f4e3c8-0e9c-4537-ac8f-0168ea55222b",
+      "heading": "hasLowerLeft",
+      "text": "<p>Lower-left (southwestern) point of a rectangle area geometry.</p>",
+      "qname": "hasLowerLeft",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/hasLowerLeft</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "72",
+      "guid": "b3b3cd58-5c0f-48bd-af45-9dcc972ecf4a",
+      "heading": "hasUpperRight",
+      "text": "<p>Upper-right (northeastern) point of a rectangle area geometry.</p>",
+      "qname": "hasUpperRight",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/hasUpperRight</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "73",
+      "guid": "94315d40-200e-4ee6-86d8-b191603207ee",
+      "heading": "hasPointList",
+      "text": "<p>Associates LinearByPointFeatures with its ordered list of member points.</p>",
+      "qname": "hasPointList",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/hasPointList</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "74",
+      "guid": "0aeef632-a8d9-4eda-8c81-492062e84a54",
+      "heading": "hasPointGeometryList",
+      "text": "<p>Associates LinearByPointGeometries with its ordered list of member point geometries.</p>",
+      "qname": "hasPointGeometryList",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/hasPointGeometryList</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "75",
+      "guid": "6734b3d8-63ac-4023-9347-3cdd8d627984",
+      "heading": "hasOffsetDistance",
+      "text": "<p>Associates a PointByLinearPosition with its offset distance value.</p>",
+      "qname": "hasOffsetDistance",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/hasOffsetDistance</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "76",
+      "guid": "225e9b98-0bc9-409e-8ef7-bf5c3b978f5c",
+      "heading": "offsetLength",
+      "text": "<p>Length form of an offset distance.</p>",
+      "qname": "offsetLength",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/offsetLength</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "77",
+      "guid": "fbce0a7d-3bde-40fe-9153-1d98b6c8652f",
+      "heading": "offsetPercentage",
+      "text": "<p>Percentage form of an offset distance.</p>",
+      "qname": "offsetPercentage",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/offsetPercentage</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "78",
+      "guid": "90df0b98-d3c9-48f3-ae07-ca64ab371557",
+      "heading": "alongLinearGeometry",
+      "text": "<p>Associates a PointByLinearPosition with the linear geometry along which it is located.</p>",
+      "qname": "alongLinearGeometry",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/alongLinearGeometry</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "79",
+      "guid": "22ce21b0-17b0-446c-92c8-d522c11b1e97",
+      "heading": "basePoint",
+      "text": "<p>The base/reference point from which the offset is measured.</p>",
+      "qname": "basePoint",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/basePoint</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "80",
+      "guid": "e567f74d-e96f-479d-a110-fc5a53fa9357",
+      "heading": "directionPoint",
+      "text": "<p>A second point used to establish the direction of offset relative to the basePoint.</p>",
+      "qname": "directionPoint",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/directionPoint</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "81",
+      "guid": "a3ae8cc6-2d5d-49e8-a389-35b0cf4f2d00",
+      "heading": "locationContainedInItinerary",
+      "text": "<p>DATEX-aligned property name for associating an itinerary by waypoints with its ordered list of member features.</p>",
+      "qname": "locationContainedInItinerary",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/locationContainedInItinerary</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "82",
+      "guid": "6d38b019-3ee8-42f9-ae63-c99a2e63cd38",
+      "heading": "hasWaypointList",
+      "text": "<p>Associates an itinerary by waypoints with its ordered list of member features (waypoints).</p>",
+      "qname": "hasWaypointList",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/hasWaypointList</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "83",
+      "guid": "f1192b97-0032-4d5d-a276-35f1226918f5",
+      "heading": "LocationObjectProperty",
+      "text": "<p>Organizational super-property for location core object properties.</p>",
+      "qname": "LocationObjectProperty",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/LocationObjectProperty</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "84",
+      "guid": "5ed94833-0474-4f3b-96f2-71f45934508a",
+      "heading": "hasMember",
+      "text": "<p>Relates a location group to a member feature.</p>",
+      "qname": "hasMember",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/hasMember</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "85",
+      "guid": "22cd3e20-f46c-465b-b729-bfa7bf98ddeb",
+      "heading": "hasLookupCode",
+      "text": "<p>Associates a coded geometry with the location code used to retrieve or resolve its geometric extent in an external system.</p>",
+      "qname": "hasLookupCode",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/hasLookupCode</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "86",
+      "guid": "6ad70f77-189d-4600-b88b-5aac9eb3329c",
+      "heading": "geometryOf",
+      "text": "<p>Inverse of geo:hasGeometry: relates a geometry to the feature it represents.</p>",
+      "qname": "geometryOf",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/geometryOf</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "87",
+      "guid": "d4da509d-1348-4a07-b2d9-19838482443e",
+      "heading": "hasCRS",
+      "text": "<p>Associates a CoordinateGeometry with the coordinate reference system used to interpret its coordinate tuples.</p>",
+      "qname": "hasCRS",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/hasCRS</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "88",
+      "guid": "6a1d4982-fb9c-43c2-aecb-6fa87e2beca6",
+      "heading": "latitude",
+      "text": "<p>Latitude of a point coordinate (decimal degrees; CRS implied or supplied by the geometry context).</p>",
+      "qname": "latitude",
+      "type": "DatatypeProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/latitude</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "89",
+      "guid": "b35a0e18-aa2d-444b-9b66-cb0590d85971",
+      "heading": "longitude",
+      "text": "<p>Longitude of a point coordinate (decimal degrees; CRS implied or supplied by the geometry context).</p>",
+      "qname": "longitude",
+      "type": "DatatypeProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/longitude</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "90",
+      "guid": "16db93ff-7ac1-43d0-8419-8d8d4b2c21b4",
+      "heading": "northing",
+      "text": "<p>The northerly (y) dimension of a point coordinate expressed in some linear unit.</p>",
+      "qname": "northing",
+      "type": "DatatypeProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/northing</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "91",
+      "guid": "9f48bf76-89c9-4aff-b395-fece5f10a0fe",
+      "heading": "easting",
+      "text": "<p>The easterly (x) dimension of a point coordinate expressed in some linear unit.</p>",
+      "qname": "easting",
+      "type": "DatatypeProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/easting</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "92",
+      "guid": "eac45fb9-2dc7-4c2f-847c-d0b37d0640c4",
+      "heading": "numColumns",
+      "text": "<p>Number of times the base rectangle cell is replicated eastward in a grid area geometry. The width of the area is the width of the base cell multiplied by the number of columns.</p>",
+      "qname": "numColumns",
+      "type": "DatatypeProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/numColumns</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "93",
+      "guid": "d4df11b7-813d-4eb3-92ec-094603028f9c",
+      "heading": "numRows",
+      "text": "<p>Number of times the base rectangle cell is replicated northward in a grid area geometry. The height of the area is the height of the base cell multiplied by the number of rows.</p>",
+      "qname": "numRows",
+      "type": "DatatypeProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/numRows</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "94",
+      "guid": "45592b1a-a93a-48b2-96ad-3764f5036bc8",
+      "heading": "LocationDataProperty",
+      "text": "<p>Organizational super-property for location core data properties.</p>",
+      "qname": "LocationDataProperty",
+      "type": "DatatypeProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/LocationDataProperty</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    },
+    {
+      "id": "95",
+      "guid": "db761f86-77b4-4891-ad1e-9e22be4d2371",
+      "heading": "coordinateEpoch",
+      "text": "<p>The epoch (observation/realization time) at which the coordinate tuples of a CoordinateGeometry are valid in its CRS. Needed for dynamic reference frames.</p>",
+      "qname": "coordinateEpoch",
+      "type": "DatatypeProperty",
+      "updated": "2026-07-27T20:04:25.980923",
+      "website": "<p>https://w3id.org/itsdata/location/v1/coordinateEpoch</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:46:15.319Z"
+        }
+      ]
+    }
+  ],
   "attributes": {
     "diagram": {
       "name": "Diagram",

@@ -2,20 +2,181 @@
   "id": "its-weather",
   "guid": "8ab8cf52-4b69-481b-92bb-82d2278557eb",
   "name": "Road Weather",
-  "lastId": 0,
+  "lastId": 4,
   "createdOn": "2026-08-07T14:49:40.223Z",
   "createdBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "lastChangedOn": "2026-08-07T14:49:40.223Z",
+  "lastChangedOn": "2026-08-07T14:50:16.378Z",
   "lastChangedBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "data": [],
+  "data": [
+    {
+      "id": "1",
+      "guid": "82f2ff91-61d5-45be-b5ad-3a2d45c24a8a",
+      "heading": "WeatherThing",
+      "text": "<p>Parent class for classes within the weather topic area of the ITS domain.</p>",
+      "diagram": "https://w3id.org/itsdata/weather/v1/diagrams/WeatherThing.dot.svg",
+      "qname": "WeatherThing",
+      "type": "Class",
+      "updated": "2026-07-29T09:32:59.085445",
+      "website": "<p>https://w3id.org/itsdata/weather/v1/WeatherThing</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:50:16.378Z",
+          "docId": "its-weather",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:50:16.378Z"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "guid": "dafe3c08-0f67-4505-aa87-a354ba9cedaf",
+      "heading": "RoadWeatherConditionCode",
+      "text": "<p>A code that indicates the types of road weather conditions that can affect the applicability of a regulation.</p>",
+      "diagram": "https://w3id.org/itsdata/weather/v1/diagrams/RoadWeatherConditionCode.dot.svg",
+      "qname": "RoadWeatherConditionCode",
+      "type": "Class",
+      "updated": "2026-07-29T09:32:59.085445",
+      "website": "<p>https://w3id.org/itsdata/weather/v1/RoadWeatherConditionCode</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:50:16.378Z",
+          "docId": "its-weather",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:50:16.378Z"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "guid": "eefaa904-7354-401a-8895-5339a71cb9d3",
+      "heading": "WeatherObjectProperty",
+      "text": "<p>Organizational super-property for object properties within the weather topic area of the ITS domain.</p>",
+      "qname": "WeatherObjectProperty",
+      "type": "ObjectProperty",
+      "updated": "2026-07-29T09:32:59.085445",
+      "website": "<p>https://w3id.org/itsdata/weather/v1/WeatherObjectProperty</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:50:16.378Z",
+          "docId": "its-weather",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:50:16.378Z"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "guid": "244ca1e7-b80e-4678-b201-89b683561ed1",
+      "heading": "WeatherDataProperty",
+      "text": "<p>Organizational super-property for data properties within the weather topic area of the ITS domain.</p>",
+      "qname": "WeatherDataProperty",
+      "type": "DatatypeProperty",
+      "updated": "2026-07-29T09:32:59.085445",
+      "website": "<p>https://w3id.org/itsdata/weather/v1/WeatherDataProperty</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:50:16.378Z",
+          "docId": "its-weather",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:50:16.378Z"
+        }
+      ]
+    }
+  ],
   "attributes": {
     "diagram": {
       "name": "Diagram",
