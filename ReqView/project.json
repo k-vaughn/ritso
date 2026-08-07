@@ -3,6 +3,8 @@
   "description": "ReqView representation of the Registry for ITS Ontologies (RITSO)",
   "documents": [
     "template.json",
+    "its-agent.json",
+    "its-communications.json",
     "its-core.json",
     "its-location.json",
     "its-metr.json",
@@ -11,9 +13,7 @@
     "its-t-user.json",
     "its-time.json",
     "its-vehicle.json",
-    "its-weather.json",
-    "its-agent.json",
-    "its-communications.json"
+    "its-weather.json"
   ],
   "traceability": {
     "reference": {
