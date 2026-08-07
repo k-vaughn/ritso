@@ -2,20 +2,222 @@
   "id": "its-agent",
   "guid": "120d529c-c495-4184-a626-7fdc0f032ee0",
   "name": "Agent",
-  "lastId": 0,
+  "lastId": 5,
   "createdOn": "2026-08-07T14:57:06.398Z",
   "createdBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "lastChangedOn": "2026-08-07T14:57:06.398Z",
+  "lastChangedOn": "2026-08-07T14:57:38.904Z",
   "lastChangedBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "data": [],
+  "data": [
+    {
+      "id": "1",
+      "guid": "ea69cf4b-d2a3-4ef4-87f7-2bcd55c3c66e",
+      "heading": "Agent",
+      "text": "<p>A person, organization, group, or software agent that performs a role. The role may add additional properties to the agent.</p>",
+      "diagram": "https://w3id.org/itsdata/agent/v1/diagrams/Agent.dot.svg",
+      "qname": "Agent",
+      "type": "Class",
+      "updated": "2026-07-27T18:57:20.002071",
+      "website": "<p>https://w3id.org/itsdata/agent/v1/Agent</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:57:38.904Z",
+          "docId": "its-agent",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:57:38.904Z"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "guid": "ff781e26-9900-4bf6-991a-b1bffba9efc6",
+      "heading": "ITSAgentThing",
+      "text": "<p>Added for organizational purposes to identify classes defined in the Agent part of the ITS Ontology.</p>",
+      "diagram": "https://w3id.org/itsdata/agent/v1/diagrams/ITSAgentThing.dot.svg",
+      "qname": "ITSAgentThing",
+      "type": "Class",
+      "updated": "2026-07-27T18:57:20.002071",
+      "website": "<p>https://w3id.org/itsdata/agent/v1/ITSAgentThing</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:57:38.904Z",
+          "docId": "its-agent",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:57:38.904Z"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "guid": "fd778f06-6477-40ab-adda-580b542f82ca",
+      "heading": "Role",
+      "text": "<p>A role that an agent can perform. The role may add additional properties to the agent.</p>",
+      "diagram": "https://w3id.org/itsdata/agent/v1/diagrams/Role.dot.svg",
+      "qname": "Role",
+      "type": "Class",
+      "updated": "2026-07-27T18:57:20.002071",
+      "website": "<p>https://w3id.org/itsdata/agent/v1/Role</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:57:38.904Z",
+          "docId": "its-agent",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:57:38.904Z"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "guid": "068056d4-75c0-4740-b45e-b3d27cf83ed0",
+      "heading": "ITSAgentObjectProperty",
+      "text": "<p>An object property to organize all object properties defined in the ITS Agent Ontology.</p>",
+      "qname": "ITSAgentObjectProperty",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T18:57:20.002071",
+      "website": "<p>https://w3id.org/itsdata/agent/v1/ITSAgentObjectProperty</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:57:38.904Z",
+          "docId": "its-agent",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:57:38.904Z"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "guid": "cd81d6d6-69e6-4824-a421-2a926c20a193",
+      "heading": "playsRole",
+      "text": "<p>Indicates the role that an agent performs.</p>",
+      "qname": "playsRole",
+      "type": "ObjectProperty",
+      "updated": "2026-07-27T18:57:20.002071",
+      "website": "<p>https://w3id.org/itsdata/agent/v1/playsRole</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:57:38.904Z",
+          "docId": "its-agent",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T14:57:38.904Z"
+        }
+      ]
+    }
+  ],
   "attributes": {
     "diagram": {
       "name": "Diagram",
