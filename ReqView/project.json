@@ -10,7 +10,8 @@
     "its-vehicle.json",
     "its-location.json",
     "its-t-network.json",
-    "its-t-user.json"
+    "its-t-user.json",
+    "its-weather.json"
   ],
   "traceability": {
     "reference": {
