@@ -2,14 +2,14 @@
   "id": "its-communications",
   "guid": "bd0dae02-fd6d-4694-8a82-c253abb42e13",
   "name": "Communications",
-  "lastId": 25,
+  "lastId": 30,
   "createdOn": "2026-08-07T14:58:13.200Z",
   "createdBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "lastChangedOn": "2026-08-07T14:58:47.168Z",
+  "lastChangedOn": "2026-08-07T15:31:34.618Z",
   "lastChangedBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
@@ -24,7 +24,7 @@
       "diagram": "https://w3id.org/itsdata/communications/v1/diagrams/BroadcastCyberLocation.dot.svg",
       "qname": "BroadcastCyberLocation",
       "type": "Class",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/BroadcastCyberLocation\">Web</a></p>",
       "history": [
         {
@@ -54,6 +54,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -65,7 +76,7 @@
       "diagram": "https://w3id.org/itsdata/communications/v1/diagrams/CommunicationsProtocolCode.dot.svg",
       "qname": "CommunicationsProtocolCode",
       "type": "Class",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/CommunicationsProtocolCode\">Web</a></p>",
       "history": [
         {
@@ -95,6 +106,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -106,7 +128,7 @@
       "diagram": "https://w3id.org/itsdata/communications/v1/diagrams/InternetCyberLocation.dot.svg",
       "qname": "InternetCyberLocation",
       "type": "Class",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/InternetCyberLocation\">Web</a></p>",
       "history": [
         {
@@ -136,6 +158,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -147,7 +180,7 @@
       "diagram": "https://w3id.org/itsdata/communications/v1/diagrams/TransportProtocolCode.dot.svg",
       "qname": "TransportProtocolCode",
       "type": "Class",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/TransportProtocolCode\">Web</a></p>",
       "history": [
         {
@@ -177,6 +210,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -188,7 +232,7 @@
       "diagram": "https://w3id.org/itsdata/communications/v1/diagrams/ApplicationIdentifier.dot.svg",
       "qname": "ApplicationIdentifier",
       "type": "Class",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/ApplicationIdentifier\">Web</a></p>",
       "history": [
         {
@@ -218,6 +262,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -229,7 +284,7 @@
       "diagram": "https://w3id.org/itsdata/communications/v1/diagrams/CyberLocation.dot.svg",
       "qname": "CyberLocation",
       "type": "Class",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/CyberLocation\">Web</a></p>",
       "history": [
         {
@@ -259,6 +314,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -270,7 +336,7 @@
       "diagram": "https://w3id.org/itsdata/communications/v1/diagrams/ApplicationIdentifierTypeCode.dot.svg",
       "qname": "ApplicationIdentifierTypeCode",
       "type": "Class",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/ApplicationIdentifierTypeCode\">Web</a></p>",
       "history": [
         {
@@ -300,6 +366,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -311,7 +388,7 @@
       "diagram": "https://w3id.org/itsdata/communications/v1/diagrams/UrlCyberLocation.dot.svg",
       "qname": "UrlCyberLocation",
       "type": "Class",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/UrlCyberLocation\">Web</a></p>",
       "history": [
         {
@@ -341,6 +418,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -352,7 +440,7 @@
       "diagram": "https://w3id.org/itsdata/communications/v1/diagrams/RadioAccessTechnologyCode.dot.svg",
       "qname": "RadioAccessTechnologyCode",
       "type": "Class",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/RadioAccessTechnologyCode\">Web</a></p>",
       "history": [
         {
@@ -382,6 +470,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -393,7 +492,7 @@
       "diagram": "https://w3id.org/itsdata/communications/v1/diagrams/CommunicationsThing.dot.svg",
       "qname": "CommunicationsThing",
       "type": "Class",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/CommunicationsThing\">Web</a></p>",
       "history": [
         {
@@ -423,6 +522,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -434,7 +544,7 @@
       "diagram": "https://w3id.org/itsdata/communications/v1/diagrams/NetworkEndpointCyberLocation.dot.svg",
       "qname": "NetworkEndpointCyberLocation",
       "type": "Class",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/NetworkEndpointCyberLocation\">Web</a></p>",
       "history": [
         {
@@ -464,6 +574,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -474,7 +595,7 @@
       "text": "<p>Organizational super-property for object properties within the Template topic area of the ITS domain.</p>",
       "qname": "CommunicationsObjectProperty",
       "type": "ObjectProperty",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/CommunicationsObjectProperty\">Web</a></p>",
       "history": [
         {
@@ -503,6 +624,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -513,7 +645,7 @@
       "text": "<p>Associates a network endpoint cyber location with the transport-layer protocol used to reach the advertised service.</p>",
       "qname": "hasTransportProtocol",
       "type": "ObjectProperty",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/hasTransportProtocol\">Web</a></p>",
       "history": [
         {
@@ -542,6 +674,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -552,7 +695,7 @@
       "text": "<p>Associates a cyber location with the communications protocol or protocol stack profile expected when accessing the advertised service.</p>",
       "qname": "hasCommunicationsProtocol",
       "type": "ObjectProperty",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/hasCommunicationsProtocol\">Web</a></p>",
       "history": [
         {
@@ -581,6 +724,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -591,7 +745,7 @@
       "text": "<p>Associates a broadcast cyber location with the radio access technology on which the advertised service is transmitted.</p>",
       "qname": "hasRadioAccessTechnology",
       "type": "ObjectProperty",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/hasRadioAccessTechnology\">Web</a></p>",
       "history": [
         {
@@ -620,6 +774,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -630,7 +795,7 @@
       "text": "<p>Associates a broadcast cyber location with the application or provider service identifier used to recognise the advertised service.</p>",
       "qname": "hasApplicationIdentifier",
       "type": "ObjectProperty",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/hasApplicationIdentifier\">Web</a></p>",
       "history": [
         {
@@ -659,6 +824,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -669,7 +845,7 @@
       "text": "<p>Associates an application identifier with the naming system that defines its value space.</p>",
       "qname": "hasApplicationIdentifierType",
       "type": "ObjectProperty",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/hasApplicationIdentifierType\">Web</a></p>",
       "history": [
         {
@@ -698,6 +874,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -708,7 +895,7 @@
       "text": "<p>Organizational super-property for data properties within the Template topic area of the ITS domain.</p>",
       "qname": "CommunicationsDataProperty",
       "type": "DatatypeProperty",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/CommunicationsDataProperty\">Web</a></p>",
       "history": [
         {
@@ -737,6 +924,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -747,7 +945,7 @@
       "text": "<p>The URL that identifies how to access the advertised service.</p>",
       "qname": "hasServiceUrl",
       "type": "DatatypeProperty",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/hasServiceUrl\">Web</a></p>",
       "history": [
         {
@@ -776,6 +974,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -786,7 +995,7 @@
       "text": "<p>The host address of a network endpoint, expressed as a DNS name or literal IP address.</p>",
       "qname": "hasHostAddress",
       "type": "DatatypeProperty",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/hasHostAddress\">Web</a></p>",
       "history": [
         {
@@ -815,6 +1024,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -825,7 +1045,7 @@
       "text": "<p>The transport-layer port number used to reach the advertised service.</p>",
       "qname": "hasPortNumber",
       "type": "DatatypeProperty",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/hasPortNumber\">Web</a></p>",
       "history": [
         {
@@ -854,6 +1074,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -864,7 +1095,7 @@
       "text": "<p>The integer value of an application identifier, such as an IEEE 1609 PSID or an ETSI ITS-AID.</p>",
       "qname": "hasApplicationIdentifierValue",
       "type": "DatatypeProperty",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/hasApplicationIdentifierValue\">Web</a></p>",
       "history": [
         {
@@ -893,6 +1124,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -903,7 +1145,7 @@
       "text": "<p>The centre frequency, in hertz, of the radio channel used by the advertised broadcast service.</p>",
       "qname": "hasCentreFrequencyInHertz",
       "type": "DatatypeProperty",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/hasCentreFrequencyInHertz\">Web</a></p>",
       "history": [
         {
@@ -932,6 +1174,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -942,7 +1195,7 @@
       "text": "<p>The channel number used by the advertised broadcast service within the applicable radio access technology channel plan.</p>",
       "qname": "hasChannelNumber",
       "type": "DatatypeProperty",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/hasChannelNumber\">Web</a></p>",
       "history": [
         {
@@ -971,6 +1224,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     },
@@ -981,7 +1245,7 @@
       "text": "<p>The channel bandwidth, in hertz, used by the advertised broadcast service.</p>",
       "qname": "hasChannelBandwidthInHertz",
       "type": "DatatypeProperty",
-      "updated": "2026-08-03T17:37:15.032581",
+      "updated": "2026-08-07T11:29:32.739623",
       "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/hasChannelBandwidthInHertz\">Web</a></p>",
       "history": [
         {
@@ -1010,6 +1274,216 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:58:47.168Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T17:37:15.032581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "guid": "eece0397-5bad-4456-bf83-5e8ed0d84fe0",
+      "heading": "QualityOfServiceCode",
+      "text": "<p>A code identifying the delivery assurance or quality-of-service profile expected for a publish/subscribe subscription.</p>",
+      "diagram": "https://w3id.org/itsdata/communications/v1/diagrams/QualityOfServiceCode.dot.svg",
+      "qname": "QualityOfServiceCode",
+      "type": "Class",
+      "updated": "2026-08-07T11:29:32.739623",
+      "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/QualityOfServiceCode\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z",
+          "docId": "its-communications",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "guid": "eaacbcdb-88a2-423f-827e-d0c2139c50ee",
+      "heading": "PubSubCyberLocation",
+      "text": "<p>A cyber location that identifies how to subscribe to an advertised service through a publish/subscribe messaging system by combining a broker endpoint with a subscription topic.</p>",
+      "diagram": "https://w3id.org/itsdata/communications/v1/diagrams/PubSubCyberLocation.dot.svg",
+      "qname": "PubSubCyberLocation",
+      "type": "Class",
+      "updated": "2026-08-07T11:29:32.739623",
+      "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/PubSubCyberLocation\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z",
+          "docId": "its-communications",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "guid": "6481e6f7-2085-4199-a0ee-8a6e910a23af",
+      "heading": "hasBrokerLocation",
+      "text": "<p>Associates a publish/subscribe cyber location with the broker or messaging bus endpoint used to establish the subscription.</p>",
+      "qname": "hasBrokerLocation",
+      "type": "ObjectProperty",
+      "updated": "2026-08-07T11:29:32.739623",
+      "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/hasBrokerLocation\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z",
+          "docId": "its-communications",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "guid": "faa66489-74e2-4a40-a4d5-5e64ecdcaead",
+      "heading": "hasQualityOfService",
+      "text": "<p>Associates a publish/subscribe cyber location with the delivery assurance or quality-of-service profile expected for the subscription.</p>",
+      "qname": "hasQualityOfService",
+      "type": "ObjectProperty",
+      "updated": "2026-08-07T11:29:32.739623",
+      "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/hasQualityOfService\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z",
+          "docId": "its-communications",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "guid": "81e66e8e-f278-4e7c-866b-fb5218ff8472",
+      "heading": "hasSubscriptionTopic",
+      "text": "<p>The topic, subject, queue, or routing key that identifies the advertised service within the publish/subscribe system.</p>",
+      "qname": "hasSubscriptionTopic",
+      "type": "DatatypeProperty",
+      "updated": "2026-08-07T11:29:32.739623",
+      "website": "<p><a href=\"https://w3id.org/itsdata/communications/v1/hasSubscriptionTopic\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z",
+          "docId": "its-communications",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-07T15:31:34.618Z"
         }
       ]
     }
@@ -1079,7 +1553,7 @@
     }
   },
   "properties": {
-    "namespace": "https://w3id.org/itsdata/time/v1/"
+    "namespace": "https://w3id.org/itsdata/ommunications/v1/"
   },
   "metadata": {
     "format": "2.22"
