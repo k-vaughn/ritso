@@ -1,0 +1,89 @@
+{
+  "id": "cdm-p1",
+  "guid": "a38b7d07-6462-45cd-a974-afdac8c0eea7",
+  "name": "City Data Model - Foundational Concepts",
+  "lastId": 0,
+  "createdOn": "2026-08-13T17:58:54.836Z",
+  "createdBy": {
+    "name": "Ken Vaughn",
+    "email": "kvaughn@trevilon.com",
+    "company": "Trevilon"
+  },
+  "lastChangedOn": "2026-08-13T17:58:54.836Z",
+  "lastChangedBy": {
+    "name": "Ken Vaughn",
+    "email": "kvaughn@trevilon.com",
+    "company": "Trevilon"
+  },
+  "data": [],
+  "attributes": {
+    "diagram": {
+      "name": "Diagram",
+      "type": "string"
+    },
+    "qname": {
+      "name": "QName",
+      "type": "string"
+    },
+    "type": {
+      "name": "Type",
+      "type": "enum",
+      "values": [
+        {
+          "default": false,
+          "key": "Class",
+          "label": "Class"
+        },
+        {
+          "default": false,
+          "key": "ObjectProperty",
+          "label": "Object Property"
+        },
+        {
+          "default": false,
+          "key": "DatatypeProperty",
+          "label": "Datatype Property"
+        }
+      ]
+    },
+    "updated": {
+      "name": "Last Update",
+      "type": "string"
+    },
+    "website": {
+      "name": "Website",
+      "type": "xhtml"
+    }
+  },
+  "templateColumns": {
+  },
+  "views": {
+    "Primary": {
+      "columns": [
+        {
+          "columnId": "id",
+          "width": 65
+        },
+        {
+          "columnId": "qname",
+          "width": 150
+        },
+        {
+          "columnId": "description",
+          "width": 500
+        },
+        {
+          "columnId": "links",
+          "width": 300
+        }
+      ],
+      "default": true
+    }
+  },
+  "properties": {
+    "namespace": "https://w3id.org/itsdata/time/v1/"
+  },
+  "metadata": {
+    "format": "2.22"
+  }
+}

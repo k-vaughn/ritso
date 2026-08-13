@@ -13,7 +13,8 @@
     "its-t-user.json",
     "its-time.json",
     "its-vehicle.json",
-    "its-weather.json"
+    "its-weather.json",
+    "cdm-p1.json"
   ],
   "traceability": {
     "reference": {
