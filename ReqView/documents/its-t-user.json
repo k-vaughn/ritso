@@ -2,14 +2,14 @@
   "id": "its-t-user",
   "guid": "a8b127d0-eb8b-4083-8a36-ad76ce8ecb7a",
   "name": "Transport User",
-  "lastId": 5,
+  "lastId": 11,
   "createdOn": "2026-08-07T14:48:12.644Z",
   "createdBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "lastChangedOn": "2026-08-07T14:48:48.412Z",
+  "lastChangedOn": "2026-08-13T20:17:04.099Z",
   "lastChangedBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
@@ -216,6 +216,47 @@
           "changedOn": "2026-08-07T14:48:48.412Z"
         }
       ]
+    },
+    {
+      "id": "8",
+      "guid": "e1ef15cd-91a2-452b-babc-41fc40b2eab0",
+      "heading": "NonVehicularRoadUserCode",
+      "text": "<p>A code that indicates categories of non-vehicular road users that can affect the applicability of a regulation.</p>",
+      "diagram": "https://w3id.org/itsdata/t-user/v1/diagrams/NonVehicularRoadUserCode.dot.svg",
+      "qname": "NonVehicularRoadUserCode",
+      "type": "Class",
+      "updated": "2026-08-13T16:10:58.758477",
+      "website": "<p><a href=\"https://w3id.org/itsdata/t-user/v1/NonVehicularRoadUserCode\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:16:27.935Z",
+          "docId": "its-t-user",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:16:27.935Z"
+        }
+      ]
     }
   ],
   "attributes": {
@@ -283,7 +324,7 @@
     }
   },
   "properties": {
-    "namespace": "https://w3id.org/itsdata/time/v1/"
+    "namespace": "https://w3id.org/itsdata/t-user/v1/"
   },
   "metadata": {
     "format": "2.22"

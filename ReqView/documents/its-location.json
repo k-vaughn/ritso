@@ -2,14 +2,14 @@
   "id": "its-location",
   "guid": "866169bc-9f23-4cf9-a851-7f612d936efc",
   "name": "Location",
-  "lastId": 95,
+  "lastId": 96,
   "createdOn": "2026-08-07T14:45:34.657Z",
   "createdBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "lastChangedOn": "2026-08-07T14:46:15.319Z",
+  "lastChangedOn": "2026-08-13T21:21:18.671Z",
   "lastChangedBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
@@ -24,8 +24,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/ItineraryByWaypoints.dot.svg",
       "qname": "ItineraryByWaypoints",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/ItineraryByWaypoints</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/ItineraryByWaypoints\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -54,6 +54,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/ItineraryByWaypoints</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -65,8 +77,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/PointGeometryList.dot.svg",
       "qname": "PointGeometryList",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/PointGeometryList</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/PointGeometryList\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -95,6 +107,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/PointGeometryList</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -106,8 +130,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/PositionConfidenceEllipse.dot.svg",
       "qname": "PositionConfidenceEllipse",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/PositionConfidenceEllipse</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/PositionConfidenceEllipse\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -136,6 +160,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/PositionConfidenceEllipse</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -147,8 +183,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/PointByProjectedCoordinates.dot.svg",
       "qname": "PointByProjectedCoordinates",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/PointByProjectedCoordinates</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/PointByProjectedCoordinates\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -177,6 +213,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/PointByProjectedCoordinates</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -188,8 +236,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/AreaByMultiPolygon.dot.svg",
       "qname": "AreaByMultiPolygon",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/AreaByMultiPolygon</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/AreaByMultiPolygon\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -218,6 +266,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/AreaByMultiPolygon</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -229,8 +289,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/PointFeature.dot.svg",
       "qname": "PointFeature",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/PointFeature</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/PointFeature\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -259,6 +319,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/PointFeature</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -270,8 +342,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/LinearGeometry.dot.svg",
       "qname": "LinearGeometry",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/LinearGeometry</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/LinearGeometry\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -300,6 +372,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/LinearGeometry</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -311,8 +395,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/PointByCoordinates.dot.svg",
       "qname": "PointByCoordinates",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/PointByCoordinates</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/PointByCoordinates\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -341,6 +425,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/PointByCoordinates</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -352,8 +448,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/Elevation.dot.svg",
       "qname": "Elevation",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/Elevation</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/Elevation\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -382,6 +478,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/Elevation</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -393,8 +501,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/FeatureList.dot.svg",
       "qname": "FeatureList",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/FeatureList</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/FeatureList\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -423,6 +531,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/FeatureList</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -434,8 +554,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/AreaByRectangle.dot.svg",
       "qname": "AreaByRectangle",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/AreaByRectangle</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/AreaByRectangle\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -464,6 +584,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/AreaByRectangle</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -475,8 +607,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/LinearByPointGeometries.dot.svg",
       "qname": "LinearByPointGeometries",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/LinearByPointGeometries</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/LinearByPointGeometries\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -505,6 +637,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/LinearByPointGeometries</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -516,8 +660,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/AreaFeature.dot.svg",
       "qname": "AreaFeature",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/AreaFeature</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/AreaFeature\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -546,6 +690,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/AreaFeature</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -557,8 +713,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/LocationGroup.dot.svg",
       "qname": "LocationGroup",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/LocationGroup</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/LocationGroup\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -587,6 +743,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/LocationGroup</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -598,8 +766,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/ItineraryGeometry.dot.svg",
       "qname": "ItineraryGeometry",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/ItineraryGeometry</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/ItineraryGeometry\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -628,19 +796,31 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/ItineraryGeometry</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
     {
       "id": "16",
       "guid": "bfcecc98-8d76-4bd8-9e89-2d91131bbc32",
-      "heading": "FacilityCode",
-      "text": "<p>A code that identifies a type of facility.</p>",
-      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/FacilityCode.dot.svg",
-      "qname": "FacilityCode",
+      "heading": "FacilityCategoryCode",
+      "text": "<p>A code that identifies a category of facility.</p>",
+      "diagram": "https://w3id.org/itsdata/location/v1/diagrams/FacilityCategoryCode.dot.svg",
+      "qname": "FacilityCategoryCode",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/FacilityCode</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/FacilityCategoryCode\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -669,6 +849,22 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "diagram": "https://w3id.org/itsdata/location/v1/diagrams/FacilityCode.dot.svg",
+            "heading": "FacilityCode",
+            "qname": "FacilityCode",
+            "text": "<p>A code that identifies a type of facility.</p>",
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/FacilityCode</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -680,8 +876,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/Itinerary.dot.svg",
       "qname": "Itinerary",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/Itinerary</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/Itinerary\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -710,6 +906,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/Itinerary</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -721,8 +929,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/PointByCode.dot.svg",
       "qname": "PointByCode",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/PointByCode</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/PointByCode\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -751,6 +959,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/PointByCode</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -762,8 +982,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/MeasurementErrorCode.dot.svg",
       "qname": "MeasurementErrorCode",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/MeasurementErrorCode</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/MeasurementErrorCode\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -792,6 +1012,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/MeasurementErrorCode</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -803,8 +1035,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/LinearByCode.dot.svg",
       "qname": "LinearByCode",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/LinearByCode</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/LinearByCode\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -833,6 +1065,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/LinearByCode</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -844,8 +1088,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/LocationCode.dot.svg",
       "qname": "LocationCode",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/LocationCode</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/LocationCode\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -874,6 +1118,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/LocationCode</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -885,8 +1141,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/LocationThing.dot.svg",
       "qname": "LocationThing",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/LocationThing</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/LocationThing\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -915,6 +1171,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/LocationThing</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -926,8 +1194,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/AreaByLinearBoundaries.dot.svg",
       "qname": "AreaByLinearBoundaries",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/AreaByLinearBoundaries</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/AreaByLinearBoundaries\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -956,6 +1224,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/AreaByLinearBoundaries</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -967,8 +1247,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/PointByGeoCoordinates.dot.svg",
       "qname": "PointByGeoCoordinates",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/PointByGeoCoordinates</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/PointByGeoCoordinates\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -997,6 +1277,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/PointByGeoCoordinates</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1008,8 +1300,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/AreaByGrid.dot.svg",
       "qname": "AreaByGrid",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/AreaByGrid</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/AreaByGrid\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1038,6 +1330,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/AreaByGrid</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1049,8 +1353,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/CodedGeometry.dot.svg",
       "qname": "CodedGeometry",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/CodedGeometry</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/CodedGeometry\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1079,6 +1383,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/CodedGeometry</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1090,8 +1406,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/AreaGeometry.dot.svg",
       "qname": "AreaGeometry",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/AreaGeometry</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/AreaGeometry\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1120,6 +1436,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/AreaGeometry</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1131,8 +1459,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/ItineraryCode.dot.svg",
       "qname": "ItineraryCode",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/ItineraryCode</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/ItineraryCode\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1161,6 +1489,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/ItineraryCode</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1172,8 +1512,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/PositionAccuracy.dot.svg",
       "qname": "PositionAccuracy",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/PositionAccuracy</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/PositionAccuracy\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1202,6 +1542,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/PositionAccuracy</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1213,8 +1565,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/AreaByPolygon.dot.svg",
       "qname": "AreaByPolygon",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/AreaByPolygon</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/AreaByPolygon\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1243,6 +1595,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/AreaByPolygon</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1254,8 +1618,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/LinearByLinearRing.dot.svg",
       "qname": "LinearByLinearRing",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/LinearByLinearRing</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/LinearByLinearRing\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1284,6 +1648,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/LinearByLinearRing</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1295,8 +1671,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/LinearByPointFeatures.dot.svg",
       "qname": "LinearByPointFeatures",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/LinearByPointFeatures</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/LinearByPointFeatures\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1325,6 +1701,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/LinearByPointFeatures</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1336,8 +1724,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/PointGeometry.dot.svg",
       "qname": "PointGeometry",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/PointGeometry</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/PointGeometry\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1366,6 +1754,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/PointGeometry</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1377,8 +1777,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/Geometry.dot.svg",
       "qname": "Geometry",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/Geometry</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/Geometry\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1407,6 +1807,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/Geometry</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1418,8 +1830,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/LinearByMultiLineString.dot.svg",
       "qname": "LinearByMultiLineString",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/LinearByMultiLineString</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/LinearByMultiLineString\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1448,6 +1860,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/LinearByMultiLineString</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1459,8 +1883,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/Feature.dot.svg",
       "qname": "Feature",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/Feature</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/Feature\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1489,6 +1913,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/Feature</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1500,8 +1936,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/LinearByLineString.dot.svg",
       "qname": "LinearByLineString",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/LinearByLineString</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/LinearByLineString\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1530,6 +1966,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/LinearByLineString</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1541,8 +1989,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/AreaByCircle.dot.svg",
       "qname": "AreaByCircle",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/AreaByCircle</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/AreaByCircle\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1571,6 +2019,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/AreaByCircle</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1582,8 +2042,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/CoordinateGeometry.dot.svg",
       "qname": "CoordinateGeometry",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/CoordinateGeometry</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/CoordinateGeometry\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1612,6 +2072,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/CoordinateGeometry</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1623,8 +2095,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/AreaByCode.dot.svg",
       "qname": "AreaByCode",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/AreaByCode</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/AreaByCode\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1653,6 +2125,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/AreaByCode</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1664,8 +2148,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/PointFeatureList.dot.svg",
       "qname": "PointFeatureList",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/PointFeatureList</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/PointFeatureList\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1694,6 +2178,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/PointFeatureList</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1705,8 +2201,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/OffsetDistance.dot.svg",
       "qname": "OffsetDistance",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/OffsetDistance</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/OffsetDistance\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1735,6 +2231,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/OffsetDistance</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1746,8 +2254,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/CoordinateReferenceSystem.dot.svg",
       "qname": "CoordinateReferenceSystem",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/CoordinateReferenceSystem</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/CoordinateReferenceSystem\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1776,6 +2284,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/CoordinateReferenceSystem</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1787,8 +2307,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/ElevationAccuracy.dot.svg",
       "qname": "ElevationAccuracy",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/ElevationAccuracy</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/ElevationAccuracy\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1817,6 +2337,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/ElevationAccuracy</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1828,8 +2360,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/DistanceAccuracy.dot.svg",
       "qname": "DistanceAccuracy",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/DistanceAccuracy</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/DistanceAccuracy\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1858,6 +2390,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/DistanceAccuracy</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1869,8 +2413,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/LinearFeature.dot.svg",
       "qname": "LinearFeature",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/LinearFeature</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/LinearFeature\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1899,6 +2443,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/LinearFeature</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1910,8 +2466,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/PointByLinearPosition.dot.svg",
       "qname": "PointByLinearPosition",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/PointByLinearPosition</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/PointByLinearPosition\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1940,6 +2496,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/PointByLinearPosition</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1951,8 +2519,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/ElevationHeightCode.dot.svg",
       "qname": "ElevationHeightCode",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/ElevationHeightCode</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/ElevationHeightCode\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1981,6 +2549,19 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<p>A code that identifies the height value for an elevation value&nbsp;&nbsp;(e.g., 'ground layer 1', 'elevated layer 1', 'elevated layer 2', 'tunnel layer 1').</p>",
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/ElevationHeightCode</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -1992,8 +2573,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/SpatialObject.dot.svg",
       "qname": "SpatialObject",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/SpatialObject</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/SpatialObject\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2022,6 +2603,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/SpatialObject</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2033,8 +2626,8 @@
       "diagram": "https://w3id.org/itsdata/location/v1/diagrams/ElevationReferenceCode.dot.svg",
       "qname": "ElevationReferenceCode",
       "type": "Class",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/ElevationReferenceCode</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/ElevationReferenceCode\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2063,6 +2656,19 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<p>A code that identifies the reference system for an elevation value&nbsp;&nbsp;(e.g., 'ellipsoidal', 'gravityRelated', 'ground level', 'EPSG:5701', 'coded height').</p>",
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/ElevationReferenceCode</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2073,8 +2679,8 @@
       "text": "<p>Associates a point geometry with an elevation value.</p>",
       "qname": "hasElevation",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/hasElevation</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/hasElevation\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2102,6 +2708,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/hasElevation</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2112,8 +2730,8 @@
       "text": "<p>Elevation distance of a point location, as measured from the elevation reference system.</p>",
       "qname": "hasElevationDistance",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/hasElevationDistance</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/hasElevationDistance\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2141,6 +2759,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/hasElevationDistance</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2151,8 +2781,8 @@
       "text": "<p>Coded elevation height value of a point location.</p>",
       "qname": "hasElevationHeightCode",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/hasElevationHeightCode</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/hasElevationHeightCode\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2180,6 +2810,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/hasElevationHeightCode</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2190,8 +2832,8 @@
       "text": "<p>Reference system for the elevation value.</p>",
       "qname": "hasElevationReference",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/hasElevationReference</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/hasElevationReference\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2219,6 +2861,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/hasElevationReference</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2229,8 +2883,8 @@
       "text": "<p>Associates a point geometry with an elevation accuracy statement.</p>",
       "qname": "hasElevationAccuracy",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/hasElevationAccuracy</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/hasElevationAccuracy\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2258,6 +2912,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/hasElevationAccuracy</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2268,8 +2934,8 @@
       "text": "<p>Associates a point geometry with a statement of positional accuracy.</p>",
       "qname": "hasPositionAccuracy",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/hasPositionAccuracy</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/hasPositionAccuracy\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2297,6 +2963,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/hasPositionAccuracy</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2307,8 +2985,8 @@
       "text": "<p>Associates a point geometry with a confidence ellipse statement.</p>",
       "qname": "hasPositionConfidenceEllipse",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/hasPositionConfidenceEllipse</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/hasPositionConfidenceEllipse\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2336,6 +3014,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/hasPositionConfidenceEllipse</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2346,8 +3036,8 @@
       "text": "<p>The upper limit of the accuracy, expressed as a simple length value (e.g., within 10 meters).</p>",
       "qname": "hasDistanceAccuracy",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/hasDistanceAccuracy</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/hasDistanceAccuracy\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2375,6 +3065,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/hasDistanceAccuracy</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2385,8 +3087,8 @@
       "text": "<p>Percent confidence in a reported value as defined by the percentile of the cumulative distribution of position errors (e.g., 95% confidence).</p>",
       "qname": "confidencePercentage",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/confidencePercentage</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/confidencePercentage\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2414,6 +3116,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/confidencePercentage</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2424,8 +3138,8 @@
       "text": "<p>A code that identifies the error code for a distance accuracy value.</p>",
       "qname": "distanceAccuracyErrorCode",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/distanceAccuracyErrorCode</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/distanceAccuracyErrorCode\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2453,6 +3167,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/distanceAccuracyErrorCode</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2463,8 +3189,8 @@
       "text": "<p>Semi-major axis length of the confidence ellipse.</p>",
       "qname": "semiMajorAxisLength",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/semiMajorAxisLength</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/semiMajorAxisLength\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2492,6 +3218,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/semiMajorAxisLength</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2502,8 +3240,8 @@
       "text": "<p>Semi-minor axis length of the confidence ellipse.</p>",
       "qname": "semiMinorAxisLength",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/semiMinorAxisLength</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/semiMinorAxisLength\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2531,6 +3269,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/semiMinorAxisLength</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2541,8 +3291,8 @@
       "text": "<p>Orientation of the semi-major axis of the confidence ellipse.</p>",
       "qname": "semiMajorAxisOrientation",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/semiMajorAxisOrientation</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/semiMajorAxisOrientation\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2570,6 +3320,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/semiMajorAxisOrientation</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2580,8 +3342,8 @@
       "text": "<p>A code qualifying the semi-major axis length measurement.</p>",
       "qname": "semiMajorAxisLengthErrorCode",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/semiMajorAxisLengthErrorCode</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/semiMajorAxisLengthErrorCode\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2609,6 +3371,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/semiMajorAxisLengthErrorCode</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2619,8 +3393,8 @@
       "text": "<p>A code qualifying the semi-minor axis length measurement.</p>",
       "qname": "semiMinorAxisLengthErrorCode",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/semiMinorAxisLengthErrorCode</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/semiMinorAxisLengthErrorCode\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2648,6 +3422,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/semiMinorAxisLengthErrorCode</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2658,8 +3444,8 @@
       "text": "<p>A code qualifying the semi-major axis orientation measurement.</p>",
       "qname": "semiMajorAxisOrientationErrorCode",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/semiMajorAxisOrientationErrorCode</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/semiMajorAxisOrientationErrorCode\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2687,6 +3473,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/semiMajorAxisOrientationErrorCode</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2697,8 +3495,8 @@
       "text": "<p>Bearing of a point location.</p>",
       "qname": "bearing",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/bearing</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/bearing\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2726,6 +3524,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/bearing</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2736,8 +3546,8 @@
       "text": "<p>Associates an area geometry with linear features that define its boundary.</p>",
       "qname": "hasLinearBoundary",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/hasLinearBoundary</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/hasLinearBoundary\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2765,6 +3575,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/hasLinearBoundary</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2775,8 +3597,8 @@
       "text": "<p>Center point of a circle area geometry.</p>",
       "qname": "hasCenter",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/hasCenter</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/hasCenter\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2804,6 +3626,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/hasCenter</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2814,8 +3648,8 @@
       "text": "<p>Radius of a circle area geometry.</p>",
       "qname": "radius",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/radius</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/radius\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2843,6 +3677,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/radius</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2853,8 +3699,8 @@
       "text": "<p>Lower-left (southwestern) point of a rectangle area geometry.</p>",
       "qname": "hasLowerLeft",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/hasLowerLeft</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/hasLowerLeft\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2882,6 +3728,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/hasLowerLeft</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2892,8 +3750,8 @@
       "text": "<p>Upper-right (northeastern) point of a rectangle area geometry.</p>",
       "qname": "hasUpperRight",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/hasUpperRight</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/hasUpperRight\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2921,6 +3779,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/hasUpperRight</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2931,8 +3801,8 @@
       "text": "<p>Associates LinearByPointFeatures with its ordered list of member points.</p>",
       "qname": "hasPointList",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/hasPointList</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/hasPointList\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2960,6 +3830,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/hasPointList</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -2970,8 +3852,8 @@
       "text": "<p>Associates LinearByPointGeometries with its ordered list of member point geometries.</p>",
       "qname": "hasPointGeometryList",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/hasPointGeometryList</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/hasPointGeometryList\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2999,6 +3881,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/hasPointGeometryList</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -3009,8 +3903,8 @@
       "text": "<p>Associates a PointByLinearPosition with its offset distance value.</p>",
       "qname": "hasOffsetDistance",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/hasOffsetDistance</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/hasOffsetDistance\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -3038,6 +3932,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/hasOffsetDistance</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -3048,8 +3954,8 @@
       "text": "<p>Length form of an offset distance.</p>",
       "qname": "offsetLength",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/offsetLength</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/offsetLength\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -3077,6 +3983,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/offsetLength</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -3087,8 +4005,8 @@
       "text": "<p>Percentage form of an offset distance.</p>",
       "qname": "offsetPercentage",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/offsetPercentage</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/offsetPercentage\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -3116,6 +4034,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/offsetPercentage</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -3126,8 +4056,8 @@
       "text": "<p>Associates a PointByLinearPosition with the linear geometry along which it is located.</p>",
       "qname": "alongLinearGeometry",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/alongLinearGeometry</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/alongLinearGeometry\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -3155,6 +4085,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/alongLinearGeometry</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -3165,8 +4107,8 @@
       "text": "<p>The base/reference point from which the offset is measured.</p>",
       "qname": "basePoint",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/basePoint</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/basePoint\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -3194,6 +4136,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/basePoint</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -3204,8 +4158,8 @@
       "text": "<p>A second point used to establish the direction of offset relative to the basePoint.</p>",
       "qname": "directionPoint",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/directionPoint</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/directionPoint\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -3233,6 +4187,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/directionPoint</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -3243,8 +4209,8 @@
       "text": "<p>DATEX-aligned property name for associating an itinerary by waypoints with its ordered list of member features.</p>",
       "qname": "locationContainedInItinerary",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/locationContainedInItinerary</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/locationContainedInItinerary\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -3272,6 +4238,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/locationContainedInItinerary</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -3282,8 +4260,8 @@
       "text": "<p>Associates an itinerary by waypoints with its ordered list of member features (waypoints).</p>",
       "qname": "hasWaypointList",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/hasWaypointList</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/hasWaypointList\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -3311,6 +4289,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/hasWaypointList</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -3321,8 +4311,8 @@
       "text": "<p>Organizational super-property for location core object properties.</p>",
       "qname": "LocationObjectProperty",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/LocationObjectProperty</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/LocationObjectProperty\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -3350,6 +4340,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/LocationObjectProperty</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -3360,8 +4362,8 @@
       "text": "<p>Relates a location group to a member feature.</p>",
       "qname": "hasMember",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/hasMember</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/hasMember\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -3389,6 +4391,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/hasMember</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -3399,8 +4413,8 @@
       "text": "<p>Associates a coded geometry with the location code used to retrieve or resolve its geometric extent in an external system.</p>",
       "qname": "hasLookupCode",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/hasLookupCode</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/hasLookupCode\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -3428,6 +4442,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/hasLookupCode</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -3438,8 +4464,8 @@
       "text": "<p>Inverse of geo:hasGeometry: relates a geometry to the feature it represents.</p>",
       "qname": "geometryOf",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/geometryOf</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/geometryOf\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -3467,6 +4493,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/geometryOf</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -3477,8 +4515,8 @@
       "text": "<p>Associates a CoordinateGeometry with the coordinate reference system used to interpret its coordinate tuples.</p>",
       "qname": "hasCRS",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/hasCRS</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/hasCRS\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -3506,6 +4544,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/hasCRS</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -3516,8 +4566,8 @@
       "text": "<p>Latitude of a point coordinate (decimal degrees; CRS implied or supplied by the geometry context).</p>",
       "qname": "latitude",
       "type": "DatatypeProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/latitude</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/latitude\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -3545,6 +4595,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/latitude</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -3555,8 +4617,8 @@
       "text": "<p>Longitude of a point coordinate (decimal degrees; CRS implied or supplied by the geometry context).</p>",
       "qname": "longitude",
       "type": "DatatypeProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/longitude</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/longitude\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -3584,6 +4646,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/longitude</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -3594,8 +4668,8 @@
       "text": "<p>The northerly (y) dimension of a point coordinate expressed in some linear unit.</p>",
       "qname": "northing",
       "type": "DatatypeProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/northing</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/northing\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -3623,6 +4697,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/northing</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -3633,8 +4719,8 @@
       "text": "<p>The easterly (x) dimension of a point coordinate expressed in some linear unit.</p>",
       "qname": "easting",
       "type": "DatatypeProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/easting</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/easting\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -3662,6 +4748,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/easting</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -3672,8 +4770,8 @@
       "text": "<p>Number of times the base rectangle cell is replicated eastward in a grid area geometry. The width of the area is the width of the base cell multiplied by the number of columns.</p>",
       "qname": "numColumns",
       "type": "DatatypeProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/numColumns</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/numColumns\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -3701,6 +4799,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/numColumns</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -3711,8 +4821,8 @@
       "text": "<p>Number of times the base rectangle cell is replicated northward in a grid area geometry. The height of the area is the height of the base cell multiplied by the number of rows.</p>",
       "qname": "numRows",
       "type": "DatatypeProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/numRows</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/numRows\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -3740,6 +4850,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/numRows</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -3750,8 +4872,8 @@
       "text": "<p>Organizational super-property for location core data properties.</p>",
       "qname": "LocationDataProperty",
       "type": "DatatypeProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/LocationDataProperty</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/LocationDataProperty\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -3779,6 +4901,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/LocationDataProperty</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     },
@@ -3789,8 +4923,8 @@
       "text": "<p>The epoch (observation/realization time) at which the coordinate tuples of a CoordinateGeometry are valid in its CRS. Needed for dynamic reference frames.</p>",
       "qname": "coordinateEpoch",
       "type": "DatatypeProperty",
-      "updated": "2026-07-27T20:04:25.980923",
-      "website": "<p>https://w3id.org/itsdata/location/v1/coordinateEpoch</p>",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/coordinateEpoch\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -3818,6 +4952,57 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:46:15.319Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T20:04:25.980923",
+            "website": "<p>https://w3id.org/itsdata/location/v1/coordinateEpoch</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
+        }
+      ]
+    },
+    {
+      "id": "96",
+      "guid": "26552b0c-5120-48e1-a7b2-4801942d1953",
+      "heading": "hasNominalDirection",
+      "text": "<p>Associates a feature with its nominal direction.</p>",
+      "qname": "hasNominalDirection",
+      "type": "ObjectProperty",
+      "updated": "2026-08-13T17:19:39.724471",
+      "website": "<p><a href=\"https://w3id.org/itsdata/location/v1/hasNominalDirection\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z",
+          "docId": "its-location",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T21:21:18.671Z"
         }
       ]
     }
@@ -3887,7 +5072,7 @@
     }
   },
   "properties": {
-    "namespace": "https://w3id.org/itsdata/time/v1/"
+    "namespace": "https://w3id.org/itsdata/location/v1/"
   },
   "metadata": {
     "format": "2.22"

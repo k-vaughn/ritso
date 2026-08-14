@@ -2,14 +2,14 @@
   "id": "its-core",
   "guid": "b7cb8443-01bc-462e-9664-4edef0da13f5",
   "name": "ITS Core Concepts",
-  "lastId": 29,
+  "lastId": 34,
   "createdOn": "2026-08-05T14:19:49.772Z",
   "createdBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "lastChangedOn": "2026-08-12T13:16:33.664Z",
+  "lastChangedOn": "2026-08-13T17:09:19.714Z",
   "lastChangedBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
@@ -24,8 +24,8 @@
       "diagram": "https://w3id.org/itsdata/core/v1/diagrams/OfficialThing.dot.svg",
       "qname": "OfficialThing",
       "type": "Class",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/OfficialThing</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/OfficialThing\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -54,6 +54,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/OfficialThing</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -65,8 +77,8 @@
       "diagram": "https://w3id.org/itsdata/core/v1/diagrams/Direction.dot.svg",
       "qname": "Direction",
       "type": "Class",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/Direction</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/Direction\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -95,6 +107,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/Direction</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -106,8 +130,8 @@
       "diagram": "https://w3id.org/itsdata/core/v1/diagrams/VersionedThing.dot.svg",
       "qname": "VersionedThing",
       "type": "Class",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/VersionedThing</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/VersionedThing\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -136,6 +160,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/VersionedThing</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -147,8 +183,8 @@
       "diagram": "https://w3id.org/itsdata/core/v1/diagrams/ComparisonOperatorCode.dot.svg",
       "qname": "ComparisonOperatorCode",
       "type": "Class",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/ComparisonOperatorCode</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/ComparisonOperatorCode\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -177,6 +213,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/ComparisonOperatorCode</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -188,8 +236,8 @@
       "diagram": "https://w3id.org/itsdata/core/v1/diagrams/Code.dot.svg",
       "qname": "Code",
       "type": "Class",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/Code</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/Code\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -218,6 +266,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/Code</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -229,8 +289,8 @@
       "diagram": "https://w3id.org/itsdata/core/v1/diagrams/CodeList.dot.svg",
       "qname": "CodeList",
       "type": "Class",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/CodeList</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/CodeList\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -259,6 +319,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/CodeList</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -270,8 +342,8 @@
       "diagram": "https://w3id.org/itsdata/core/v1/diagrams/AngleUnit.dot.svg",
       "qname": "AngleUnit",
       "type": "Class",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/AngleUnit</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/AngleUnit\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -300,6 +372,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/AngleUnit</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -311,8 +395,8 @@
       "diagram": "https://w3id.org/itsdata/core/v1/diagrams/Angle.dot.svg",
       "qname": "Angle",
       "type": "Class",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/Angle</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/Angle\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -341,6 +425,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/Angle</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -352,8 +448,8 @@
       "diagram": "https://w3id.org/itsdata/core/v1/diagrams/Bearing.dot.svg",
       "qname": "Bearing",
       "type": "Class",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/Bearing</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/Bearing\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -382,6 +478,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/Bearing</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -393,8 +501,8 @@
       "diagram": "https://w3id.org/itsdata/core/v1/diagrams/ActivationStatusCode.dot.svg",
       "qname": "ActivationStatusCode",
       "type": "Class",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/ActivationStatusCode</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/ActivationStatusCode\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -423,6 +531,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/ActivationStatusCode</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -434,8 +554,8 @@
       "diagram": "https://w3id.org/itsdata/core/v1/diagrams/DirectionCode.dot.svg",
       "qname": "DirectionCode",
       "type": "Class",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/DirectionCode</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/DirectionCode\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -464,6 +584,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/DirectionCode</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -474,8 +606,8 @@
       "text": "<p>An object property to organize all object properties defined in all recognized ITS Ontologies.</p>",
       "qname": "ITSObjectProperty",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/ITSObjectProperty</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/ITSObjectProperty\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -503,6 +635,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/ITSObjectProperty</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -513,8 +657,8 @@
       "text": "<p>The Agent that entered the OfficialThing.</p>",
       "qname": "enteredBy",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/enteredBy</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/enteredBy\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -542,6 +686,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/enteredBy</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -552,8 +708,8 @@
       "text": "<p>Associates a code with the code list that defines it.</p>",
       "qname": "fromCodeList",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/fromCodeList</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/fromCodeList\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -581,6 +737,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/fromCodeList</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -591,8 +759,8 @@
       "text": "<p>The activation status of the object.</p>",
       "qname": "hasActivationStatus",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/hasActivationStatus</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/hasActivationStatus\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -620,6 +788,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/hasActivationStatus</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -630,8 +810,8 @@
       "text": "<p>The jurisdiction associated with the object.</p>",
       "qname": "hasJurisdiction",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/hasJurisdiction</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/hasJurisdiction\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -659,6 +839,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/hasJurisdiction</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -669,8 +861,8 @@
       "text": "<p>Associates a code list with a registered member code.</p>",
       "qname": "hasRegisteredCode",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/hasRegisteredCode</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/hasRegisteredCode\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -698,6 +890,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/hasRegisteredCode</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -708,8 +912,8 @@
       "text": "<p>The Agent that issued the OfficialThing.</p>",
       "qname": "issuingAuthority",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/issuingAuthority</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/issuingAuthority\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -737,6 +941,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/issuingAuthority</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -747,8 +963,8 @@
       "text": "<p>Associates a code list with a registered member code.</p>",
       "qname": "managedBy",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/managedBy</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/managedBy\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -776,6 +992,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/managedBy</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -786,8 +1014,8 @@
       "text": "<p>A datatype property to organize all datatype properties defined in all recognized ITS Ontologies.</p>",
       "qname": "ITSDataProperty",
       "type": "DatatypeProperty",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/ITSDataProperty</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/ITSDataProperty\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -815,6 +1043,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/ITSDataProperty</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -825,8 +1065,8 @@
       "text": "<p>The lexical value of a code.</p>",
       "qname": "codeValue",
       "type": "DatatypeProperty",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/codeValue</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/codeValue\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -854,6 +1094,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/codeValue</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -864,8 +1116,8 @@
       "text": "<p>The date the OfficialThing was entered.</p>",
       "qname": "enteredOn",
       "type": "DatatypeProperty",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/enteredOn</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/enteredOn\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -893,6 +1145,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/enteredOn</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -903,8 +1167,8 @@
       "text": "<p>The binary content of an image embedded as base64-encoded bytes.</p>",
       "qname": "hasImage",
       "type": "DatatypeProperty",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/hasImage</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/hasImage\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -932,6 +1196,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/hasImage</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -942,8 +1218,8 @@
       "text": "<p>The maintainer of the code list (free-text identifier; can be replaced with a richer organization model later).</p>",
       "qname": "hasMaintainer",
       "type": "DatatypeProperty",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/hasMaintainer</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/hasMaintainer\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -971,6 +1247,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/hasMaintainer</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -981,8 +1269,8 @@
       "text": "<p>A human-readable name for the code list.</p>",
       "qname": "hasName",
       "type": "DatatypeProperty",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/hasName</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/hasName\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1010,6 +1298,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/hasName</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -1020,8 +1320,8 @@
       "text": "<p>The URL associated with the object.</p>",
       "qname": "hasUrl",
       "type": "DatatypeProperty",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/hasUrl</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/hasUrl\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1049,6 +1349,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/hasUrl</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -1059,8 +1371,8 @@
       "text": "<p>The version of the object.</p>",
       "qname": "hasVersion",
       "type": "DatatypeProperty",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/hasVersion</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/hasVersion\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1088,6 +1400,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/hasVersion</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -1098,8 +1422,8 @@
       "text": "<p>The date the OfficialThing was issued.</p>",
       "qname": "issuedOn",
       "type": "DatatypeProperty",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/issuedOn</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/issuedOn\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1127,6 +1451,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/issuedOn</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     },
@@ -1137,8 +1473,8 @@
       "text": "<p>Date the code list was last modified.</p>",
       "qname": "lastModified",
       "type": "DatatypeProperty",
-      "updated": "2026-07-27T10:14:53.504900",
-      "website": "<p>https://w3id.org/itsdata/core/v1/lastModified</p>",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/lastModified\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1166,6 +1502,176 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:23:31.479Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T10:14:53.504900",
+            "website": "<p>https://w3id.org/itsdata/core/v1/lastModified</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "guid": "46a35f1d-2670-4d98-92ee-70c290c61562",
+      "heading": "OWLSpecification",
+      "text": "<p>A specification of a concept using the Web Ontology Language (OWL) along with associated metadata. The specification should include both the natural language definition and the semantic OWL definition.</p>",
+      "diagram": "https://w3id.org/itsdata/core/v1/diagrams/OWLSpecification.dot.svg",
+      "qname": "OWLSpecification",
+      "type": "Class",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/OWLSpecification\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "guid": "e3fe4af1-917f-43ca-aee7-a7d0a5c3ead4",
+      "heading": "hasOWLSpecification",
+      "text": "<p>Points to the OWLSpecification that formally defines the meaning of this Code.</p>",
+      "qname": "hasOWLSpecification",
+      "type": "ObjectProperty",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/hasOWLSpecification\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "guid": "ed583f77-fa07-4b98-96cb-9446ae5670e7",
+      "heading": "hasIRI",
+      "text": "<p>The IRI of the OWLSpecification.</p>",
+      "qname": "hasIRI",
+      "type": "DatatypeProperty",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/hasIRI\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "guid": "ca2169ec-2e97-448f-8a18-b760d1371ee8",
+      "heading": "isComplete",
+      "text": "<p>A boolean value indicating whether the OWLSpecification fully defines the concept using semantic OWL syntax (true) or if there are textual semantics that are not fully captured in the OWL syntax (false).</p>",
+      "qname": "isComplete",
+      "type": "DatatypeProperty",
+      "updated": "2026-08-13T13:05:48.697950",
+      "website": "<p><a href=\"https://w3id.org/itsdata/core/v1/isComplete\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z",
+          "docId": "its-core",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T17:07:05.477Z"
         }
       ]
     }

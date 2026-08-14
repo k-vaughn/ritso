@@ -2,14 +2,14 @@
   "id": "its-regulation",
   "guid": "cd19556f-caf0-47d9-8d17-eaf22d7ff2a3",
   "name": "ITS Traffic Regulations",
-  "lastId": 149,
+  "lastId": 151,
   "createdOn": "2026-07-22T16:12:45.108Z",
   "createdBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "lastChangedOn": "2026-08-10T20:23:58.437Z",
+  "lastChangedOn": "2026-08-13T20:35:08.351Z",
   "lastChangedBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
@@ -24,7 +24,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/AccessCategoryCode.dot.svg",
       "qname": "AccessCategoryCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/AccessCategoryCode\">Web</a></p>",
       "history": [
         {
@@ -111,6 +111,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -122,7 +133,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/AccessControlDevice.dot.svg",
       "qname": "AccessControlDevice",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/AccessControlDevice\">Web</a></p>",
       "history": [
         {
@@ -197,6 +208,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -208,7 +230,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/AccessControlTypeCode.dot.svg",
       "qname": "AccessControlTypeCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/AccessControlTypeCode\">Web</a></p>",
       "history": [
         {
@@ -283,6 +305,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -294,7 +327,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/ActivationStatusCode.dot.svg",
       "qname": "ActivationStatusCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/ActivationStatusCode\">Web</a></p>",
       "history": [
         {
@@ -369,6 +402,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -380,7 +424,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/ChannelizationDevice.dot.svg",
       "qname": "ChannelizationDevice",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/ChannelizationDevice\">Web</a></p>",
       "history": [
         {
@@ -455,6 +499,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -466,7 +521,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/ChannelizationTypeCode.dot.svg",
       "qname": "ChannelizationTypeCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/ChannelizationTypeCode\">Web</a></p>",
       "history": [
         {
@@ -541,6 +596,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -552,7 +618,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/RestrictionCode.dot.svg",
       "qname": "RestrictionCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/RestrictionCode\">Web</a></p>",
       "history": [
         {
@@ -632,6 +698,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -643,7 +720,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/CodedPairRegulation.dot.svg",
       "qname": "CodedPairRegulation",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/CodedPairRegulation\">Web</a></p>",
       "history": [
         {
@@ -718,6 +795,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -729,7 +817,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/CodedRegulation.dot.svg",
       "qname": "CodedRegulation",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/CodedRegulation\">Web</a></p>",
       "history": [
         {
@@ -804,6 +892,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -815,7 +914,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/CodedRegulationWithFee.dot.svg",
       "qname": "CodedRegulationWithFee",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/CodedRegulationWithFee\">Web</a></p>",
       "history": [
         {
@@ -890,6 +989,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -901,7 +1011,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/CodedRegulationWithThreshold.dot.svg",
       "qname": "CodedRegulationWithThreshold",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/CodedRegulationWithThreshold\">Web</a></p>",
       "history": [
         {
@@ -976,6 +1086,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -987,7 +1108,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/CompositeSign.dot.svg",
       "qname": "CompositeSign",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/CompositeSign\">Web</a></p>",
       "history": [
         {
@@ -1062,6 +1183,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -1073,7 +1205,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/Condition.dot.svg",
       "qname": "Condition",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/Condition\">Web</a></p>",
       "history": [
         {
@@ -1148,6 +1280,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -1159,7 +1302,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/ConditionCode.dot.svg",
       "qname": "ConditionCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/ConditionCode\">Web</a></p>",
       "history": [
         {
@@ -1234,6 +1377,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -1245,7 +1399,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/ConditionSet.dot.svg",
       "qname": "ConditionSet",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/ConditionSet\">Web</a></p>",
       "history": [
         {
@@ -1320,6 +1474,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -1331,7 +1496,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/ContextRegulationCode.dot.svg",
       "qname": "ContextRegulationCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/ContextRegulationCode\">Web</a></p>",
       "history": [
         {
@@ -1406,6 +1571,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -1417,7 +1593,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/DestinationInfo.dot.svg",
       "qname": "DestinationInfo",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/DestinationInfo\">Web</a></p>",
       "history": [
         {
@@ -1492,6 +1668,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -1503,7 +1690,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/DriverCategoryCode.dot.svg",
       "qname": "DriverCategoryCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/DriverCategoryCode\">Web</a></p>",
       "history": [
         {
@@ -1578,6 +1765,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -1589,7 +1787,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/EnumeratedCondition.dot.svg",
       "qname": "EnumeratedCondition",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/EnumeratedCondition\">Web</a></p>",
       "history": [
         {
@@ -1664,6 +1862,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -1675,7 +1884,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/FeeRegulationCode.dot.svg",
       "qname": "FeeRegulationCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/FeeRegulationCode\">Web</a></p>",
       "history": [
         {
@@ -1750,6 +1959,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -1761,7 +1981,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/InternationalSign.dot.svg",
       "qname": "InternationalSign",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/InternationalSign\">Web</a></p>",
       "history": [
         {
@@ -1836,6 +2056,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -1847,7 +2078,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/LegalBasis.dot.svg",
       "qname": "LegalBasis",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/LegalBasis\">Web</a></p>",
       "history": [
         {
@@ -1922,6 +2153,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -1933,7 +2175,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/LocationCondition.dot.svg",
       "qname": "LocationCondition",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/LocationCondition\">Web</a></p>",
       "history": [
         {
@@ -2008,6 +2250,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -2019,7 +2272,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/LogicalOperatorCode.dot.svg",
       "qname": "LogicalOperatorCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/LogicalOperatorCode\">Web</a></p>",
       "history": [
         {
@@ -2094,6 +2347,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -2105,7 +2369,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/MeasurableCondition.dot.svg",
       "qname": "MeasurableCondition",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/MeasurableCondition\">Web</a></p>",
       "history": [
         {
@@ -2180,6 +2444,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -2191,7 +2466,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/MeasurableConditionCode.dot.svg",
       "qname": "MeasurableConditionCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/MeasurableConditionCode\">Web</a></p>",
       "history": [
         {
@@ -2266,92 +2541,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
-        }
-      ]
-    },
-    {
-      "id": "27",
-      "guid": "2bbe8476-e111-4510-be06-6b3a6057bf5a",
-      "heading": "NonVehicularRoadUserCode",
-      "text": "<p>A code that indicates categories of non-vehicular road users that can affect the applicability of a regulation.</p>",
-      "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/NonVehicularRoadUserCode.dot.svg",
-      "qname": "NonVehicularRoadUserCode",
-      "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
-      "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/NonVehicularRoadUserCode\">Web</a></p>",
-      "history": [
-        {
-          "affectedNodeId": "#",
-          "changedBy": {
-            "company": "Trevilon",
-            "email": "kvaughn@trevilon.com",
-            "name": "Ken Vaughn"
-          },
-          "changedOn": "2026-07-22T16:13:14.551Z",
-          "docId": "its-regulation",
-          "structureAction": "Create"
         },
         {
           "attributesChanged": {
-            "diagram": null,
-            "heading": null,
-            "qname": null,
-            "text": null,
-            "type": null,
-            "updated": null,
-            "website": null
+            "updated": "2026-08-10T16:04:05.347473"
           },
           "changedBy": {
             "company": "Trevilon",
             "email": "kvaughn@trevilon.com",
             "name": "Ken Vaughn"
           },
-          "changedOn": "2026-07-22T16:13:14.551Z"
-        },
-        {
-          "attributesChanged": {
-            "website": "https://w3id.org/itsdata/regulation/v1/NonVehicularRoadUserCode"
-          },
-          "changedBy": {
-            "company": "Trevilon",
-            "email": "kvaughn@trevilon.com",
-            "name": "Ken Vaughn"
-          },
-          "changedOn": "2026-08-03T18:50:11.592Z"
-        },
-        {
-          "attributesChanged": {
-            "updated": "2026-07-21T18:08:15.348954",
-            "website": "<p>https://w3id.org/itsdata/regulation/v1/NonVehicularRoadUserCode</p>"
-          },
-          "changedBy": {
-            "company": "Trevilon",
-            "email": "kvaughn@trevilon.com",
-            "name": "Ken Vaughn"
-          },
-          "changedOn": "2026-08-03T19:14:23.395Z"
-        },
-        {
-          "attributesChanged": {
-            "updated": "2026-08-03T15:09:04.233802"
-          },
-          "changedBy": {
-            "company": "Trevilon",
-            "email": "kvaughn@trevilon.com",
-            "name": "Ken Vaughn"
-          },
-          "changedOn": "2026-08-03T19:27:11.417Z"
-        },
-        {
-          "attributesChanged": {
-            "updated": "2026-08-03T15:26:49.640662"
-          },
-          "changedBy": {
-            "company": "Trevilon",
-            "email": "kvaughn@trevilon.com",
-            "name": "Ken Vaughn"
-          },
-          "changedOn": "2026-08-10T20:23:58.437Z"
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -2363,7 +2563,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/PavementMarking.dot.svg",
       "qname": "PavementMarking",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/PavementMarking\">Web</a></p>",
       "history": [
         {
@@ -2438,6 +2638,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -2449,7 +2660,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/PavementMarkingTypeCode.dot.svg",
       "qname": "PavementMarkingTypeCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/PavementMarkingTypeCode\">Web</a></p>",
       "history": [
         {
@@ -2524,6 +2735,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -2535,7 +2757,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/Permit.dot.svg",
       "qname": "Permit",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/Permit\">Web</a></p>",
       "history": [
         {
@@ -2610,6 +2832,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -2621,7 +2854,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/PermitApplicationInformation.dot.svg",
       "qname": "PermitApplicationInformation",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/PermitApplicationInformation\">Web</a></p>",
       "history": [
         {
@@ -2696,6 +2929,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -2707,7 +2951,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/PermitDesignationCode.dot.svg",
       "qname": "PermitDesignationCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/PermitDesignationCode\">Web</a></p>",
       "history": [
         {
@@ -2782,6 +3026,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -2793,7 +3048,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/PermitDisplayTypeCode.dot.svg",
       "qname": "PermitDisplayTypeCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/PermitDisplayTypeCode\">Web</a></p>",
       "history": [
         {
@@ -2868,6 +3123,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -2879,7 +3145,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/PermitGranteeTypeCode.dot.svg",
       "qname": "PermitGranteeTypeCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/PermitGranteeTypeCode\">Web</a></p>",
       "history": [
         {
@@ -2954,6 +3220,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -2965,7 +3242,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/PermitGrantorTypeCode.dot.svg",
       "qname": "PermitGrantorTypeCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/PermitGrantorTypeCode\">Web</a></p>",
       "history": [
         {
@@ -3040,6 +3317,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -3051,7 +3339,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/PermitRequiredCondition.dot.svg",
       "qname": "PermitRequiredCondition",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/PermitRequiredCondition\">Web</a></p>",
       "history": [
         {
@@ -3126,6 +3414,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -3137,7 +3436,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/PermitType.dot.svg",
       "qname": "PermitType",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/PermitType\">Web</a></p>",
       "history": [
         {
@@ -3212,6 +3511,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -3223,7 +3533,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/ReasonCode.dot.svg",
       "qname": "ReasonCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/ReasonCode\">Web</a></p>",
       "history": [
         {
@@ -3298,6 +3608,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -3309,7 +3630,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/RegistrationMachine.dot.svg",
       "qname": "RegistrationMachine",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/RegistrationMachine\">Web</a></p>",
       "history": [
         {
@@ -3384,6 +3705,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -3394,7 +3726,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/RegulationCode.dot.svg",
       "qname": "RegulationCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/RegulationCode\">Web</a></p>",
       "history": [
         {
@@ -3471,6 +3803,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "text": null,
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -3481,7 +3825,7 @@
       "text": "<p>A data property to organize all data properties defined in the Traffic Regulation topic area of the ITS Ontology.</p>",
       "qname": "RegulationDataProperty",
       "type": "DatatypeProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/RegulationDataProperty\">Web</a></p>",
       "history": [
         {
@@ -3555,6 +3899,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -3565,7 +3920,7 @@
       "text": "<p>An object property to organize all object properties defined in the Traffic Regulation topic area of the ITS Ontology.</p>",
       "qname": "RegulationObjectProperty",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/RegulationObjectProperty\">Web</a></p>",
       "history": [
         {
@@ -3639,6 +3994,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -3650,7 +4016,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/RegulationThing.dot.svg",
       "qname": "RegulationThing",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/RegulationThing\">Web</a></p>",
       "history": [
         {
@@ -3725,6 +4091,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -3736,7 +4113,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/RegulatoryScopeCode.dot.svg",
       "qname": "RegulatoryScopeCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/RegulatoryScopeCode\">Web</a></p>",
       "history": [
         {
@@ -3811,6 +4188,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -3822,7 +4210,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/RoadSurfaceFeature.dot.svg",
       "qname": "RoadSurfaceFeature",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/RoadSurfaceFeature\">Web</a></p>",
       "history": [
         {
@@ -3897,6 +4285,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -3908,7 +4307,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/RoadSurfaceFeatureTypeCode.dot.svg",
       "qname": "RoadSurfaceFeatureTypeCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/RoadSurfaceFeatureTypeCode\">Web</a></p>",
       "history": [
         {
@@ -3983,6 +4382,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -3994,7 +4404,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/RoadTypeCode.dot.svg",
       "qname": "RoadTypeCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/RoadTypeCode\">Web</a></p>",
       "history": [
         {
@@ -4069,6 +4479,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -4079,7 +4500,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/RoadWeatherConditionCode.dot.svg",
       "qname": "RoadWeatherConditionCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/RoadWeatherConditionCode\">Web</a></p>",
       "history": [
         {
@@ -4156,6 +4577,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "text": null,
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -4167,7 +4600,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/RuleMakerRole.dot.svg",
       "qname": "RuleMakerRole",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/RuleMakerRole\">Web</a></p>",
       "history": [
         {
@@ -4242,6 +4675,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -4253,7 +4697,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/SignDestination.dot.svg",
       "qname": "SignDestination",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/SignDestination\">Web</a></p>",
       "history": [
         {
@@ -4328,6 +4772,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -4339,7 +4794,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/SimpleSign.dot.svg",
       "qname": "SimpleSign",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/SimpleSign\">Web</a></p>",
       "history": [
         {
@@ -4414,6 +4869,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -4425,7 +4891,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/StandAloneRegulationCode.dot.svg",
       "qname": "StandAloneRegulationCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/StandAloneRegulationCode\">Web</a></p>",
       "history": [
         {
@@ -4500,6 +4966,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -4511,7 +4988,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/StandingOrParkingCategoryCode.dot.svg",
       "qname": "StandingOrParkingCategoryCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/StandingOrParkingCategoryCode\">Web</a></p>",
       "history": [
         {
@@ -4586,6 +5063,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -4597,7 +5085,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/TextComposite.dot.svg",
       "qname": "TextComposite",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/TextComposite\">Web</a></p>",
       "history": [
         {
@@ -4672,6 +5160,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -4683,7 +5182,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/TextualRegulation.dot.svg",
       "qname": "TextualRegulation",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/TextualRegulation\">Web</a></p>",
       "history": [
         {
@@ -4758,6 +5257,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -4769,7 +5279,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/ThresholdRegulationCode.dot.svg",
       "qname": "ThresholdRegulationCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/ThresholdRegulationCode\">Web</a></p>",
       "history": [
         {
@@ -4844,6 +5354,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -4855,7 +5376,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/TimeValidityCondition.dot.svg",
       "qname": "TimeValidityCondition",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/TimeValidityCondition\">Web</a></p>",
       "history": [
         {
@@ -4930,6 +5451,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -4941,7 +5473,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/TrafficControlDevice.dot.svg",
       "qname": "TrafficControlDevice",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/TrafficControlDevice\">Web</a></p>",
       "history": [
         {
@@ -5016,6 +5548,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -5027,7 +5570,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/TrafficRegulation.dot.svg",
       "qname": "TrafficRegulation",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/TrafficRegulation\">Web</a></p>",
       "history": [
         {
@@ -5102,6 +5645,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -5113,7 +5667,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/TrafficRegulationOrder.dot.svg",
       "qname": "TrafficRegulationOrder",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/TrafficRegulationOrder\">Web</a></p>",
       "history": [
         {
@@ -5188,6 +5742,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -5199,7 +5764,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/TrafficSignal.dot.svg",
       "qname": "TrafficSignal",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/TrafficSignal\">Web</a></p>",
       "history": [
         {
@@ -5274,6 +5839,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -5285,7 +5861,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/TrafficSignalDevice.dot.svg",
       "qname": "TrafficSignalDevice",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/TrafficSignalDevice\">Web</a></p>",
       "history": [
         {
@@ -5360,6 +5936,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -5371,7 +5958,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/TroStatusCode.dot.svg",
       "qname": "TroStatusCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/TroStatusCode\">Web</a></p>",
       "history": [
         {
@@ -5446,6 +6033,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -5457,7 +6055,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/TunnelCategoryCode.dot.svg",
       "qname": "TunnelCategoryCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/TunnelCategoryCode\">Web</a></p>",
       "history": [
         {
@@ -5532,6 +6130,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -5543,7 +6152,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/VersionedCondition.dot.svg",
       "qname": "VersionedCondition",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/VersionedCondition\">Web</a></p>",
       "history": [
         {
@@ -5618,6 +6227,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -5629,7 +6249,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/WarningBeacon.dot.svg",
       "qname": "WarningBeacon",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/WarningBeacon\">Web</a></p>",
       "history": [
         {
@@ -5704,6 +6324,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -5714,7 +6345,7 @@
       "text": "<p>A code that indicates the type of access control device.</p>",
       "qname": "accessControlType",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/accessControlType\">Web</a></p>",
       "history": [
         {
@@ -5788,6 +6419,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -5798,7 +6440,7 @@
       "text": "<p>The location associated with the condition.</p>",
       "qname": "applicableLocation",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/applicableLocation\">Web</a></p>",
       "history": [
         {
@@ -5872,6 +6514,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -5882,7 +6535,7 @@
       "text": "<p>A direction that is indicated on the road sign.</p>",
       "qname": "arrowDirection",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/arrowDirection\">Web</a></p>",
       "history": [
         {
@@ -5956,6 +6609,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -5966,7 +6630,7 @@
       "text": "<p>A traffic control device associated with the instance of the traffic regulation.</p>",
       "qname": "associatedTrafficControlDevice",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/associatedTrafficControlDevice\">Web</a></p>",
       "history": [
         {
@@ -6040,6 +6704,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -6050,7 +6725,7 @@
       "text": "<p>A traffic regulation that authorizes the instance of the traffic control device.</p>",
       "qname": "authorizingTrafficRegulation",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/authorizingTrafficRegulation\">Web</a></p>",
       "history": [
         {
@@ -6124,6 +6799,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -6134,7 +6820,7 @@
       "text": "<p>A code that indicates the type of channelization device.</p>",
       "qname": "channelizationType",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/channelizationType\">Web</a></p>",
       "history": [
         {
@@ -6208,6 +6894,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -6218,7 +6915,7 @@
       "text": "<p>The operator used to compare the value to the threshold value.</p>",
       "qname": "comparisonOperator",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/comparisonOperator\">Web</a></p>",
       "history": [
         {
@@ -6292,6 +6989,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -6302,7 +7010,7 @@
       "text": "<p>The distance to the destination or the time to the destination.</p>",
       "qname": "destinationHorizon",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/destinationHorizon\">Web</a></p>",
       "history": [
         {
@@ -6376,6 +7084,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -6386,7 +7105,7 @@
       "text": "<p>The place to which the road sign is pointing.</p>",
       "qname": "destinationPlace",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/destinationPlace\">Web</a></p>",
       "history": [
         {
@@ -6460,6 +7179,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -6470,7 +7200,7 @@
       "text": "<p>The road to which the road sign is pointing.</p>",
       "qname": "destinationRoad",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/destinationRoad\">Web</a></p>",
       "history": [
         {
@@ -6544,6 +7274,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -6554,7 +7295,7 @@
       "text": "<p>The distance between the sign and the junction or diverge point that leads to the point of interest.</p>",
       "qname": "divergeHorizon",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/divergeHorizon\">Web</a></p>",
       "history": [
         {
@@ -6628,6 +7369,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -6638,7 +7390,7 @@
       "text": "<p>The name of the point of interest (e.g., destination or current location for direction 0).</p>",
       "qname": "divergeName",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/divergeName\">Web</a></p>",
       "history": [
         {
@@ -6712,6 +7464,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -6722,7 +7485,7 @@
       "text": "<p>The route to which the road sign is pointing.</p>",
       "qname": "divergeRoute",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/divergeRoute\">Web</a></p>",
       "history": [
         {
@@ -6796,6 +7559,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -6806,7 +7580,7 @@
       "text": "<p>The type of restriction that regulates access to a facility.</p>",
       "qname": "forAccessCategory",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/forAccessCategory\">Web</a></p>",
       "history": [
         {
@@ -6880,6 +7654,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -6890,7 +7675,7 @@
       "text": "<p>The enumerated condition that affects the applicability of the regulation.</p>",
       "qname": "forEnumeratedCondition",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/forEnumeratedCondition\">Web</a></p>",
       "history": [
         {
@@ -6964,6 +7749,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -6974,7 +7770,7 @@
       "text": "<p>The measurable condition that affects the applicability of the regulation.</p>",
       "qname": "forMeasurableCondition",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/forMeasurableCondition\">Web</a></p>",
       "history": [
         {
@@ -7048,6 +7844,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -7058,7 +7865,7 @@
       "text": "<p>The type of non-vehicular road user that is subject to the regulation.</p>",
       "qname": "forNonVehicularRoadUserType",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/forNonVehicularRoadUserType\">Web</a></p>",
       "history": [
         {
@@ -7132,6 +7939,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -7142,7 +7960,7 @@
       "text": "<p>The type of road upon which travel is taking place.</p>",
       "qname": "forRoadType",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/forRoadType\">Web</a></p>",
       "history": [
         {
@@ -7216,6 +8034,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -7226,7 +8055,7 @@
       "text": "<p>The category of standing or parking within which travel is taking place.</p>",
       "qname": "forStandingOrParkingCategory",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/forStandingOrParkingCategory\">Web</a></p>",
       "history": [
         {
@@ -7300,6 +8129,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -7310,7 +8150,7 @@
       "text": "<p>The category of tunnel within which travel is taking place.</p>",
       "qname": "forTunnelCategory",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/forTunnelCategory\">Web</a></p>",
       "history": [
         {
@@ -7384,6 +8224,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -7393,7 +8244,7 @@
       "heading": "forWeatherConditionType",
       "qname": "forWeatherConditionType",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/forWeatherConditionType\">Web</a></p>",
       "history": [
         {
@@ -7469,6 +8320,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "text": null,
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -7479,7 +8342,7 @@
       "text": "<p>The permissions that are granted by the permit.</p>",
       "qname": "grantsDesignation",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/grantsDesignation\">Web</a></p>",
       "history": [
         {
@@ -7553,6 +8416,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -7563,7 +8437,7 @@
       "text": "<p>A code indicating the activation status of the traffic regulation.</p>",
       "qname": "hasActivationStatus",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasActivationStatus\">Web</a></p>",
       "history": [
         {
@@ -7637,6 +8511,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -7647,7 +8532,7 @@
       "text": "<p>The location where the permit is applicable.</p>",
       "qname": "hasApplicableLocation",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasApplicableLocation\">Web</a></p>",
       "history": [
         {
@@ -7721,6 +8606,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -7731,7 +8627,7 @@
       "text": "<p>Details about the application of the permit.</p>",
       "qname": "hasApplicationInformation",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasApplicationInformation\">Web</a></p>",
       "history": [
         {
@@ -7805,6 +8701,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -7815,7 +8722,7 @@
       "text": "<p>The method by which the permit can be obtained.</p>",
       "qname": "hasApplicationInstructions",
       "type": "DatatypeProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasApplicationInstructions\">Web</a></p>",
       "history": [
         {
@@ -7889,6 +8796,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -7899,7 +8817,7 @@
       "text": "<p>The URL for the application of the permit.</p>",
       "qname": "hasApplicationUrl",
       "type": "DatatypeProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasApplicationUrl\">Web</a></p>",
       "history": [
         {
@@ -7973,6 +8891,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -7983,7 +8912,7 @@
       "text": "<p>A fee that is associated with the instance of the traffic regulation.</p>",
       "qname": "hasAssociatedFee",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasAssociatedFee\">Web</a></p>",
       "history": [
         {
@@ -8057,6 +8986,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -8067,7 +9007,7 @@
       "text": "<p>A restriction associated with the traffic regulation.</p>",
       "qname": "hasAssociatedRestriction",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasAssociatedRestriction\">Web</a></p>",
       "history": [
         {
@@ -8141,6 +9081,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -8151,7 +9102,7 @@
       "text": "<p>A condition associated with the instance (for example a traffic regulation); not used for the part-whole composition of a ConditionSet, which uses cdm1:hasComponent.</p>",
       "qname": "hasCondition",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasCondition\">Web</a></p>",
       "history": [
         {
@@ -8225,6 +9176,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -8235,7 +9197,7 @@
       "text": "<p>Contact information for the entity that is responsible for the traffic regulation.</p>",
       "qname": "hasContactInformation",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasContactInformation\">Web</a></p>",
       "history": [
         {
@@ -8309,6 +9271,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -8319,7 +9292,7 @@
       "text": "<p>The default duration of the permit.</p>",
       "qname": "hasDefaultDurationLimit",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasDefaultDurationLimit\">Web</a></p>",
       "history": [
         {
@@ -8393,6 +9366,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -8403,7 +9387,7 @@
       "text": "<p>The default location of the permit.</p>",
       "qname": "hasDefaultLocation",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasDefaultLocation\">Web</a></p>",
       "history": [
         {
@@ -8477,6 +9461,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -8487,7 +9482,7 @@
       "text": "<p>The default repeat interval of the permit.</p>",
       "qname": "hasDefaultRepeatInterval",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasDefaultRepeatInterval\">Web</a></p>",
       "history": [
         {
@@ -8561,6 +9556,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -8571,7 +9577,7 @@
       "text": "<p>The type of display that is associated with the permit.</p>",
       "qname": "hasDisplayType",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasDisplayType\">Web</a></p>",
       "history": [
         {
@@ -8645,6 +9651,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -8655,7 +9672,7 @@
       "text": "<p>The maximum duration of the permit.</p>",
       "qname": "hasDurationLimit",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasDurationLimit\">Web</a></p>",
       "history": [
         {
@@ -8729,6 +9746,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -8739,7 +9767,7 @@
       "text": "<p>The entity that is granted the permit.</p>",
       "qname": "hasGrantee",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasGrantee\">Web</a></p>",
       "history": [
         {
@@ -8813,6 +9841,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -8823,7 +9862,7 @@
       "text": "<p>The type of entity that is granted the permit.</p>",
       "qname": "hasGranteeType",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasGranteeType\">Web</a></p>",
       "history": [
         {
@@ -8897,6 +9936,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -8907,7 +9957,7 @@
       "text": "<p>The authority that is responsible for issuing the permit.</p>",
       "qname": "hasGrantor",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasGrantor\">Web</a></p>",
       "history": [
         {
@@ -8981,6 +10031,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -8991,7 +10052,7 @@
       "text": "<p>The URL for the information about the permit.</p>",
       "qname": "hasInformationUrl",
       "type": "DatatypeProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasInformationUrl\">Web</a></p>",
       "history": [
         {
@@ -9065,6 +10126,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -9075,7 +10147,7 @@
       "text": "<p>formal authority within the law (e.g., statute, ordinance, administrative rule, constitutional provision) that empowers an entity to create, adopt, or enforce a regulation</p>",
       "qname": "hasLegalBasis",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasLegalBasis\">Web</a></p>",
       "history": [
         {
@@ -9149,6 +10221,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -9159,7 +10242,7 @@
       "text": "<p>A type of permit associated with the traffic regulation.</p>",
       "qname": "hasPermitType",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasPermitType\">Web</a></p>",
       "history": [
         {
@@ -9234,6 +10317,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -9244,7 +10338,7 @@
       "text": "<p>A registration machine that is associated with the instance of the traffic regulation.</p>",
       "qname": "hasRegistrationMachine",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasRegistrationMachine\">Web</a></p>",
       "history": [
         {
@@ -9318,6 +10412,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -9328,7 +10433,7 @@
       "text": "<p>The minimum time to the next entry.</p>",
       "qname": "hasRepeatInterval",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasRepeatInterval\">Web</a></p>",
       "history": [
         {
@@ -9402,6 +10507,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -9412,7 +10528,7 @@
       "text": "<p>The validity period of the permit.</p>",
       "qname": "hasValidityPeriod",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasValidityPeriod\">Web</a></p>",
       "history": [
         {
@@ -9486,6 +10602,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -9496,7 +10623,7 @@
       "text": "<p>An image that is associated with the traffic control device.</p>",
       "qname": "image",
       "type": "DatatypeProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/image\">Web</a></p>",
       "history": [
         {
@@ -9570,6 +10697,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -9580,7 +10718,7 @@
       "text": "<p>The location where the regulation was implemented (e.g., with traffic control devices).</p>",
       "qname": "implementedLocation",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/implementedLocation\">Web</a></p>",
       "history": [
         {
@@ -9654,6 +10792,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -9664,7 +10813,7 @@
       "text": "<p>The validity period for the condition as implemented.</p>",
       "qname": "implementedValidity",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/implementedValidity\">Web</a></p>",
       "history": [
         {
@@ -9738,6 +10887,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -9748,7 +10908,7 @@
       "text": "<p>Indicates whether the condition is currently active.</p>",
       "qname": "isActive",
       "type": "DatatypeProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/isActive\">Web</a></p>",
       "history": [
         {
@@ -9822,6 +10982,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -9832,7 +11003,7 @@
       "text": "<p>Indicates whether an application is required for the permit.</p>",
       "qname": "isApplicationRequired",
       "type": "DatatypeProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/isApplicationRequired\">Web</a></p>",
       "history": [
         {
@@ -9906,6 +11077,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -9916,7 +11098,7 @@
       "text": "<p>Indicates whether the permit is location specific.</p>",
       "qname": "isLocationSpecific",
       "type": "DatatypeProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/isLocationSpecific\">Web</a></p>",
       "history": [
         {
@@ -9990,6 +11172,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -10000,7 +11193,7 @@
       "text": "<p>The date and time the permit was issued.</p>",
       "qname": "issued",
       "type": "DatatypeProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/issued\">Web</a></p>",
       "history": [
         {
@@ -10074,6 +11267,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -10084,7 +11288,7 @@
       "text": "<p>A traffic regulation order issued by the entity.</p>",
       "qname": "issuedTro",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/issuedTro\">Web</a></p>",
       "history": [
         {
@@ -10158,6 +11362,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -10167,7 +11382,7 @@
       "heading": "issuingAuthority",
       "qname": "issuingAuthority",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/issuingAuthority\">Web</a></p>",
       "history": [
         {
@@ -10243,6 +11458,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "text": null,
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -10253,7 +11480,7 @@
       "text": "<p>The location where the regulation is defined to apply per the traffic regulation order.</p>",
       "qname": "locationByOrder",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/locationByOrder\">Web</a></p>",
       "history": [
         {
@@ -10327,6 +11554,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -10337,7 +11575,7 @@
       "text": "<p>The logical operator used to combine the Conditions in a ConditionSet.</p>",
       "qname": "logicalOperator",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/logicalOperator\">Web</a></p>",
       "history": [
         {
@@ -10411,6 +11649,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -10421,7 +11670,7 @@
       "text": "<p>A traffic regulation enacted by the traffic regulation order.</p>",
       "qname": "memberTrafficRegulation",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/memberTrafficRegulation\">Web</a></p>",
       "history": [
         {
@@ -10495,6 +11744,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -10505,7 +11765,7 @@
       "text": "<p>The national sign identifier for the traffic control device.</p>",
       "qname": "nationalSignId",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/nationalSignId\">Web</a></p>",
       "history": [
         {
@@ -10579,6 +11839,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -10589,7 +11860,7 @@
       "text": "<p>Indicates whether the condition is negated.</p>",
       "qname": "negate",
       "type": "DatatypeProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/negate\">Web</a></p>",
       "history": [
         {
@@ -10663,6 +11934,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -10673,7 +11955,7 @@
       "text": "<p>A separate condition that determines the applicability of the regulation.</p>",
       "qname": "otherCondition",
       "type": "DatatypeProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/otherCondition\">Web</a></p>",
       "history": [
         {
@@ -10747,6 +12029,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -10757,7 +12050,7 @@
       "text": "<p>A code that indicates the type of pavement marking device.</p>",
       "qname": "pavementMarkingType",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/pavementMarkingType\">Web</a></p>",
       "history": [
         {
@@ -10831,6 +12124,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -10841,7 +12145,7 @@
       "text": "<p>Information about any permits that are associated with the regulation.</p>",
       "qname": "permitInformation",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/permitInformation\">Web</a></p>",
       "history": [
         {
@@ -10915,6 +12219,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -10925,7 +12240,7 @@
       "text": "<p>The type of entity that is permitted to use the permit.</p>",
       "qname": "permittedEntityType",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/permittedEntityType\">Web</a></p>",
       "history": [
         {
@@ -10999,6 +12314,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -11009,7 +12335,7 @@
       "text": "<p>The pictogram that is associated with the traffic control device.</p>",
       "qname": "pictogram",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/pictogram\">Web</a></p>",
       "history": [
         {
@@ -11083,6 +12409,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -11093,7 +12430,7 @@
       "text": "<p>A reason justifying the existence of the instance of the traffic regulation order</p>",
       "qname": "reasonCode",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/reasonCode\">Web</a></p>",
       "history": [
         {
@@ -11167,6 +12504,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -11177,7 +12525,7 @@
       "text": "<p>Indication of the types of regulations that can be enacted by the rule maker.</p>",
       "qname": "regulatoryScope",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/regulatoryScope\">Web</a></p>",
       "history": [
         {
@@ -11251,6 +12599,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -11261,7 +12620,7 @@
       "text": "<p>The designation of the permit that is required for the instance of the traffic regulation.</p>",
       "qname": "requiredDesignation",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/requiredDesignation\">Web</a></p>",
       "history": [
         {
@@ -11335,6 +12694,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -11345,7 +12715,7 @@
       "text": "<p>The display type of the permit that is required for the instance of the traffic regulation.</p>",
       "qname": "requiredDisplayType",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/requiredDisplayType\">Web</a></p>",
       "history": [
         {
@@ -11419,6 +12789,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -11429,7 +12810,7 @@
       "text": "<p>The grantor of the permit that is required for the instance of the traffic regulation.</p>",
       "qname": "requiredGrantor",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/requiredGrantor\">Web</a></p>",
       "history": [
         {
@@ -11503,6 +12884,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -11513,7 +12905,7 @@
       "text": "<p>The type of grantor of the permit that is required for the instance of the traffic regulation.</p>",
       "qname": "requiredGrantorType",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/requiredGrantorType\">Web</a></p>",
       "history": [
         {
@@ -11587,6 +12979,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -11597,7 +13000,7 @@
       "text": "<p>The identifier of the permit that is required for the instance of the traffic regulation.</p>",
       "qname": "requiredPermitIdentifier",
       "type": "DatatypeProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/requiredPermitIdentifier\">Web</a></p>",
       "history": [
         {
@@ -11671,6 +13074,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -11681,7 +13095,7 @@
       "text": "<p>A code that indicates the type of road surface feature.</p>",
       "qname": "roadSurfaceFeatureType",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/roadSurfaceFeatureType\">Web</a></p>",
       "history": [
         {
@@ -11755,6 +13169,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -11765,7 +13190,7 @@
       "text": "<p>The rdf:List whose ordered members are SimpleSigns for this composite: list head is the main sign, and each rdf:rest continues the sequence.</p>",
       "qname": "simpleSignList",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/simpleSignList\">Web</a></p>",
       "history": [
         {
@@ -11839,6 +13264,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -11849,7 +13285,7 @@
       "text": "<p>The location where traffic is impacted due to the existence of the regulation.</p>",
       "qname": "trafficImpactLocation",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/trafficImpactLocation\">Web</a></p>",
       "history": [
         {
@@ -11923,6 +13359,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -11933,7 +13380,7 @@
       "text": "<p>The current lifecycle status of the instance of the containing class</p>",
       "qname": "troStatus",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/troStatus\">Web</a></p>",
       "history": [
         {
@@ -12007,6 +13454,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -12017,7 +13475,7 @@
       "text": "<p>The URL that is associated with the traffic control device.</p>",
       "qname": "url",
       "type": "DatatypeProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/url\">Web</a></p>",
       "history": [
         {
@@ -12091,6 +13549,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -12101,7 +13570,7 @@
       "text": "<p>The validity period for the condition.</p>",
       "qname": "validityByOrder",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/validityByOrder\">Web</a></p>",
       "history": [
         {
@@ -12175,6 +13644,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -12185,7 +13665,7 @@
       "text": "<p>The threshold value to compare against the current value to determine the applicability of the regulation.</p>",
       "qname": "valueToCompare",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/valueToCompare\">Web</a></p>",
       "history": [
         {
@@ -12259,6 +13739,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -12269,7 +13760,7 @@
       "text": "<p>The version of the object.</p>",
       "qname": "version",
       "type": "DatatypeProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/version\">Web</a></p>",
       "history": [
         {
@@ -12343,6 +13834,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -12354,7 +13856,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/RegulationCategoryCodeList.dot.svg",
       "qname": "RegulationCategoryCodeList",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/RegulationCategoryCodeList\">Web</a></p>",
       "history": [
         {
@@ -12411,6 +13913,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -12421,7 +13934,7 @@
       "text": "<p>The type of weather condition that is subject to the regulation.</p>",
       "qname": "forRoadWeatherConditionType",
       "type": "ObjectProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/forRoadWeatherConditionType\">Web</a></p>",
       "history": [
         {
@@ -12473,6 +13986,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -12483,7 +14007,7 @@
       "text": "<p>The text that is displayed with the traffic control device.</p>",
       "qname": "compositeText",
       "type": "DatatypeProperty",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/compositeText\">Web</a></p>",
       "history": [
         {
@@ -12535,6 +14059,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     },
@@ -12546,7 +14081,7 @@
       "diagram": "https://w3id.org/itsdata/regulation/v1/diagrams/RegulationCategoryCode.dot.svg",
       "qname": "RegulationCategoryCode",
       "type": "Class",
-      "updated": "2026-08-10T16:04:05.347473",
+      "updated": "2026-08-13T16:33:11.913678",
       "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/RegulationCategoryCode\">Web</a></p>",
       "history": [
         {
@@ -12576,6 +14111,95 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-10T20:23:58.437Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-10T16:04:05.347473"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
+        }
+      ]
+    },
+    {
+      "id": "150",
+      "guid": "b36c9cdb-b0ce-452e-95b7-4e07686c06c4",
+      "heading": "hasRegulationCategory",
+      "text": "<p>A category of regulation associated with the traffic regulation.</p>",
+      "qname": "hasRegulationCategory",
+      "type": "ObjectProperty",
+      "updated": "2026-08-13T16:33:11.913678",
+      "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasRegulationCategory\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z",
+          "docId": "its-regulation",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
+        }
+      ]
+    },
+    {
+      "id": "151",
+      "guid": "8526d4ff-bd54-4cdc-9b79-a7c660c305b9",
+      "heading": "hasRegulation",
+      "text": "<p>A type of regulation associated with the traffic regulation.</p>",
+      "qname": "hasRegulation",
+      "type": "ObjectProperty",
+      "updated": "2026-08-13T16:33:11.913678",
+      "website": "<p><a href=\"https://w3id.org/itsdata/regulation/v1/hasRegulation\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z",
+          "docId": "its-regulation",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-08-13T20:35:08.351Z"
         }
       ]
     }
@@ -12629,24 +14253,16 @@
           "width": 65
         },
         {
-          "columnId": "description",
-          "width": 500
-        },
-        {
           "columnId": "qname",
           "width": 150
         },
         {
-          "columnId": "diagram",
-          "width": 150
+          "columnId": "description",
+          "width": 500
         },
         {
-          "columnId": "website",
-          "width": 150
-        },
-        {
-          "columnId": "updated",
-          "width": 150
+          "columnId": "links",
+          "width": 300
         }
       ],
       "default": true
