@@ -13,32 +13,33 @@ nav:
     - Ontology registry: ontology_registry.md
     - Concept registry: concept_registry.md
     - Imported ontologies:
-      - foaf: https://isotc204.org/ontology-import-foaf
-      - geo: https://isotc204.org/ontology-import-geo
-      - gr: https://isotc204.org/ontology-import-gr
-      - i72: https://isotc204.org/ontology-i72-v1
-      - org: https://isotc204.org/ontology-import-org
-      - prov: https://isotc204.org/ontology-import-prov
-      - schema: https://isotc204.org/ontology-import-schema
-      - time: https://isotc204.org/ontology-import-time
-      - wgs84: https://isotc204.org/ontology-import-wgs84
-      - xsd: https://isotc204.org/ontology-import-xsd
+      - foaf: "{{ site_base }}/ontology-import-foaf"
+      - geo: "{{ site_base }}/ontology-import-geo"
+      - gr: "{{ site_base }}/ontology-import-gr"
+      - i72: "{{ site_base }}/ontology-i72-v1"
+      - org: "{{ site_base }}/ontology-import-org"
+      - prov: "{{ site_base }}/ontology-import-prov"
+      - schema: "{{ site_base }}/ontology-import-schema"
+      - time: "{{ site_base }}/ontology-import-time"
+      - wgs84: "{{ site_base }}/ontology-import-wgs84"
+      - xsd: "{{ site_base }}/ontology-import-xsd"
     - City Data Model:
-      - Part 1: https://isotc204.org/ontology-cdm-p1-v1
-      - Part 2: https://isotc204.org/ontology-cdm-p2-v1
-      - Part 3: https://isotc204.org/ontology-cdm-p3-v1
+      - Part 1: "{{ site_base }}/ontology-cdm-p1-v1"
+      - Part 2: "{{ site_base }}/ontology-cdm-p2-v1"
+      - Part 3: "{{ site_base }}/ontology-cdm-p3-v1"
     - ITS:
-      - Core: https://isotc204.org/ontology-its-core-v1
-      - Agent: https://isotc204.org/ontology-its-agent-v1
-      - Location: https://isotc204.org/ontology-its-location-v1
-      - METR: https://isotc204.org/ontology-its-metr-v1
-      - Regulation: https://isotc204.org/ontology-its-regulation-v1
-      - Time: https://isotc204.org/ontology-its-time-v1
-      - Transport Network: https://isotc204.org/ontology-its-t-network-v1
-      - Transport User: https://isotc204.org/ontology-its-t-user-v1
-      - Vehicle: https://isotc204.org/ontology-its-vehicle-v1
-      - Weather: https://isotc204.org/ontology-its-weather-v1
-site_url: https://isotc204.org/ritso/
+      - Core: "{{ site_base }}/ontology-its-core-v1"
+      - Agent: "{{ site_base }}/ontology-its-agent-v1"
+      - Communications: "{{ site_base }}/ontology-its-communications-v1"
+      - Location: "{{ site_base }}/ontology-its-location-v1"
+      - METR: "{{ site_base }}/ontology-its-metr-v1"
+      - Regulation: "{{ site_base }}/ontology-its-regulation-v1"
+      - Time: "{{ site_base }}/ontology-its-time-v1"
+      - Transport Network: "{{ site_base }}/ontology-its-t-network-v1"
+      - Transport User: "{{ site_base }}/ontology-its-t-user-v1"
+      - Vehicle: "{{ site_base }}/ontology-its-vehicle-v1"
+      - Weather: "{{ site_base }}/ontology-its-weather-v1"
+site_url: "{{ site_base }}/ritso/"
 use_directory_urls: true
 copyright: <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"> <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 theme:

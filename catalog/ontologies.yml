@@ -1,0 +1,153 @@
+# Canonical registry of ontology documentation sites linked from RITSO.
+# path: published URL path under the site base (e.g. https://isotc204.org/<path>/)
+# repo: sibling checkout directory name under the parent GitHub folder
+# group: nav grouping in ritso (imported | cdm | its)
+# enabled: include in local multi-site preview builds
+
+publish_host: https://isotc204.org
+local_host: http://127.0.0.1:8080
+
+sites:
+  - title: foaf
+    group: imported
+    path: ontology-import-foaf
+    repo: ontology-import-foaf
+    enabled: true
+
+  - title: geo
+    group: imported
+    path: ontology-import-geo
+    repo: ontology-import-geo
+    enabled: true
+
+  - title: gr
+    group: imported
+    path: ontology-import-gr
+    repo: ontology-import-gr
+    enabled: true
+
+  - title: i72
+    group: imported
+    path: ontology-i72-v1
+    repo: ontology-i72-v1
+    enabled: true
+
+  - title: org
+    group: imported
+    path: ontology-import-org
+    repo: ontology-import-org
+    enabled: true
+
+  - title: prov
+    group: imported
+    path: ontology-import-prov
+    repo: ontology-import-prov
+    enabled: true
+
+  - title: schema
+    group: imported
+    path: ontology-import-schema
+    repo: ontology-import-schema
+    enabled: true
+
+  - title: time
+    group: imported
+    path: ontology-import-time
+    repo: ontology-import-time
+    enabled: true
+
+  - title: wgs84
+    group: imported
+    path: ontology-import-wgs84
+    repo: ontology-import-wgs84
+    enabled: true
+
+  - title: xsd
+    group: imported
+    path: ontology-import-xsd
+    repo: ontology-import-xsd
+    enabled: true
+
+  - title: Part 1
+    group: cdm
+    path: ontology-cdm-p1-v1
+    repo: ontology-cdm-p1
+    enabled: true
+
+  - title: Part 2
+    group: cdm
+    path: ontology-cdm-p2-v1
+    repo: ontology-cdm-p2
+    enabled: true
+
+  - title: Part 3
+    group: cdm
+    path: ontology-cdm-p3-v1
+    repo: ontology-cdm-p3
+    enabled: true
+
+  - title: Core
+    group: its
+    path: ontology-its-core-v1
+    repo: ontology-its-core
+    enabled: true
+
+  - title: Agent
+    group: its
+    path: ontology-its-agent-v1
+    repo: ontology-its-agent-v1
+    enabled: true
+
+  - title: Communications
+    group: its
+    path: ontology-its-communications-v1
+    repo: ontology-its-communications-v1
+    enabled: true
+
+  - title: Location
+    group: its
+    path: ontology-its-location-v1
+    repo: ontology-its-location
+    enabled: true
+
+  - title: METR
+    group: its
+    path: ontology-its-metr-v1
+    repo: ontology-its-metr
+    enabled: true
+
+  - title: Regulation
+    group: its
+    path: ontology-its-regulation-v1
+    repo: ontology-its-regulation
+    enabled: true
+
+  - title: Time
+    group: its
+    path: ontology-its-time-v1
+    repo: ontology-its-time
+    enabled: true
+
+  - title: Transport Network
+    group: its
+    path: ontology-its-t-network-v1
+    repo: ontology-its-t-network
+    enabled: true
+
+  - title: Transport User
+    group: its
+    path: ontology-its-t-user-v1
+    repo: ontology-its-t-user
+    enabled: true
+
+  - title: Vehicle
+    group: its
+    path: ontology-its-vehicle-v1
+    repo: ontology-its-vehicle
+    enabled: true
+
+  - title: Weather
+    group: its
+    path: ontology-its-weather-v1
+    repo: ontology-its-weather
+    enabled: true

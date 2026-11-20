@@ -48,15 +48,18 @@ jobs:
       - name: Replace placeholders in files
         run: |
           RELEASE_TAG=${{ env.RELEASE_TAG }}
+          SITE_BASE="${SITE_BASE:-https://isotc204.org}"
 
           # Replace in mkdocs.yml
-          sed -i "s/{{ release_number }}/$RELEASE_TAG/g" mkdocs.yml
+          sed -i "s|{{ release_number }}|$RELEASE_TAG|g" mkdocs.yml
+          sed -i "s|{{ site_base }}|$SITE_BASE|g" mkdocs.yml
 
           # Replace in Markdown files
-          sed -i "s/{{ release_number }}/$RELEASE_TAG/g" docs/index.md
+          sed -i "s|{{ release_number }}|$RELEASE_TAG|g" docs/index.md
+          sed -i "s|{{ site_base }}|$SITE_BASE|g" docs/ontology_registry.md
 
           # Replace in CSS for PDF -- PDF not generated for this site
-          # sed -i "s/{{ release_number }}/$RELEASE_TAG/g" docs/stylesheets/pdf.css
+          # sed -i "s|{{ release_number }}|$RELEASE_TAG|g" docs/stylesheets/pdf.css
 
       # Step 7: Set EXPORT_PDF environment variable
       - name: Set EXPORT_PDF environment variable
