@@ -9,7 +9,7 @@
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "lastChangedOn": "2026-08-13T21:14:54.033Z",
+  "lastChangedOn": "2026-11-23T22:12:03.648Z",
   "lastChangedBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
@@ -24,8 +24,8 @@
       "diagram": "https://w3id.org/itsdata/agent/v1/diagrams/Agent.dot.svg",
       "qname": "Agent",
       "type": "Class",
-      "updated": "2026-07-27T18:57:20.002071",
-      "website": "<p>https://w3id.org/itsdata/agent/v1/Agent</p>",
+      "updated": "2026-11-23T11:44:05.775897",
+      "website": "<p><a href=\"https://w3id.org/itsdata/agent/v1/Agent\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -54,6 +54,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:57:38.904Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T18:57:20.002071",
+            "website": "<p>https://w3id.org/itsdata/agent/v1/Agent</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:12:03.648Z"
         }
       ]
     },
@@ -65,8 +77,8 @@
       "diagram": "https://w3id.org/itsdata/agent/v1/diagrams/ITSAgentThing.dot.svg",
       "qname": "ITSAgentThing",
       "type": "Class",
-      "updated": "2026-07-27T18:57:20.002071",
-      "website": "<p>https://w3id.org/itsdata/agent/v1/ITSAgentThing</p>",
+      "updated": "2026-11-23T11:44:05.775897",
+      "website": "<p><a href=\"https://w3id.org/itsdata/agent/v1/ITSAgentThing\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -95,6 +107,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:57:38.904Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T18:57:20.002071",
+            "website": "<p>https://w3id.org/itsdata/agent/v1/ITSAgentThing</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:12:03.648Z"
         }
       ]
     },
@@ -106,8 +130,8 @@
       "diagram": "https://w3id.org/itsdata/agent/v1/diagrams/Role.dot.svg",
       "qname": "Role",
       "type": "Class",
-      "updated": "2026-07-27T18:57:20.002071",
-      "website": "<p>https://w3id.org/itsdata/agent/v1/Role</p>",
+      "updated": "2026-11-23T11:44:05.775897",
+      "website": "<p><a href=\"https://w3id.org/itsdata/agent/v1/Role\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -136,6 +160,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:57:38.904Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T18:57:20.002071",
+            "website": "<p>https://w3id.org/itsdata/agent/v1/Role</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:12:03.648Z"
         }
       ]
     },
@@ -146,8 +182,8 @@
       "text": "<p>An object property to organize all object properties defined in the ITS Agent Ontology.</p>",
       "qname": "ITSAgentObjectProperty",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T18:57:20.002071",
-      "website": "<p>https://w3id.org/itsdata/agent/v1/ITSAgentObjectProperty</p>",
+      "updated": "2026-11-23T11:44:05.775897",
+      "website": "<p><a href=\"https://w3id.org/itsdata/agent/v1/ITSAgentObjectProperty\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -175,6 +211,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:57:38.904Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T18:57:20.002071",
+            "website": "<p>https://w3id.org/itsdata/agent/v1/ITSAgentObjectProperty</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:12:03.648Z"
         }
       ]
     },
@@ -185,8 +233,8 @@
       "text": "<p>Indicates the role that an agent performs.</p>",
       "qname": "playsRole",
       "type": "ObjectProperty",
-      "updated": "2026-07-27T18:57:20.002071",
-      "website": "<p>https://w3id.org/itsdata/agent/v1/playsRole</p>",
+      "updated": "2026-11-23T11:44:05.775897",
+      "website": "<p><a href=\"https://w3id.org/itsdata/agent/v1/playsRole\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -214,6 +262,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:57:38.904Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-07-27T18:57:20.002071",
+            "website": "<p>https://w3id.org/itsdata/agent/v1/playsRole</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:12:03.648Z"
         }
       ]
     }
