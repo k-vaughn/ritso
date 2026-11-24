@@ -2,14 +2,14 @@
   "id": "its-time",
   "guid": "044b4bf6-85ba-4a5b-83c7-274c8f845250",
   "name": "Time",
-  "lastId": 37,
+  "lastId": 57,
   "createdOn": "2026-04-14T21:28:37.827Z",
   "createdBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "lastChangedOn": "2026-08-03T19:44:42.146Z",
+  "lastChangedOn": "2026-11-24T01:08:19.640Z",
   "lastChangedBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
@@ -19,13 +19,13 @@
     {
       "id": "1",
       "guid": "e95732e9-4ad6-4d9c-93de-091c4c7257a6",
-      "heading": "FuzzyTime",
-      "text": "<p>An instant in time designated by a timeReference event coupled with a defined offset either before or after the referenced event. Possible codes can include `dawn`, `dusk`, `start of rain`, `start of school`, etc. The offset indicates the amount of units of time from this event either before or after the time reference code.</p>",
-      "diagram": "https://w3id.org/itsdata/time/v1/diagrams/FuzzyTime.dot.svg",
-      "qname": "FuzzyTime",
+      "heading": "FuzzyTimeInstant",
+      "text": "<p>An instant in time designated by a named timeReference event (e.g., `dusk`) coupled with an offset either before or after the referenced event. The timeReference is a value from a recognized FuzzyTimeInstantCode (from a code list). The offset may be zero when the instant coincides with the reference.</p>",
+      "diagram": "https://w3id.org/itsdata/time/v1/diagrams/FuzzyTimeInstant.dot.svg",
+      "qname": "FuzzyTimeInstant",
       "type": "Class",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/FuzzyTime</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/FuzzyTimeInstant\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -163,6 +163,22 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "diagram": "https://w3id.org/itsdata/time/v1/diagrams/FuzzyTime.dot.svg",
+            "heading": "FuzzyTime",
+            "qname": "FuzzyTime",
+            "text": "<p>An instant in time designated by a timeReference event coupled with a defined offset either before or after the referenced event. Possible codes can include `dawn`, `dusk`, `start of rain`, `start of school`, etc. The offset indicates the amount of units of time from this event either before or after the time reference code.</p>",
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/FuzzyTime</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -174,8 +190,8 @@
       "diagram": "https://w3id.org/itsdata/time/v1/diagrams/DayWeekMonth.dot.svg",
       "qname": "DayWeekMonth",
       "type": "Class",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/DayWeekMonth</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/DayWeekMonth\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -258,6 +274,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/DayWeekMonth</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -269,8 +297,8 @@
       "diagram": "https://w3id.org/itsdata/time/v1/diagrams/ValidityStatusCode.dot.svg",
       "qname": "ValidityStatusCode",
       "type": "Class",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/ValidityStatusCode</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/ValidityStatusCode\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -353,6 +381,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/ValidityStatusCode</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -364,8 +404,8 @@
       "diagram": "https://w3id.org/itsdata/time/v1/diagrams/InstanceOfDayWithinMonth.dot.svg",
       "qname": "InstanceOfDayWithinMonth",
       "type": "Class",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/InstanceOfDayWithinMonth</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/InstanceOfDayWithinMonth\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -448,6 +488,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/InstanceOfDayWithinMonth</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -459,8 +511,8 @@
       "diagram": "https://w3id.org/itsdata/time/v1/diagrams/PublicEventCode.dot.svg",
       "qname": "PublicEventCode",
       "type": "Class",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/PublicEventCode</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/PublicEventCode\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -543,6 +595,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/PublicEventCode</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -554,8 +618,8 @@
       "diagram": "https://w3id.org/itsdata/time/v1/diagrams/PublicHoliday.dot.svg",
       "qname": "PublicHoliday",
       "type": "Class",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/PublicHoliday</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/PublicHoliday\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -638,6 +702,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/PublicHoliday</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -645,12 +721,12 @@
       "id": "7",
       "guid": "6ee97803-fa1a-4350-8ed6-d954fa108679",
       "heading": "ClockTime",
-      "text": "<p>A description of a time within a single day (hours, minutes, seconds, etc.), recurring daily. Date components (year, month, day) must not be present.</p>",
+      "text": "<p>A single clock time within one day (recurring daily). The hour is required so that a definite time of day is identified; minutes and seconds may be omitted when that precision is not needed (for example, a restriction that starts on the hour). Date components (year, month, day, week, day of week, day of year, month of year) must not be present.</p>",
       "diagram": "https://w3id.org/itsdata/time/v1/diagrams/ClockTime.dot.svg",
       "qname": "ClockTime",
       "type": "Class",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/ClockTime</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/ClockTime\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -733,6 +809,19 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<p>A description of a time within a single day (hours, minutes, seconds, etc.), recurring daily. Date components (year, month, day) must not be present.</p>",
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/ClockTime</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -744,8 +833,8 @@
       "diagram": "https://w3id.org/itsdata/time/v1/diagrams/SpecialDay.dot.svg",
       "qname": "SpecialDay",
       "type": "Class",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/SpecialDay</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/SpecialDay\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -828,6 +917,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/SpecialDay</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -839,8 +940,8 @@
       "diagram": "https://w3id.org/itsdata/time/v1/diagrams/ScheduleThing.dot.svg",
       "qname": "ScheduleThing",
       "type": "Class",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/ScheduleThing</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/ScheduleThing\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -923,6 +1024,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/ScheduleThing</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -934,8 +1047,8 @@
       "diagram": "https://w3id.org/itsdata/time/v1/diagrams/TimePeriodOfDay.dot.svg",
       "qname": "TimePeriodOfDay",
       "type": "Class",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/TimePeriodOfDay</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/TimePeriodOfDay\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1018,6 +1131,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/TimePeriodOfDay</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -1029,8 +1154,8 @@
       "diagram": "https://w3id.org/itsdata/time/v1/diagrams/Period.dot.svg",
       "qname": "Period",
       "type": "Class",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/Period</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/Period\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1113,6 +1238,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/Period</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -1124,8 +1261,8 @@
       "diagram": "https://w3id.org/itsdata/time/v1/diagrams/Schedule.dot.svg",
       "qname": "Schedule",
       "type": "Class",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/Schedule</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/Schedule\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1208,6 +1345,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/Schedule</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -1219,8 +1368,8 @@
       "diagram": "https://w3id.org/itsdata/time/v1/diagrams/TimeOfDay.dot.svg",
       "qname": "TimeOfDay",
       "type": "Class",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/TimeOfDay</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/TimeOfDay\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1303,6 +1452,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/TimeOfDay</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -1314,8 +1475,8 @@
       "diagram": "https://w3id.org/itsdata/time/v1/diagrams/WeekCode.dot.svg",
       "qname": "WeekCode",
       "type": "Class",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/WeekCode</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/WeekCode\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1398,6 +1559,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/WeekCode</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -1409,8 +1582,8 @@
       "diagram": "https://w3id.org/itsdata/time/v1/diagrams/DateWithinMonth.dot.svg",
       "qname": "DateWithinMonth",
       "type": "Class",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/DateWithinMonth</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/DateWithinMonth\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1493,6 +1666,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/DateWithinMonth</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -1504,8 +1689,8 @@
       "diagram": "https://w3id.org/itsdata/time/v1/diagrams/OverallPeriod.dot.svg",
       "qname": "OverallPeriod",
       "type": "Class",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/OverallPeriod</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/OverallPeriod\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1588,6 +1773,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/OverallPeriod</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -1694,8 +1891,8 @@
       "diagram": "https://w3id.org/itsdata/time/v1/diagrams/SpecialDayTypeCode.dot.svg",
       "qname": "SpecialDayTypeCode",
       "type": "Class",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/SpecialDayTypeCode</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/SpecialDayTypeCode\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1778,6 +1975,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/SpecialDayTypeCode</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -1789,8 +1998,8 @@
       "diagram": "https://w3id.org/itsdata/time/v1/diagrams/CalendarWeekWithinMonth.dot.svg",
       "qname": "CalendarWeekWithinMonth",
       "type": "Class",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/CalendarWeekWithinMonth</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/CalendarWeekWithinMonth\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1873,6 +2082,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/CalendarWeekWithinMonth</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -1883,8 +2104,8 @@
       "text": "<p>An object property to organize all object properties defined in the Time Ontology.</p>",
       "qname": "TimeObjectProperty",
       "type": "ObjectProperty",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/TimeObjectProperty</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/TimeObjectProperty\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1923,6 +2144,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/TimeObjectProperty</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -1932,8 +2165,8 @@
       "heading": "timeReference",
       "qname": "timeReference",
       "type": "ObjectProperty",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/timeReference</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/timeReference\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -1972,6 +2205,19 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "text": null,
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/timeReference</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -1982,8 +2228,8 @@
       "text": "<p>An object property to organize all object properties defined in the ITS Schedule Pattern.</p>",
       "qname": "ScheduleObjectProperty",
       "type": "ObjectProperty",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/ScheduleObjectProperty</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/ScheduleObjectProperty\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2022,6 +2268,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/ScheduleObjectProperty</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -2032,8 +2290,8 @@
       "text": "<p>Specifies an area associated with a SpecialDay.</p>",
       "qname": "applicableArea",
       "type": "ObjectProperty",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/applicableArea</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/applicableArea\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2072,6 +2330,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/applicableArea</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -2082,8 +2352,8 @@
       "text": "<p>Specifies a day of the week during which the DayWeekMonth object is applicable.</p>",
       "qname": "applicableDayOfWeek",
       "type": "ObjectProperty",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/applicableDayOfWeek</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/applicableDayOfWeek\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2122,6 +2392,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/applicableDayOfWeek</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -2132,8 +2414,8 @@
       "text": "<p>Specifies a month during which the DayWeekMonth object is applicable.</p>",
       "qname": "applicableMonth",
       "type": "ObjectProperty",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/applicableMonth</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/applicableMonth\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2172,6 +2454,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/applicableMonth</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -2182,8 +2476,8 @@
       "text": "<p>Specifies a week within a month during which the CalendarWeekWithinMonth object is applicable.</p>",
       "qname": "applicableWeek",
       "type": "ObjectProperty",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/applicableWeek</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/applicableWeek\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2222,6 +2516,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/applicableWeek</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -2232,8 +2538,8 @@
       "text": "<p>Time of day at which the recurring pattern ends.</p>",
       "qname": "dailyEndTime",
       "type": "ObjectProperty",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/dailyEndTime</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/dailyEndTime\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2272,6 +2578,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/dailyEndTime</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -2282,8 +2600,8 @@
       "text": "<p>Time of day at which the recurring pattern starts.</p>",
       "qname": "dailyStartTime",
       "type": "ObjectProperty",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/dailyStartTime</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/dailyStartTime\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2322,6 +2640,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/dailyStartTime</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -2332,8 +2662,8 @@
       "text": "<p>A period completely or partially within the overall period during which the schedule does not apply. An exceptionPeriod overrules any validPeriod definition.</p>",
       "qname": "exceptionPeriod",
       "type": "ObjectProperty",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/exceptionPeriod</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/exceptionPeriod\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2372,6 +2702,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/exceptionPeriod</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -2382,8 +2724,8 @@
       "text": "<p>Indication of the type of public event.</p>",
       "qname": "hasPublicEventType",
       "type": "ObjectProperty",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/hasPublicEventType</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/hasPublicEventType\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2422,6 +2764,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/hasPublicEventType</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -2432,8 +2786,8 @@
       "text": "<p>A recurring period specified by the intersection of day-of-week, week, and month parameters.</p>",
       "qname": "hasRecurringDayWeekMonthPeriod",
       "type": "ObjectProperty",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/hasRecurringDayWeekMonthPeriod</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/hasRecurringDayWeekMonthPeriod\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2472,6 +2826,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/hasRecurringDayWeekMonthPeriod</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -2482,8 +2848,8 @@
       "text": "<p>A recurring special day specified by a day type.</p>",
       "qname": "hasRecurringSpecialDay",
       "type": "ObjectProperty",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/hasRecurringSpecialDay</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/hasRecurringSpecialDay\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2522,6 +2888,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/hasRecurringSpecialDay</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -2532,8 +2910,8 @@
       "text": "<p>Specification of a applicable time period that starts on applicable days. If the time period spans midnight (i.e. the end time is earlier than the start time), the applicability of the period will extend to the end time on the following day, even if that day is not normally applicable.</p>",
       "qname": "hasRecurringTimePeriodOfDay",
       "type": "ObjectProperty",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/hasRecurringTimePeriodOfDay</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/hasRecurringTimePeriodOfDay\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2572,6 +2950,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/hasRecurringTimePeriodOfDay</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -2582,8 +2972,8 @@
       "text": "<p>The type of special day.</p>",
       "qname": "hasSpecialDayType",
       "type": "ObjectProperty",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/hasSpecialDayType</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/hasSpecialDayType\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2622,6 +3012,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/hasSpecialDayType</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -2629,11 +3031,11 @@
       "id": "35",
       "guid": "35dc6c0b-efd0-4cc8-9140-628a23baeb53",
       "heading": "hasValidityStatus",
-      "text": "<p>Specifies the validity status of the schedule's logic.</p>",
+      "text": "<p>Specifies the validity status of the schedule&#39;s logic.</p>",
       "qname": "hasValidityStatus",
       "type": "ObjectProperty",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/hasValidityStatus</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/hasValidityStatus\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2672,6 +3074,19 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<p>Specifies the validity status of the schedule's logic.</p>",
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/hasValidityStatus</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -2682,8 +3097,8 @@
       "text": "<p>The overall container of rules that define the periods when the scheduling logic evaluates to true.</p>",
       "qname": "validityTimeSpecification",
       "type": "ObjectProperty",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/validityTimeSpecification</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/validityTimeSpecification\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2722,6 +3137,18 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/validityTimeSpecification</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     },
@@ -2732,8 +3159,8 @@
       "text": "<p>A period completely or partially within the overall period during which the schedule applies. A validPeriod can be overruled by an exceptionPeriod and the overall start and end of the overall period.</p>",
       "qname": "validPeriod",
       "type": "ObjectProperty",
-      "updated": "2026-04-15T13:58:04.326601",
-      "website": "<p>https://w3id.org/itsdata/time/v1/validPeriod</p>",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/validPeriod\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2772,6 +3199,806 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:44:42.146Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-04-15T13:58:04.326601",
+            "website": "<p>https://w3id.org/itsdata/time/v1/validPeriod</p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "guid": "929f2556-92a8-47a0-ad52-c1c19b5afa6e",
+      "heading": "FuzzyTimeInstantCode",
+      "text": "<p>A code identifying a named reference used by :FuzzyTimeInstant (e.g. `dawn`, `dusk`, `start of school`). Code list contents are maintained externally.</p>",
+      "diagram": "https://w3id.org/itsdata/time/v1/diagrams/FuzzyTimeInstantCode.dot.svg",
+      "qname": "FuzzyTimeInstantCode",
+      "type": "Class",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/FuzzyTimeInstantCode\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z",
+          "docId": "its-time",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "guid": "76fcdbd0-f4c6-4687-bf9f-d3d69fb964bf",
+      "heading": "FuzzyTimePeriodCode",
+      "text": "<p>A code identifying a named fuzzy *period* or applicability band (e.g. winter, peak hours, high tide), with a formal external definition in the code list.</p>",
+      "diagram": "https://w3id.org/itsdata/time/v1/diagrams/FuzzyTimePeriodCode.dot.svg",
+      "qname": "FuzzyTimePeriodCode",
+      "type": "Class",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/FuzzyTimePeriodCode\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z",
+          "docId": "its-time",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "guid": "3dd7254a-6c61-4e40-83f8-f4f4133801ba",
+      "heading": "FuzzyTimePeriod",
+      "text": "<p>A fuzzy applicability period for a schedule :Period. It is expressed either as a named :FuzzyTimePeriodCode or as a :BoundedFuzzyTimePeriod with a start and end :FuzzyTimeInstant.</p>",
+      "diagram": "https://w3id.org/itsdata/time/v1/diagrams/FuzzyTimePeriod.dot.svg",
+      "qname": "FuzzyTimePeriod",
+      "type": "Class",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/FuzzyTimePeriod\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z",
+          "docId": "its-time",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "guid": "899c98fb-d739-4b4d-839e-ae64a9c7baea",
+      "heading": "BoundedFuzzyTimePeriod",
+      "text": "<p>A fuzzy applicability period defined by a start and an end :FuzzyTimeInstant (e.g. from dusk to dawn, or from 30 minutes after dusk to dawn).</p>",
+      "diagram": "https://w3id.org/itsdata/time/v1/diagrams/BoundedFuzzyTimePeriod.dot.svg",
+      "qname": "BoundedFuzzyTimePeriod",
+      "type": "Class",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/BoundedFuzzyTimePeriod\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z",
+          "docId": "its-time",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "guid": "77210cc2-77a7-4c93-b9bb-070e43a09b8c",
+      "heading": "fuzzyStartTime",
+      "text": "<p>The start of a bounded fuzzy time period, expressed as a FuzzyTimeInstant.</p>",
+      "qname": "fuzzyStartTime",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/fuzzyStartTime\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z",
+          "docId": "its-time",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "guid": "f2ab107c-cae7-430a-b646-7421f266c4a0",
+      "heading": "fuzzyEndTime",
+      "text": "<p>The end of a bounded fuzzy time period, expressed as a FuzzyTimeInstant.</p>",
+      "qname": "fuzzyEndTime",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/fuzzyEndTime\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z",
+          "docId": "its-time",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "guid": "4dc8359e-e96f-4cf0-aab2-571cf3746ab6",
+      "heading": "hasApplicableFuzzyTimePeriod",
+      "text": "<p>A fuzzy applicability period that qualifies a :Period together with other period rules. Each value is a :FuzzyTimePeriod expressed either as a named :FuzzyTimePeriodCode (e.g. seasons, tidal states, peak hours, including flag-style sets such as ISO 14823-1 GDD `FuzzyTime`) or as a :BoundedFuzzyTimePeriod with a start and end :FuzzyTimeInstant (e.g. dusk to dawn). Multiple values indicate several fuzzy periods apply together.</p>",
+      "qname": "hasApplicableFuzzyTimePeriod",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/hasApplicableFuzzyTimePeriod\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z",
+          "docId": "its-time",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "guid": "e9f06e02-bf47-4c6b-97a2-8a5565526efc",
+      "heading": "offset",
+      "text": "<p>The duration before or after the referenced fuzzy time event. An offset is always present for a FuzzyTimeInstant and may be zero when the instant coincides with the reference.</p>",
+      "qname": "offset",
+      "type": "DatatypeProperty",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/offset\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z",
+          "docId": "its-time",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "guid": "7625c3e2-046d-4365-8b7b-946002e0d7f8",
+      "heading": "ScheduleDataProperty",
+      "text": "<p>A data property to organize all data properties defined in the Schedule Pattern.</p>",
+      "qname": "ScheduleDataProperty",
+      "type": "DatatypeProperty",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/ScheduleDataProperty\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z",
+          "docId": "its-time",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "guid": "96b1f4cb-9997-4c26-b916-c17955a93386",
+      "heading": "applicableDayOfMonth",
+      "text": "<p>Specifies a day of the month during which the DateWithinMonth object is applicable.</p>",
+      "qname": "applicableDayOfMonth",
+      "type": "DatatypeProperty",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/applicableDayOfMonth\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z",
+          "docId": "its-time",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "guid": "2943848b-b154-4cbd-ab1f-bd2315154b21",
+      "heading": "applicableInstanceOfDayWithinMonth",
+      "text": "<p>Specifies an instance of a day within a month during which the InstanceOfDayWithinMonth object is applicable.</p>",
+      "qname": "applicableInstanceOfDayWithinMonth",
+      "type": "DatatypeProperty",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/applicableInstanceOfDayWithinMonth\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z",
+          "docId": "its-time",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "guid": "7901fcc2-4225-4efb-9506-c205b47877ae",
+      "heading": "endOfPeriod",
+      "text": "<p>The end time of the period.</p>",
+      "qname": "endOfPeriod",
+      "type": "DatatypeProperty",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/endOfPeriod\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z",
+          "docId": "its-time",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "guid": "5d409f58-b19c-4b43-8159-aaab406d6bc9",
+      "heading": "intersectWithApplicableDays",
+      "text": "<p>If true, the period is the intersection of the special day with applicable days. If false, the period is the union of the special day with applicable days.</p>",
+      "qname": "intersectWithApplicableDays",
+      "type": "DatatypeProperty",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/intersectWithApplicableDays\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z",
+          "docId": "its-time",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "guid": "6bd026d9-4c85-461b-a73d-24ffb29941fe",
+      "heading": "isOverrunning",
+      "text": "<p>Indicates if the schedule is exceeding its expected duration.</p>",
+      "qname": "isOverrunning",
+      "type": "DatatypeProperty",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/isOverrunning\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z",
+          "docId": "its-time",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "guid": "aba68864-68c9-4682-9c11-983c23354229",
+      "heading": "overallEndTime",
+      "text": "<p>The end time of the overall period.</p>",
+      "qname": "overallEndTime",
+      "type": "DatatypeProperty",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/overallEndTime\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z",
+          "docId": "its-time",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "guid": "ae5555c4-65f4-478f-9bf8-3a7dffda3f6d",
+      "heading": "overallStartTime",
+      "text": "<p>The start time of the overall period.</p>",
+      "qname": "overallStartTime",
+      "type": "DatatypeProperty",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/overallStartTime\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z",
+          "docId": "its-time",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "guid": "f165e9f2-9e26-4a14-9d8a-bf914518569a",
+      "heading": "reverseInstance",
+      "text": "<p>If true, the instance of day/week within the month is counted from the end of the month.</p>",
+      "qname": "reverseInstance",
+      "type": "DatatypeProperty",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/reverseInstance\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z",
+          "docId": "its-time",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "guid": "ff0f6b08-49d2-4a4a-9c2f-7f2009a10653",
+      "heading": "startOfPeriod",
+      "text": "<p>The start time of the period.</p>",
+      "qname": "startOfPeriod",
+      "type": "DatatypeProperty",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/startOfPeriod\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z",
+          "docId": "its-time",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "guid": "17c68546-70bf-4bae-b659-ae24a19daf4b",
+      "heading": "TimeDataProperty",
+      "text": "<p>A data property to organize all data properties defined in the Time Ontology.</p>",
+      "qname": "TimeDataProperty",
+      "type": "DatatypeProperty",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/TimeDataProperty\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z",
+          "docId": "its-time",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "guid": "09f4f221-38aa-4879-bea5-6accb75829de",
+      "heading": "approvedOn",
+      "text": "<p>A data property to indicate the approval date of an object.</p>",
+      "qname": "approvedOn",
+      "type": "DatatypeProperty",
+      "updated": "2026-11-23T19:02:50.231059",
+      "website": "<p><a href=\"https://w3id.org/itsdata/time/v1/approvedOn\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z",
+          "docId": "its-time",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-24T01:08:19.640Z"
         }
       ]
     }
@@ -2801,7 +4028,7 @@
         },
         {
           "default": false,
-          "key": "DataProperty",
+          "key": "DatatypeProperty",
           "label": "Data Property"
         }
       ]

@@ -2,14 +2,14 @@
   "id": "its-vehicle",
   "guid": "3ddb1063-ae02-4a60-b508-8aa2bd877720",
   "name": "Vehicle Ontology",
-  "lastId": 24,
+  "lastId": 71,
   "createdOn": "2026-08-05T14:28:30.726Z",
   "createdBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "lastChangedOn": "2026-08-13T21:16:50.847Z",
+  "lastChangedOn": "2026-11-23T22:25:12.461Z",
   "lastChangedBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
@@ -966,6 +966,1893 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-05T14:29:07.179Z"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "guid": "d94328c7-efb1-4c10-a1d6-8af705493075",
+      "heading": "GrossMassCharacteristic",
+      "text": "<p>The current mass of the vehicle including passengers and cargo.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/GrossMassCharacteristic.dot.svg",
+      "qname": "GrossMassCharacteristic",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/GrossMassCharacteristic\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "guid": "29c27e86-acd4-4db9-9c24-74090f8dd7d7",
+      "heading": "Vehicle",
+      "text": "<p>A road vehicle.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/Vehicle.dot.svg",
+      "qname": "Vehicle",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/Vehicle\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "guid": "50af07d5-6a82-41b5-8427-25e2fd8b1d2f",
+      "heading": "FuelTypeCharacteristic",
+      "text": "<p>The type of fuel used by a vehicle.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/FuelTypeCharacteristic.dot.svg",
+      "qname": "FuelTypeCharacteristic",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/FuelTypeCharacteristic\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "guid": "92453382-a1d5-447b-8af3-c153740c8715",
+      "heading": "NumberOfAxlesCharacteristic",
+      "text": "<p>The number of axles of the vehicle.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/NumberOfAxlesCharacteristic.dot.svg",
+      "qname": "NumberOfAxlesCharacteristic",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/NumberOfAxlesCharacteristic\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "guid": "227e4dd1-6719-4927-84b4-97235f46aa88",
+      "heading": "VehicleUsageCode",
+      "text": "<p>A code that indicates the usage of a vehicle.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/VehicleUsageCode.dot.svg",
+      "qname": "VehicleUsageCode",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/VehicleUsageCode\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "guid": "33aa664b-28a7-4e3f-b6be-a7efaf9b64e8",
+      "heading": "GoodsTypeCode",
+      "text": "<p>A code that indicates the type of goods (especially hazardous goods) that is carried by a vehicle.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/GoodsTypeCode.dot.svg",
+      "qname": "GoodsTypeCode",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/GoodsTypeCode\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "guid": "070b9b84-5af9-4cf1-b099-cd1453b1f898",
+      "heading": "MaximumAllowedMassCharacteristic",
+      "text": "<p>The maximum permitted mass of the vehicle including passengers and cargo.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/MaximumAllowedMassCharacteristic.dot.svg",
+      "qname": "MaximumAllowedMassCharacteristic",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/MaximumAllowedMassCharacteristic\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "guid": "1dd8f296-e216-46ae-9f02-5b886f2dd851",
+      "heading": "VehicleEquipmentCode",
+      "text": "<p>A code that indicates the type of equipment that is carried by a vehicle.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/VehicleEquipmentCode.dot.svg",
+      "qname": "VehicleEquipmentCode",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/VehicleEquipmentCode\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "guid": "d8bc5ede-ec9a-4c22-88df-1601f8dce961",
+      "heading": "VehicleThing",
+      "text": "<p>A class to organise all classes defined in the Vehicle topic area of the ITS Ontology.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/VehicleThing.dot.svg",
+      "qname": "VehicleThing",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/VehicleThing\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "guid": "553eae4d-3143-456e-bbe5-0b3fe56138db",
+      "heading": "VehicleTypeCharacteristic",
+      "text": "<p>The type of the vehicle.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/VehicleTypeCharacteristic.dot.svg",
+      "qname": "VehicleTypeCharacteristic",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/VehicleTypeCharacteristic\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "guid": "72c8b7d4-7159-49c2-a4af-d3d87cd27c58",
+      "heading": "WidthCharacteristic",
+      "text": "<p>The width of the vehicle, including any features embedded or fixed on it.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/WidthCharacteristic.dot.svg",
+      "qname": "WidthCharacteristic",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/WidthCharacteristic\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "guid": "fda05bff-44f2-4183-aa6b-2fee807c14aa",
+      "heading": "HeaviestAxleMassCharacteristic",
+      "text": "<p>The mass of the heaviest axle of the vehicle.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/HeaviestAxleMassCharacteristic.dot.svg",
+      "qname": "HeaviestAxleMassCharacteristic",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/HeaviestAxleMassCharacteristic\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "guid": "4c6299e9-b739-4423-92ea-692985cdd1d0",
+      "heading": "VehicleUsageCharacteristic",
+      "text": "<p>The usage of the vehicle.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/VehicleUsageCharacteristic.dot.svg",
+      "qname": "VehicleUsageCharacteristic",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/VehicleUsageCharacteristic\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "guid": "2bfc65b1-97c6-4fed-a21d-a44542274b21",
+      "heading": "ChangeabilityCode",
+      "text": "<p>A code that indicates how a vehicle characteristic is expected to change over time and who may update it.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/ChangeabilityCode.dot.svg",
+      "qname": "ChangeabilityCode",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/ChangeabilityCode\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "guid": "0a835951-5387-49ea-8bbd-361c66b296df",
+      "heading": "VehicleCharacteristic",
+      "text": "<p>An observable or asserted characteristic of a vehicle, including how that characteristic is expected to change.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/VehicleCharacteristic.dot.svg",
+      "qname": "VehicleCharacteristic",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/VehicleCharacteristic\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "guid": "23835871-5e51-4ae1-b52a-e689eeeed74c",
+      "heading": "VehicleEquipmentCharacteristic",
+      "text": "<p>Equipment carried or in use on the vehicle.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/VehicleEquipmentCharacteristic.dot.svg",
+      "qname": "VehicleEquipmentCharacteristic",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/VehicleEquipmentCharacteristic\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "guid": "54930e94-457a-49e2-9a1d-9dd7800dbe34",
+      "heading": "EmissionLevelCode",
+      "text": "<p>A code that indicates the emission level of a vehicle.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/EmissionLevelCode.dot.svg",
+      "qname": "EmissionLevelCode",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/EmissionLevelCode\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "guid": "82760092-867a-4519-9e76-f038d97a74b0",
+      "heading": "YearOfFirstRegistrationCharacteristic",
+      "text": "<p>The year of the first registration of the vehicle.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/YearOfFirstRegistrationCharacteristic.dot.svg",
+      "qname": "YearOfFirstRegistrationCharacteristic",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/YearOfFirstRegistrationCharacteristic\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "guid": "2351d705-4804-4729-9e80-e8128e1cbc10",
+      "heading": "HeightCharacteristic",
+      "text": "<p>The height of the vehicle.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/HeightCharacteristic.dot.svg",
+      "qname": "HeightCharacteristic",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/HeightCharacteristic\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "guid": "31a9fe96-5f96-46d6-8c39-36d498d50bb9",
+      "heading": "LoadTypeCharacteristic",
+      "text": "<p>A loading anomaly or load category associated with the vehicle.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/LoadTypeCharacteristic.dot.svg",
+      "qname": "LoadTypeCharacteristic",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/LoadTypeCharacteristic\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "guid": "21d0f155-ee08-4612-bddd-dbf37ac5607b",
+      "heading": "FuelTypeCode",
+      "text": "<p>A code that indicates the type of fuel that is used by a vehicle.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/FuelTypeCode.dot.svg",
+      "qname": "FuelTypeCode",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/FuelTypeCode\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "guid": "39ee5c62-3c07-4f85-aa50-dad884def814",
+      "heading": "KerbMassCharacteristic",
+      "text": "<p>The mass of the vehicle ready to drive without passengers or cargo.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/KerbMassCharacteristic.dot.svg",
+      "qname": "KerbMassCharacteristic",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/KerbMassCharacteristic\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "guid": "17fe0e40-887c-4066-bb92-448487db1162",
+      "heading": "LengthCharacteristic",
+      "text": "<p>The length of the vehicle, including any trailers, couplings and embedded features.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/LengthCharacteristic.dot.svg",
+      "qname": "LengthCharacteristic",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/LengthCharacteristic\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "guid": "99eeb8a8-12b0-4c51-acd1-2dffe5cffdb8",
+      "heading": "EmissionLevelCharacteristic",
+      "text": "<p>The emission classification or emission level of a vehicle.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/EmissionLevelCharacteristic.dot.svg",
+      "qname": "EmissionLevelCharacteristic",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/EmissionLevelCharacteristic\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "guid": "790f1f77-56ed-4610-a7db-f67d6433cab5",
+      "heading": "LoadTypeCode",
+      "text": "<p>A code that indicates categories of load types that can affect the applicability of a regulation.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/LoadTypeCode.dot.svg",
+      "qname": "LoadTypeCode",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/LoadTypeCode\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "guid": "5a9d9485-1a3f-485e-976a-a0ca46bdceb0",
+      "heading": "GoodsTypeCharacteristic",
+      "text": "<p>The type of goods (especially hazardous goods) carried by a vehicle.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/GoodsTypeCharacteristic.dot.svg",
+      "qname": "GoodsTypeCharacteristic",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/GoodsTypeCharacteristic\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "guid": "1f054876-9dd1-4812-964b-56d050cbe994",
+      "heading": "VehicleTypeCode",
+      "text": "<p>A code that indicates the type of vehicle.</p>",
+      "diagram": "https://w3id.org/itsdata/vehicle/v1/diagrams/VehicleTypeCode.dot.svg",
+      "qname": "VehicleTypeCode",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/VehicleTypeCode\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "guid": "8951d90d-a686-4c3d-a084-0680e00d3052",
+      "heading": "VehicleObjectProperty",
+      "text": "<p>An object property to organise all object properties defined in the Vehicle topic area of the ITS Ontology.</p>",
+      "qname": "VehicleObjectProperty",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/VehicleObjectProperty\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "guid": "96bfa69e-2812-4672-a23d-b6c682f5490e",
+      "heading": "hasChangeability",
+      "text": "<p>Indicates how the vehicle characteristic is expected to change and who may update it.</p>",
+      "qname": "hasChangeability",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/hasChangeability\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "guid": "f458cccb-0355-4f3b-8c6b-fdc16132a5b9",
+      "heading": "hasVehicleCharacteristic",
+      "text": "<p>Associates a vehicle with one of its characteristics.</p>",
+      "qname": "hasVehicleCharacteristic",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/hasVehicleCharacteristic\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "guid": "b04dcb0f-65c0-4208-94da-440f92afff5c",
+      "heading": "hasEmissionLevel",
+      "text": "<p>Indicates the emission level of the vehicle.</p>",
+      "qname": "hasEmissionLevel",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/hasEmissionLevel\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "guid": "9a83751c-f7a2-443b-8e24-802691defb1d",
+      "heading": "hasFuelType",
+      "text": "<p>Indicates the type of fuel that is used by the vehicle.</p>",
+      "qname": "hasFuelType",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/hasFuelType\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "guid": "2314d021-c7a9-4f18-abbc-789054be9c6d",
+      "heading": "hasGoodsType",
+      "text": "<p>Indicates the type of goods (especially hazardous goods) being carried by the vehicle.</p>",
+      "qname": "hasGoodsType",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/hasGoodsType\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "guid": "a2738e2f-822c-49ff-a23b-1e3ed6952052",
+      "heading": "hasGrossMass",
+      "text": "<p>Current mass of the vehicle including passengers and cargo.</p>",
+      "qname": "hasGrossMass",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/hasGrossMass\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "guid": "b6d6a9af-bc15-453e-bf64-0bcfe0da707d",
+      "heading": "hasHeaviestAxleMass",
+      "text": "<p>Mass of the heaviest axle of the vehicle.</p>",
+      "qname": "hasHeaviestAxleMass",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/hasHeaviestAxleMass\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "guid": "66820982-b37b-402e-afd2-94c41170f28e",
+      "heading": "hasHeight",
+      "text": "<p>Height of the vehicle.</p>",
+      "qname": "hasHeight",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/hasHeight\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "guid": "c698e166-1711-446b-9c1b-320d47c334b3",
+      "heading": "hasKerbMass",
+      "text": "<p>Mass of the vehicle ready to drive without passengers or cargo.</p>",
+      "qname": "hasKerbMass",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/hasKerbMass\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "62",
+      "guid": "234cbb7c-290f-4a1b-b28a-a4d59121ab04",
+      "heading": "hasLength",
+      "text": "<p>Length of the vehicle, including the length of any trailers, couplings and embedded features.</p>",
+      "qname": "hasLength",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/hasLength\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "63",
+      "guid": "ef46eec6-0994-47c7-8419-e58249265b98",
+      "heading": "hasLoadType",
+      "text": "<p>Indicates any loading anomalies associated with the vehicle.</p>",
+      "qname": "hasLoadType",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/hasLoadType\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "64",
+      "guid": "61f67166-ecbd-4fcc-9fbc-4676d6974d86",
+      "heading": "hasMaximumAllowedMass",
+      "text": "<p>Maximum mass of the vehicle including passengers and cargo.</p>",
+      "qname": "hasMaximumAllowedMass",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/hasMaximumAllowedMass\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "65",
+      "guid": "4cdf7e75-36d5-4458-ad71-50a20f5c7441",
+      "heading": "hasVehicleEquipment",
+      "text": "<p>Indicates the equipment that is carried by the vehicle.</p>",
+      "qname": "hasVehicleEquipment",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/hasVehicleEquipment\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "66",
+      "guid": "7f7c12df-d281-4bf7-b701-c62cc441edd7",
+      "heading": "hasVehicleUsage",
+      "text": "<p>Indicates the usage of the vehicle.</p>",
+      "qname": "hasVehicleUsage",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/hasVehicleUsage\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "67",
+      "guid": "74fd50e0-f6e6-448b-a625-59005087c4cb",
+      "heading": "hasVehicleType",
+      "text": "<p>Indicates the type of the vehicle.</p>",
+      "qname": "hasVehicleType",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/hasVehicleType\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "guid": "538f2371-d080-433e-9633-e7611944f015",
+      "heading": "hasWidth",
+      "text": "<p>Width of the vehicle, including any features embedded or fixed on it.</p>",
+      "qname": "hasWidth",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/hasWidth\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "69",
+      "guid": "b08e87fb-88c3-432a-9207-51f9d73f7ce0",
+      "heading": "VehicleDataProperty",
+      "text": "<p>A datatype property to organise all datatype properties defined in the Vehicle topic area of the ITS Ontology.</p>",
+      "qname": "VehicleDataProperty",
+      "type": "DatatypeProperty",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/VehicleDataProperty\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "70",
+      "guid": "92ed171d-2650-4e29-bfb6-fe4b2923bca5",
+      "heading": "hasNumberOfAxles",
+      "text": "<p>Number of axles of the vehicle.</p>",
+      "qname": "hasNumberOfAxles",
+      "type": "DatatypeProperty",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/hasNumberOfAxles\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
+        }
+      ]
+    },
+    {
+      "id": "71",
+      "guid": "4c8f2140-e534-4727-ad31-5420f2ed78fa",
+      "heading": "yearOfFirstRegistration",
+      "text": "<p>Indicates the year of the first registration of the vehicle.</p>",
+      "qname": "yearOfFirstRegistration",
+      "type": "DatatypeProperty",
+      "updated": "2026-11-23T17:17:02.946265",
+      "website": "<p><a href=\"https://w3id.org/itsdata/vehicle/v1/yearOfFirstRegistration\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z",
+          "docId": "its-vehicle",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:25:12.461Z"
         }
       ]
     }

@@ -2,14 +2,14 @@
   "id": "its-t-network",
   "guid": "6c4ffcd4-fa9b-425a-a324-f4b5bf66d7fa",
   "name": "Transport Network",
-  "lastId": 54,
+  "lastId": 108,
   "createdOn": "2026-08-07T14:47:04.784Z",
   "createdBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "lastChangedOn": "2026-08-13T21:15:52.725Z",
+  "lastChangedOn": "2026-11-23T22:19:31.050Z",
   "lastChangedBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
@@ -2217,6 +2217,2210 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T14:47:37.547Z"
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "guid": "5ff44faf-dd7c-4e17-8f4a-ca309be5c86a",
+      "heading": "ScheduledCode",
+      "text": "<p>A location code identifying a scheduled transport reference (e.g., trip, block, or timing group) in an external registry.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/ScheduledCode.dot.svg",
+      "qname": "ScheduledCode",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/ScheduledCode\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "guid": "399bbace-d0cf-4a5b-bc73-b22e4f225dea",
+      "heading": "RoadNetwork",
+      "text": "<p>A transport network whose members are predominantly road network elements.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/RoadNetwork.dot.svg",
+      "qname": "RoadNetwork",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/RoadNetwork\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "guid": "5959b364-83c6-4abc-bd3e-4a00446c0b21",
+      "heading": "TravelledWaySection",
+      "text": "<p>A linear feature that aggregates or references a contiguous portion of a travelled way.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/TravelledWaySection.dot.svg",
+      "qname": "TravelledWaySection",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/TravelledWaySection\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "guid": "f6264e9d-916a-406c-afa7-60b735ac515f",
+      "heading": "TransportNetworkThing",
+      "text": "<p>Any transport-related geographic feature in the ITS transport-network domain. Subclass of its-location:Feature (and therefore geo:Feature).</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/TransportNetworkThing.dot.svg",
+      "qname": "TransportNetworkThing",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/TransportNetworkThing\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "guid": "9548321d-32e1-4866-91ae-9930d4cb95fd",
+      "heading": "FootpathSection",
+      "text": "<p>A contiguous section of a footpath.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/FootpathSection.dot.svg",
+      "qname": "FootpathSection",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/FootpathSection\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "guid": "e53e4362-ab14-4e91-b763-08741dae3bb3",
+      "heading": "RoadLane",
+      "text": "<p>A lane along a road.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/RoadLane.dot.svg",
+      "qname": "RoadLane",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/RoadLane\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "guid": "9ee699cd-5640-414f-8a9f-0dfc123cfba1",
+      "heading": "FootpathLane",
+      "text": "<p>A lane or channel along a footpath.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/FootpathLane.dot.svg",
+      "qname": "FootpathLane",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/FootpathLane\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "62",
+      "guid": "8a7069ec-0817-47bd-8fcf-118926564ad8",
+      "heading": "PublicTransportSystem",
+      "text": "<p>A transport network describing routes, lines, and related service elements of a public transport system.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/PublicTransportSystem.dot.svg",
+      "qname": "PublicTransportSystem",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/PublicTransportSystem\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "63",
+      "guid": "e0661b9e-f136-448c-b61a-59111956708f",
+      "heading": "FootpathSegment",
+      "text": "<p>A homogeneous segment of a footpath.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/FootpathSegment.dot.svg",
+      "qname": "FootpathSegment",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/FootpathSegment\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "64",
+      "guid": "65e7e6aa-bee3-49f5-925b-7271220336cb",
+      "heading": "TravelledWaySegment",
+      "text": "<p>A linear feature for the smallest homogeneous piece of a travelled way in a given segmentation scheme.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/TravelledWaySegment.dot.svg",
+      "qname": "TravelledWaySegment",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/TravelledWaySegment\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "65",
+      "guid": "8a2902ae-b509-4a7b-a184-ed5c4eadd97f",
+      "heading": "RailNetwork",
+      "text": "<p>A transport network for rail infrastructure.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/RailNetwork.dot.svg",
+      "qname": "RailNetwork",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/RailNetwork\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "66",
+      "guid": "d8d71437-bea0-40d5-b166-94b914d25dc8",
+      "heading": "FootpathNetwork",
+      "text": "<p>A transport network for pedestrian paths.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/FootpathNetwork.dot.svg",
+      "qname": "FootpathNetwork",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/FootpathNetwork\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "67",
+      "guid": "d5a363f2-0c10-4230-a4ab-2aec4e245983",
+      "heading": "PublicTransportRoute",
+      "text": "<p>The linear geometry or reference for a specific public transport route variant.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/PublicTransportRoute.dot.svg",
+      "qname": "PublicTransportRoute",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/PublicTransportRoute\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "guid": "f5d3da4e-cfaa-44ea-bf39-3f9b669a5ec5",
+      "heading": "TravelledWayLane",
+      "text": "<p>A linear feature for a single lane along a travelled way.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/TravelledWayLane.dot.svg",
+      "qname": "TravelledWayLane",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/TravelledWayLane\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "69",
+      "guid": "0a668727-02f3-45e0-961a-31cdbb2376f2",
+      "heading": "TrackSegment",
+      "text": "<p>A homogeneous segment of track.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/TrackSegment.dot.svg",
+      "qname": "TrackSegment",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/TrackSegment\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "70",
+      "guid": "2506d513-2af3-4134-b175-0a17e1749473",
+      "heading": "RoadLink",
+      "text": "<p>A directed road network link between nodes.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/RoadLink.dot.svg",
+      "qname": "RoadLink",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/RoadLink\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "71",
+      "guid": "2407e562-a187-41d8-8916-5a803ee3b408",
+      "heading": "VehicleFlowRate",
+      "text": "<p>A non-feature quantity describing vehicle flow on a network element (not a geo:Feature; use its-location:LocationThing).</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/VehicleFlowRate.dot.svg",
+      "qname": "VehicleFlowRate",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/VehicleFlowRate\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "72",
+      "guid": "8fb7c1b0-38bf-424c-8838-34bf0d0b3dee",
+      "heading": "MicromobilityPath",
+      "text": "<p>A travelled way intended for micromobility modes.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/MicromobilityPath.dot.svg",
+      "qname": "MicromobilityPath",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/MicromobilityPath\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "73",
+      "guid": "a7db0b83-0a6c-4a93-acd4-cc7d74c71945",
+      "heading": "MicromobilityPathSection",
+      "text": "<p>A contiguous section of a micromobility path.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/MicromobilityPathSection.dot.svg",
+      "qname": "MicromobilityPathSection",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/MicromobilityPathSection\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "74",
+      "guid": "98e1e982-eaa1-4b46-ad50-77ba3fd86754",
+      "heading": "MicromobilityPathSegment",
+      "text": "<p>A homogeneous segment of a micromobility path.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/MicromobilityPathSegment.dot.svg",
+      "qname": "MicromobilityPathSegment",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/MicromobilityPathSegment\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "75",
+      "guid": "0b74dd63-0de3-40c6-b814-f481beca4a5c",
+      "heading": "TransportNetwork",
+      "text": "<p>A set of transport network elements (links, nodes, ways) modelled as an its-location:LocationGroup of member its-location:Feature resources.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/TransportNetwork.dot.svg",
+      "qname": "TransportNetwork",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/TransportNetwork\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "76",
+      "guid": "ec6a9e63-27bf-471a-af5c-53ff86a5c521",
+      "heading": "TransportAlertThing",
+      "text": "<p>Any transport-related alerting or event feature.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/TransportAlertThing.dot.svg",
+      "qname": "TransportAlertThing",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/TransportAlertThing\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "77",
+      "guid": "2789a34e-10a6-4387-bf06-2fd8d3704fb7",
+      "heading": "MicromobilityLink",
+      "text": "<p>A directed micromobility link between nodes.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/MicromobilityLink.dot.svg",
+      "qname": "MicromobilityLink",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/MicromobilityLink\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "78",
+      "guid": "70c8fa16-0b29-4be9-ab60-8928320fabb4",
+      "heading": "Junction",
+      "text": "<p>A transport node where two or more travelled ways or links connect.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/Junction.dot.svg",
+      "qname": "Junction",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/Junction\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "79",
+      "guid": "e7a07ac0-c2c7-47ad-892e-d12f963e62d7",
+      "heading": "TravelledWay",
+      "text": "<p>A linear feature representing a generic travelled way (centreline or reference line).</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/TravelledWay.dot.svg",
+      "qname": "TravelledWay",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/TravelledWay\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "80",
+      "guid": "f2d5179f-2cb7-43f4-ab2a-0d4ae47faf3f",
+      "heading": "TravelCorridorSegment",
+      "text": "<p>A segment that is part of a travel corridor.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/TravelCorridorSegment.dot.svg",
+      "qname": "TravelCorridorSegment",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/TravelCorridorSegment\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "81",
+      "guid": "81ce3734-fbf7-40f6-97ff-730b01aa0615",
+      "heading": "PublicTransportElement",
+      "text": "<p>Abstract element of a public transport system (line, route, stop, etc.).</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/PublicTransportElement.dot.svg",
+      "qname": "PublicTransportElement",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/PublicTransportElement\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "82",
+      "guid": "f357aee3-8ae1-4d01-804e-02fee8504c93",
+      "heading": "TravelledWayLink",
+      "text": "<p>A linear feature representing a directed edge between two transport nodes in a network graph.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/TravelledWayLink.dot.svg",
+      "qname": "TravelledWayLink",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/TravelledWayLink\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "83",
+      "guid": "7d1c9ed4-cc02-4abc-ac84-59232bb1538c",
+      "heading": "PublicTransportLine",
+      "text": "<p>The linear geometry or reference for a public transport line (service corridor).</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/PublicTransportLine.dot.svg",
+      "qname": "PublicTransportLine",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/PublicTransportLine\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "84",
+      "guid": "4138ab77-d18f-47d5-9ded-872f97fea9ad",
+      "heading": "MicromobilityLane",
+      "text": "<p>A lane along a micromobility path.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/MicromobilityLane.dot.svg",
+      "qname": "MicromobilityLane",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/MicromobilityLane\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "85",
+      "guid": "33460094-c7da-478a-931f-fe1f1c3e2fc7",
+      "heading": "TransportAlert",
+      "text": "<p>A feature representing a transport alert with spatial extent described by ITS Location geometries.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/TransportAlert.dot.svg",
+      "qname": "TransportAlert",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/TransportAlert\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "86",
+      "guid": "c6deaad1-e549-44af-b17e-13459413235b",
+      "heading": "Footpath",
+      "text": "<p>A travelled way intended primarily for pedestrians.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/Footpath.dot.svg",
+      "qname": "Footpath",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/Footpath\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "87",
+      "guid": "e4354128-e4e7-49db-9bae-97fdb9c9e046",
+      "heading": "NetworkElement",
+      "text": "<p>Abstract transport network element; concrete instances specialize using its-location:LinearFeature, its-location:PointFeature, its-location:AreaFeature, or its-location:LocationGroup.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/NetworkElement.dot.svg",
+      "qname": "NetworkElement",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/NetworkElement\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "88",
+      "guid": "b287c41f-56f1-446d-a886-0db6b4510466",
+      "heading": "RoadLinkUserType",
+      "text": "<p>A code classifying users permitted or typical on a road link.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/RoadLinkUserType.dot.svg",
+      "qname": "RoadLinkUserType",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/RoadLinkUserType\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "89",
+      "guid": "892add76-357a-4fec-a61d-b8b9251285c0",
+      "heading": "RailSection",
+      "text": "<p>A contiguous section of a rail alignment.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/RailSection.dot.svg",
+      "qname": "RailSection",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/RailSection\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "90",
+      "guid": "2c878371-0bec-45ab-9bde-7778638d33fa",
+      "heading": "RoadSegment",
+      "text": "<p>A homogeneous segment of a road.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/RoadSegment.dot.svg",
+      "qname": "RoadSegment",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/RoadSegment\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "91",
+      "guid": "9f04d851-f77b-4560-b992-e073f5811a10",
+      "heading": "TrackLink",
+      "text": "<p>A directed rail track link between nodes.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/TrackLink.dot.svg",
+      "qname": "TrackLink",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/TrackLink\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "92",
+      "guid": "5466b6d1-e391-4fab-bcf9-cc9b05c0fde2",
+      "heading": "RailCorridor",
+      "text": "<p>A two-dimensional rail corridor footprint or influence area.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/RailCorridor.dot.svg",
+      "qname": "RailCorridor",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/RailCorridor\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "93",
+      "guid": "b87a9ea0-2f48-4ff5-8e59-96d9bc3dbb01",
+      "heading": "RoadSection",
+      "text": "<p>A contiguous section of a road in a road referencing scheme.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/RoadSection.dot.svg",
+      "qname": "RoadSection",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/RoadSection\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "94",
+      "guid": "b02803d3-3b84-42ef-8284-78bcb64e0d75",
+      "heading": "MicromobilityNetwork",
+      "text": "<p>A transport network for micromobility (e.g., cycle, scooter) paths.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/MicromobilityNetwork.dot.svg",
+      "qname": "MicromobilityNetwork",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/MicromobilityNetwork\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "95",
+      "guid": "cb50a31a-0bc9-4c5b-a9df-f2250069d949",
+      "heading": "PublicTransportSystemThing",
+      "text": "<p>Any public transport service or infrastructure feature.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/PublicTransportSystemThing.dot.svg",
+      "qname": "PublicTransportSystemThing",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/PublicTransportSystemThing\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "96",
+      "guid": "6e94667c-5993-4a65-8e20-d8a00218a339",
+      "heading": "PointOnRoute",
+      "text": "<p>A point feature locating a stop, timing point, or other position on a route.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/PointOnRoute.dot.svg",
+      "qname": "PointOnRoute",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/PointOnRoute\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "97",
+      "guid": "084c41a0-e7af-4872-9ec1-a1bfa9ea36fa",
+      "heading": "TravelCorridorLink",
+      "text": "<p>A directed link that is part of a travel corridor network.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/TravelCorridorLink.dot.svg",
+      "qname": "TravelCorridorLink",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/TravelCorridorLink\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "98",
+      "guid": "1bcca148-bc1e-4570-8160-0de92b3b0112",
+      "heading": "Road",
+      "text": "<p>A travelled way intended for motor vehicle or mixed road traffic.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/Road.dot.svg",
+      "qname": "Road",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/Road\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "99",
+      "guid": "ff83fb28-c113-4ef7-884b-185b5072cf8c",
+      "heading": "RoutePoint",
+      "text": "<p>A point feature along a route alignment (e.g., shape point or service point).</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/RoutePoint.dot.svg",
+      "qname": "RoutePoint",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/RoutePoint\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "100",
+      "guid": "857e8bab-2b19-426e-b16a-d165e5d08584",
+      "heading": "TransportNode",
+      "text": "<p>A point feature at which network links may meet or which anchors linear topology.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/TransportNode.dot.svg",
+      "qname": "TransportNode",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/TransportNode\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "101",
+      "guid": "26cc7711-37fc-4e70-a2ed-e9cf031f4ddc",
+      "heading": "FootpathLink",
+      "text": "<p>A directed footpath link between nodes.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/FootpathLink.dot.svg",
+      "qname": "FootpathLink",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/FootpathLink\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "guid": "f1fd2009-ad32-4e05-abb3-0932fd917611",
+      "heading": "TravelCorridor",
+      "text": "<p>A linear reference for a travel corridor axis (multimodal or policy corridor).</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/TravelCorridor.dot.svg",
+      "qname": "TravelCorridor",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/TravelCorridor\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "103",
+      "guid": "3b9b5e65-7cb2-4113-96b5-bebaf5718db0",
+      "heading": "GroupOfLines",
+      "text": "<p>A group of public transport lines modelled as an its-location:LocationGroup.</p>",
+      "diagram": "https://w3id.org/itsdata/transport-network/v1/diagrams/GroupOfLines.dot.svg",
+      "qname": "GroupOfLines",
+      "type": "Class",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/GroupOfLines\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "104",
+      "guid": "c405af13-a2ef-4a32-9231-fed728ad5721",
+      "heading": "TransportNetworkObjectProperty",
+      "text": "<p>Super-property for transport network topology and composition.</p>",
+      "qname": "TransportNetworkObjectProperty",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/TransportNetworkObjectProperty\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "105",
+      "guid": "312a3f32-84a7-4fd1-ad02-0f0df52cedb5",
+      "heading": "hasStartNode",
+      "text": "<p>The directed start node of a network link (topology), represented as an its-location:PointFeature.</p>",
+      "qname": "hasStartNode",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/hasStartNode\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "106",
+      "guid": "c31edf0a-1aee-4769-b3fc-0ab99e1fba7f",
+      "heading": "hasEndNode",
+      "text": "<p>The directed end node of a network link (topology), represented as an its-location:PointFeature.</p>",
+      "qname": "hasEndNode",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/hasEndNode\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "107",
+      "guid": "db0a2858-3d3b-493a-b3a5-d9c3046a577f",
+      "heading": "partOfTravelledWay",
+      "text": "<p>Relates a section, segment, or lane feature to the parent travelled way it refines.</p>",
+      "qname": "partOfTravelledWay",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/partOfTravelledWay\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
+        }
+      ]
+    },
+    {
+      "id": "108",
+      "guid": "e8f724c8-2153-4bb7-90f5-1b98b800c543",
+      "heading": "partOfTravelCorridor",
+      "text": "<p>Relates a corridor link or corridor segment feature to the parent travel corridor feature.</p>",
+      "qname": "partOfTravelCorridor",
+      "type": "ObjectProperty",
+      "updated": "2026-11-23T17:11:50.440355",
+      "website": "<p><a href=\"https://w3id.org/itsdata/transport-network/v1/partOfTravelCorridor\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z",
+          "docId": "its-t-network",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:19:31.050Z"
         }
       ]
     }

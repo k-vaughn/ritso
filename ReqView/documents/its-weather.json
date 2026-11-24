@@ -2,14 +2,14 @@
   "id": "its-weather",
   "guid": "8ab8cf52-4b69-481b-92bb-82d2278557eb",
   "name": "Road Weather",
-  "lastId": 6,
+  "lastId": 8,
   "createdOn": "2026-08-07T14:49:40.223Z",
   "createdBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "lastChangedOn": "2026-08-07T16:00:24.277Z",
+  "lastChangedOn": "2026-11-23T22:24:45.373Z",
   "lastChangedBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
@@ -24,7 +24,7 @@
       "diagram": "https://w3id.org/itsdata/weather/v1/diagrams/WeatherThing.dot.svg",
       "qname": "WeatherThing",
       "type": "Class",
-      "updated": "2026-08-07T11:59:38.522554",
+      "updated": "2026-11-23T17:17:37.867071",
       "website": "<p><a href=\"https://w3id.org/itsdata/weather/v1/WeatherThing\">Web</a></p>",
       "history": [
         {
@@ -66,6 +66,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T16:00:24.277Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-07T11:59:38.522554"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:24:45.373Z"
         }
       ]
     },
@@ -77,7 +88,7 @@
       "diagram": "https://w3id.org/itsdata/weather/v1/diagrams/RoadWeatherConditionCode.dot.svg",
       "qname": "RoadWeatherConditionCode",
       "type": "Class",
-      "updated": "2026-08-07T11:59:38.522554",
+      "updated": "2026-11-23T17:17:37.867071",
       "website": "<p><a href=\"https://w3id.org/itsdata/weather/v1/RoadWeatherConditionCode\">Web</a></p>",
       "history": [
         {
@@ -119,6 +130,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T16:00:24.277Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-07T11:59:38.522554"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:24:45.373Z"
         }
       ]
     },
@@ -129,7 +151,7 @@
       "text": "<p>Organizational super-property for object properties within the weather topic area of the ITS domain.</p>",
       "qname": "WeatherObjectProperty",
       "type": "ObjectProperty",
-      "updated": "2026-08-07T11:59:38.522554",
+      "updated": "2026-11-23T17:17:37.867071",
       "website": "<p><a href=\"https://w3id.org/itsdata/weather/v1/WeatherObjectProperty\">Web</a></p>",
       "history": [
         {
@@ -170,6 +192,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T16:00:24.277Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-07T11:59:38.522554"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:24:45.373Z"
         }
       ]
     },
@@ -180,7 +213,7 @@
       "text": "<p>Organizational super-property for data properties within the weather topic area of the ITS domain.</p>",
       "qname": "WeatherDataProperty",
       "type": "DatatypeProperty",
-      "updated": "2026-08-07T11:59:38.522554",
+      "updated": "2026-11-23T17:17:37.867071",
       "website": "<p><a href=\"https://w3id.org/itsdata/weather/v1/WeatherDataProperty\">Web</a></p>",
       "history": [
         {
@@ -221,6 +254,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T16:00:24.277Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-07T11:59:38.522554"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:24:45.373Z"
         }
       ]
     },
@@ -303,6 +347,88 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-07T16:00:24.277Z"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "guid": "08f3f32f-d814-4d54-aa90-82ae959a3cc5",
+      "heading": "PollutantTypeCode",
+      "text": "<p>A code that indicates the types of pollutants that can affect the applicability of a regulation.</p>",
+      "diagram": "https://w3id.org/itsdata/weather/v1/diagrams/PollutantTypeCode.dot.svg",
+      "qname": "PollutantTypeCode",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:37.867071",
+      "website": "<p><a href=\"https://w3id.org/itsdata/weather/v1/PollutantTypeCode\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:24:45.373Z",
+          "docId": "its-weather",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:24:45.373Z"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "guid": "ddd9f827-fec6-40e2-b756-b616006b13af",
+      "heading": "AirQualityStateCode",
+      "text": "<p>A code that indicates the types of air quality states that can affect the applicability of a regulation.</p>",
+      "diagram": "https://w3id.org/itsdata/weather/v1/diagrams/AirQualityStateCode.dot.svg",
+      "qname": "AirQualityStateCode",
+      "type": "Class",
+      "updated": "2026-11-23T17:17:37.867071",
+      "website": "<p><a href=\"https://w3id.org/itsdata/weather/v1/AirQualityStateCode\">Web</a></p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:24:45.373Z",
+          "docId": "its-weather",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "diagram": null,
+            "heading": null,
+            "qname": null,
+            "text": null,
+            "type": null,
+            "updated": null,
+            "website": null
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:24:45.373Z"
         }
       ]
     }

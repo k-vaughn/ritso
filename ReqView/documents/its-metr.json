@@ -9,7 +9,7 @@
     "email": "kvaughn@trevilon.com",
     "company": "Trevilon"
   },
-  "lastChangedOn": "2026-08-03T19:45:41.976Z",
+  "lastChangedOn": "2026-11-23T22:17:50.517Z",
   "lastChangedBy": {
     "name": "Ken Vaughn",
     "email": "kvaughn@trevilon.com",
@@ -24,7 +24,7 @@
       "diagram": "https://w3id.org/itsdata/metr/v1/diagrams/MetrThing.dot.svg",
       "qname": "MetrThing",
       "type": "Class",
-      "updated": "2026-08-03T15:45:22.516581",
+      "updated": "2026-11-23T17:02:57.073159",
       "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/MetrThing\">Web</a></p>",
       "history": [
         {
@@ -88,19 +88,30 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:45:41.976Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T15:45:22.516581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:17:50.517Z"
         }
       ]
     },
     {
       "id": "2",
       "guid": "93e26060-1f2e-4a34-a631-24d9c77d3750",
-      "heading": "SupportedRegulationCategory",
+      "heading": "MetrSupportedRegulationCategory",
       "text": "<p>One or more regulation categories for which all known regulations of the regulation category are available for the identified area and for the identified vehicle classes.</p>",
-      "diagram": "https://w3id.org/itsdata/metr/v1/diagrams/SupportedRegulationCategory.dot.svg",
-      "qname": "SupportedRegulationCategory",
+      "diagram": "https://w3id.org/itsdata/metr/v1/diagrams/MetrSupportedRegulationCategory.dot.svg",
+      "qname": "MetrSupportedRegulationCategory",
       "type": "Class",
-      "updated": "2026-08-03T15:45:22.516581",
-      "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/SupportedRegulationCategory\">Web</a></p>",
+      "updated": "2026-11-23T17:02:57.073159",
+      "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/MetrSupportedRegulationCategory\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -152,19 +163,34 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:45:41.976Z"
+        },
+        {
+          "attributesChanged": {
+            "diagram": "https://w3id.org/itsdata/metr/v1/diagrams/SupportedRegulationCategory.dot.svg",
+            "heading": "SupportedRegulationCategory",
+            "qname": "SupportedRegulationCategory",
+            "updated": "2026-08-03T15:45:22.516581",
+            "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/SupportedRegulationCategory\">Web</a></p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:17:50.517Z"
         }
       ]
     },
     {
       "id": "3",
       "guid": "101eff8d-3752-4e19-a53e-b63dd263623f",
-      "heading": "DefinedArea",
+      "heading": "MetrCoveredArea",
       "text": "<p>A geographic area that is covered by the catalogue.</p>",
-      "diagram": "https://w3id.org/itsdata/metr/v1/diagrams/DefinedArea.dot.svg",
-      "qname": "DefinedArea",
+      "diagram": "https://w3id.org/itsdata/metr/v1/diagrams/MetrCoveredArea.dot.svg",
+      "qname": "MetrCoveredArea",
       "type": "Class",
-      "updated": "2026-08-03T15:45:22.516581",
-      "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/DefinedArea\">Web</a></p>",
+      "updated": "2026-11-23T17:02:57.073159",
+      "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/MetrCoveredArea\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -216,6 +242,21 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:45:41.976Z"
+        },
+        {
+          "attributesChanged": {
+            "diagram": "https://w3id.org/itsdata/metr/v1/diagrams/DefinedArea.dot.svg",
+            "heading": "DefinedArea",
+            "qname": "DefinedArea",
+            "updated": "2026-08-03T15:45:22.516581",
+            "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/DefinedArea\">Web</a></p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:17:50.517Z"
         }
       ]
     },
@@ -227,7 +268,7 @@
       "diagram": "https://w3id.org/itsdata/metr/v1/diagrams/Catalogue.dot.svg",
       "qname": "Catalogue",
       "type": "Class",
-      "updated": "2026-08-03T15:45:22.516581",
+      "updated": "2026-11-23T17:02:57.073159",
       "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/Catalogue\">Web</a></p>",
       "history": [
         {
@@ -280,18 +321,29 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:45:41.976Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T15:45:22.516581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:17:50.517Z"
         }
       ]
     },
     {
       "id": "5",
       "guid": "dbe45fd1-fd54-4ccd-9482-f0559b13d4b5",
-      "heading": "applicableVehicleType",
-      "text": "<p>A vehicle type for which the all known regulations of the regulation category are available for the identified area.</p>",
-      "qname": "applicableVehicleType",
+      "heading": "supportedVehicleCategory",
+      "text": "<p>A vehicle type for which all known regulations of the regulation category are available for the identified area.</p>",
+      "qname": "supportedVehicleCategory",
       "type": "ObjectProperty",
-      "updated": "2026-08-03T15:45:22.516581",
-      "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/applicableVehicleType\">Web</a></p>",
+      "updated": "2026-11-23T17:02:57.073159",
+      "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/supportedVehicleCategory\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -342,6 +394,21 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:45:41.976Z"
+        },
+        {
+          "attributesChanged": {
+            "heading": "applicableVehicleType",
+            "qname": "applicableVehicleType",
+            "text": "<p>A vehicle type for which the all known regulations of the regulation category are available for the identified area.</p>",
+            "updated": "2026-08-03T15:45:22.516581",
+            "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/applicableVehicleType\">Web</a></p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:17:50.517Z"
         }
       ]
     },
@@ -352,7 +419,7 @@
       "text": "<p>A regulation category for which all known regulations of the regulation category are available for the identified area and for the identified vehicle classes.</p>",
       "qname": "availableRegulationCategory",
       "type": "ObjectProperty",
-      "updated": "2026-08-03T15:45:22.516581",
+      "updated": "2026-11-23T17:02:57.073159",
       "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/availableRegulationCategory\">Web</a></p>",
       "history": [
         {
@@ -404,6 +471,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:45:41.976Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T15:45:22.516581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:17:50.517Z"
         }
       ]
     },
@@ -414,7 +492,7 @@
       "text": "<p>A cyber location for which all known emergent regulations of the regulation category are available for the identified area and for the identified vehicle classes.</p>",
       "qname": "cyberLocation",
       "type": "ObjectProperty",
-      "updated": "2026-08-03T15:45:22.516581",
+      "updated": "2026-11-23T17:02:57.073159",
       "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/cyberLocation\">Web</a></p>",
       "history": [
         {
@@ -466,6 +544,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:45:41.976Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T15:45:22.516581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:17:50.517Z"
         }
       ]
     },
@@ -476,7 +565,7 @@
       "text": "<p>A geographic area covered by the catalogue.</p>",
       "qname": "subjectArea",
       "type": "ObjectProperty",
-      "updated": "2026-08-03T15:45:22.516581",
+      "updated": "2026-11-23T17:02:57.073159",
       "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/subjectArea\">Web</a></p>",
       "history": [
         {
@@ -528,18 +617,29 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:45:41.976Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T15:45:22.516581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:17:50.517Z"
         }
       ]
     },
     {
       "id": "9",
       "guid": "ef1894b7-c356-4951-8045-67bae801da74",
-      "heading": "supportedEmergentRegulation",
+      "heading": "supportedEmergentRegulationCategory",
       "text": "<p>A regulation category for which all known emergent instances of the regulation category for the identified area and for the identified vehicle classes are made available via the indicated cyber location.</p>",
-      "qname": "supportedEmergentRegulation",
+      "qname": "supportedEmergentRegulationCategory",
       "type": "ObjectProperty",
-      "updated": "2026-08-03T15:45:22.516581",
-      "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/supportedEmergentRegulation\">Web</a></p>",
+      "updated": "2026-11-23T17:02:57.073159",
+      "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/supportedEmergentRegulationCategory\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -590,18 +690,32 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:45:41.976Z"
+        },
+        {
+          "attributesChanged": {
+            "heading": "supportedEmergentRegulation",
+            "qname": "supportedEmergentRegulation",
+            "updated": "2026-08-03T15:45:22.516581",
+            "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/supportedEmergentRegulation\">Web</a></p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:17:50.517Z"
         }
       ]
     },
     {
       "id": "10",
       "guid": "deb5d4ca-fa08-42d4-bff1-380937b9d2a8",
-      "heading": "supportedPreAnnouncedRegulation",
+      "heading": "supportedPreAnnouncedRegulationCategory",
       "text": "<p>A regulation category for which all known pre-announced instances of the regulation category are maintained for the identified area and for the identified vehicle classes.</p>",
-      "qname": "supportedPreAnnouncedRegulation",
+      "qname": "supportedPreAnnouncedRegulationCategory",
       "type": "ObjectProperty",
-      "updated": "2026-08-03T15:45:22.516581",
-      "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/supportedPreAnnouncedRegulation\">Web</a></p>",
+      "updated": "2026-11-23T17:02:57.073159",
+      "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/supportedPreAnnouncedRegulationCategory\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -652,18 +766,32 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:45:41.976Z"
+        },
+        {
+          "attributesChanged": {
+            "heading": "supportedPreAnnouncedRegulation",
+            "qname": "supportedPreAnnouncedRegulation",
+            "updated": "2026-08-03T15:45:22.516581",
+            "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/supportedPreAnnouncedRegulation\">Web</a></p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:17:50.517Z"
         }
       ]
     },
     {
       "id": "11",
       "guid": "d5738582-2919-4152-8d82-41b769618f0d",
-      "heading": "usesRegulationCodeList",
+      "heading": "usesRegulationCategoryCodeList",
       "text": "<p>A code list that is used to indicate which categories of regulations are currently available for the identified areas.</p>",
-      "qname": "usesRegulationCodeList",
+      "qname": "usesRegulationCategoryCodeList",
       "type": "ObjectProperty",
-      "updated": "2026-08-03T15:45:22.516581",
-      "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/usesRegulationCodeList\">Web</a></p>",
+      "updated": "2026-11-23T17:02:57.073159",
+      "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/usesRegulationCategoryCodeList\">Web</a></p>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -714,6 +842,20 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:45:41.976Z"
+        },
+        {
+          "attributesChanged": {
+            "heading": "usesRegulationCodeList",
+            "qname": "usesRegulationCodeList",
+            "updated": "2026-08-03T15:45:22.516581",
+            "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/usesRegulationCodeList\">Web</a></p>"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:17:50.517Z"
         }
       ]
     },
@@ -724,7 +866,7 @@
       "text": "<p>Organizational super-property for core object properties used for the management of electronic traffic regulations (METR).</p>",
       "qname": "MetrObjectProperty",
       "type": "ObjectProperty",
-      "updated": "2026-08-03T15:45:22.516581",
+      "updated": "2026-11-23T17:02:57.073159",
       "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/MetrObjectProperty\">Web</a></p>",
       "history": [
         {
@@ -776,6 +918,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:45:41.976Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T15:45:22.516581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:17:50.517Z"
         }
       ]
     },
@@ -786,7 +939,7 @@
       "text": "<p>Organizational super-property for core data properties used for the management of electronic traffic regulations (METR).</p>",
       "qname": "MetrDataProperty",
       "type": "DatatypeProperty",
-      "updated": "2026-08-03T15:45:22.516581",
+      "updated": "2026-11-23T17:02:57.073159",
       "website": "<p><a href=\"https://w3id.org/itsdata/metr/v1/MetrDataProperty\">Web</a></p>",
       "history": [
         {
@@ -838,6 +991,17 @@
             "name": "Ken Vaughn"
           },
           "changedOn": "2026-08-03T19:45:41.976Z"
+        },
+        {
+          "attributesChanged": {
+            "updated": "2026-08-03T15:45:22.516581"
+          },
+          "changedBy": {
+            "company": "Trevilon",
+            "email": "kvaughn@trevilon.com",
+            "name": "Ken Vaughn"
+          },
+          "changedOn": "2026-11-23T22:17:50.517Z"
         }
       ]
     }
